@@ -1,0 +1,302 @@
+Sport,Season,Rank,Team,W,L
+MBA,2019-20,1,UCLA,13,2
+MBA,2019-20,2,Florida,16,1
+MBA,2019-20,3,Alabama,16,1
+MBA,2019-20,4,Ole Miss,16,1
+MBA,2019-20,5,East Carolina,13,4
+MBA,2019-20,6,Oklahoma,14,4
+MBA,2019-20,7,Miami (FL),12,4
+MBA,2019-20,8,Clemson,14,3
+MBA,2019-20,9,Oklahoma State,13,5
+MBA,2019-20,10,Cal State Northridge,10,5
+MBA,2019-20,11,Northeastern,10,5
+MBA,2019-20,12,North Carolina State,14,3
+MBA,2019-20,13,Texas A&M,15,3
+MBA,2019-20,14,UTA,12,4
+MBA,2019-20,15,TCU,11,4
+MBA,2019-20,16,Wichita State,13,2
+MBA,2019-20,17,Wright State,6,9
+MBA,2019-20,18,Florida State,12,5
+MBA,2019-20,19,West Virginia,11,5
+MBA,2019-20,20,UC Santa Barbara,13,2
+MBA,2019-20,21,Georgia,14,4
+MBA,2019-20,22,UCF,15,3
+MBA,2019-20,23,Xavier,5,10
+MBA,2019-20,24,San Diego,12,4
+MBA,2019-20,25,Illinois State,7,9
+MBA,2019-20,26,Dallas Baptist,12,4
+MBA,2019-20,27,Tulane,15,2
+MBA,2019-20,28,Kent State,7,7
+MBA,2019-20,29,Georgia Southern,11,5
+MBA,2019-20,30,FAU,10,6
+MBA,2019-20,31,Notre Dame,11,2
+MBA,2019-20,32,Pepperdine,12,3
+MBA,2019-20,33,Coastal Carolina,11,5
+MBA,2019-20,34,Texas,14,3
+MBA,2019-20,35,Louisville,13,4
+MBA,2019-20,36,Southern Miss,12,4
+MBA,2019-20,37,LSU,12,5
+MBA,2019-20,38,Iowa,9,5
+MBA,2019-20,39,Indiana,9,6
+MBA,2019-20,40,Mercer,13,3
+MBA,2019-20,41,Santa Clara,12,5
+MBA,2019-20,42,Arizona State,13,4
+MBA,2019-20,43,San Diego State,10,6
+MBA,2019-20,44,Texas Tech,16,3
+MBA,2019-20,45,Arizona,10,5
+MBA,2019-20,46,USC,10,5
+MBA,2019-20,47,Arkansas,11,5
+MBA,2019-20,48,Middle Tennessee,7,10
+MBA,2019-20,49,Southern Illinois,12,6
+MBA,2019-20,50,Mississippi State,12,4
+MBA,2019-20,51,Charleston,12,2
+MBA,2019-20,52,Oregon State,5,9
+MBA,2019-20,53,Utah,6,7
+MBA,2019-20,54,Northwestern State,12,4
+MBA,2019-20,55,Georgia Tech,11,5
+MBA,2019-20,56,East Tennessee State,12,3
+MBA,2019-20,57,Virginia Tech,11,5
+MBA,2019-20,58,Vanderbilt,13,5
+MBA,2019-20,59,Penn,3,5
+MBA,2019-20,60,Eastern Illinois,8,6
+MBA,2019-20,61,Virginia,14,4
+MBA,2019-20,62,Appalachian State,10,6
+MBA,2019-20,63,Western Michigan,9,6
+MBA,2019-20,64,Michigan,8,7
+MBA,2019-20,65,New Mexico,14,4
+MBA,2019-20,66,Illinois,8,5
+MBA,2019-20,67,Louisiana Tech,11,6
+MBA,2019-20,68,North Carolina,12,7
+MBA,2019-20,69,ULM,12,5
+MBA,2019-20,70,Northwestern,6,7
+MBA,2019-20,71,Rhode Island,8,5
+MBA,2019-20,72,UNCG,12,4
+MBA,2019-20,73,Connecticut,8,5
+MBA,2019-20,74,UNCW,11,5
+MBA,2019-20,75,Long Beach State,10,5
+MBA,2019-20,76,Abilene Christian,7,8
+MBA,2019-20,77,New Mexico State,12,4
+MBA,2019-20,78,Duke,12,4
+MBA,2019-20,79,Maryland,10,5
+MBA,2019-20,80,New Orleans,10,6
+MBA,2019-20,81,Belmont,14,3
+MBA,2019-20,82,Hawaii,9,6
+MBA,2019-20,83,Lipscomb,11,5
+MBA,2019-20,84,BYU,7,9
+MBA,2019-20,85,UC Riverside,9,7
+MBA,2019-20,86,Incarnate Word,9,7
+MBA,2019-20,87,Missouri,11,5
+MBA,2019-20,88,Kentucky,11,6
+MBA,2019-20,89,Villanova,9,5
+MBA,2019-20,90,Liberty,10,7
+MBA,2019-20,91,Grand Canyon,9,9
+MBA,2019-20,92,Youngstown State,7,7
+MBA,2019-20,93,Tennessee,15,2
+MBA,2019-20,94,Central Michigan,11,6
+MBA,2019-20,95,UC Irvine,8,7
+MBA,2019-20,96,Western Kentucky,10,6
+MBA,2019-20,97,Hartford,6,6
+MBA,2019-20,98,Samford,13,2
+MBA,2019-20,99,Wofford,14,3
+MBA,2019-20,100,Indiana State,8,6
+MBA,2019-20,101,Radford,9,8
+MBA,2019-20,102,South Carolina Upstate,13,5
+MBA,2019-20,103,South Carolina,12,4
+MBA,2019-20,104,Merrimack,6,9
+MBA,2019-20,105,Harvard,1,5
+MBA,2019-20,106,UTSA,10,7
+MBA,2019-20,107,Louisiana,8,9
+MBA,2019-20,108,Loyola-Marymount,8,8
+MBA,2019-20,109,Gonzaga,6,10
+MBA,2019-20,110,Army,6,9
+MBA,2019-20,111,Troy,9,8
+MBA,2019-20,112,VCU,9,8
+MBA,2019-20,113,Seton Hall,6,8
+MBA,2019-20,114,Houston,6,9
+MBA,2019-20,115,Texas State,14,4
+MBA,2019-20,116,UTRGV,11,7
+MBA,2019-20,117,FGCU,9,7
+MBA,2019-20,118,Kansas State,10,7
+MBA,2019-20,119,Rider,6,8
+MBA,2019-20,120,Omaha,10,4
+MBA,2019-20,121,Charlotte,9,8
+MBA,2019-20,122,Jackson State,7,7
+MBA,2019-20,123,James Madison,10,6
+MBA,2019-20,124,Little Rock,9,8
+MBA,2019-20,125,Washington,9,6
+MBA,2019-20,126,Jacksonville,9,9
+MBA,2019-20,127,Washington State,9,7
+MBA,2019-20,128,Holy Cross,5,10
+MBA,2019-20,129,Fordham,10,6
+MBA,2019-20,130,Baylor,10,6
+MBA,2019-20,131,Jacksonville State,7,8
+MBA,2019-20,132,Southern,6,9
+MBA,2019-20,133,Purdue,7,7
+MBA,2019-20,134,Sacramento State,9,7
+MBA,2019-20,135,Saint Mary's College,8,8
+MBA,2019-20,136,Boston College,6,9
+MBA,2019-20,137,SIUE,8,7
+MBA,2019-20,138,Michigan State,9,6
+MBA,2019-20,139,Central Arkansas,8,8
+MBA,2019-20,140,Ohio State,6,8
+MBA,2019-20,141,Gardner-Webb,8,8
+MBA,2019-20,142,Portland,12,4
+MBA,2019-20,143,Towson,7,8
+MBA,2019-20,144,Navy,14,1
+MBA,2019-20,145,Texas Southern,5,12
+MBA,2019-20,146,UNC Asheville,5,11
+MBA,2019-20,147,Pittsburgh,10,6
+MBA,2019-20,148,Cal State Fullerton,4,12
+MBA,2019-20,149,Stephen F. Austin,6,10
+MBA,2019-20,150,Boise State,9,5
+MBA,2019-20,151,Toledo,3,13
+MBA,2019-20,152,Minnesota,8,10
+MBA,2019-20,153,Valparaiso,2,14
+MBA,2019-20,154,Stony Brook,6,9
+MBA,2019-20,155,Memphis,10,7
+MBA,2019-20,156,Saint Louis,10,6
+MBA,2019-20,157,Kansas,7,10
+MBA,2019-20,158,William & Mary,8,9
+MBA,2019-20,159,Old Dominion,12,4
+MBA,2019-20,160,Bryant,4,11
+MBA,2019-20,161,Texas A&M-Corpus Christi,8,10
+MBA,2019-20,162,Southeastern Louisiana,6,10
+MBA,2019-20,163,South Alabama,8,10
+MBA,2019-20,164,South Dakota State,5,12
+MBA,2019-20,165,Eastern Kentucky,12,2
+MBA,2019-20,166,Sam Houston State,7,7
+MBA,2019-20,167,Auburn,13,5
+MBA,2019-20,168,Monmouth,5,9
+MBA,2019-20,169,Yale,3,7
+MBA,2019-20,170,South Florida,6,11
+MBA,2019-20,171,Northern Illinois,7,10
+MBA,2019-20,172,Wake Forest,9,8
+MBA,2019-20,173,Oral Roberts,6,10
+MBA,2019-20,174,Bradley,4,6
+MBA,2019-20,175,FIU,10,5
+MBA,2019-20,176,Rutgers,6,9
+MBA,2019-20,177,North Dakota State,8,9
+MBA,2019-20,178,High Point,7,9
+MBA,2019-20,179,Binghamton,5,7
+MBA,2019-20,180,Fresno State,9,7
+MBA,2019-20,181,Maryland Eastern Shore,4,11
+MBA,2019-20,182,UNLV,6,11
+MBA,2019-20,183,UIC,3,12
+MBA,2019-20,184,Tennessee-Martin,5,11
+MBA,2019-20,185,Air Force,7,12
+MBA,2019-20,186,Albany,7,5
+MBA,2019-20,187,Nebraska,7,8
+MBA,2019-20,188,Miami (OH),8,7
+MBA,2019-20,189,Lamar,7,10
+MBA,2019-20,190,Delaware,8,7
+MBA,2019-20,191,Campbell,7,9
+MBA,2019-20,192,Seattle University,6,9
+MBA,2019-20,193,Murray State,10,7
+MBA,2019-20,194,Evansville,5,11
+MBA,2019-20,195,UAB,7,9
+MBA,2019-20,196,Davidson,13,3
+MBA,2019-20,197,Morehead State,5,10
+MBA,2019-20,198,Nicholls,10,8
+MBA,2019-20,199,Saint Joseph's,5,10
+MBA,2019-20,200,Southeast Missouri,9,8
+MBA,2019-20,201,Dartmouth,2,5
+MBA,2019-20,202,Stetson,11,4
+MBA,2019-20,203,McNeese,10,7
+MBA,2019-20,204,Missouri State,9,8
+MBA,2019-20,205,Niagara,6,10
+MBA,2019-20,206,Kennesaw State,10,8
+MBA,2019-20,207,Arkansas State,7,9
+MBA,2019-20,208,Brown,3,9
+MBA,2019-20,209,Ball State,7,9
+MBA,2019-20,210,Pacific,8,9
+MBA,2019-20,211,Rice,2,14
+MBA,2019-20,212,Long Island,5,7
+MBA,2019-20,213,Princeton,0,7
+MBA,2019-20,214,Florida A&M,5,10
+MBA,2019-20,215,Sacred Heart,6,7
+MBA,2019-20,216,Georgetown,4,13
+MBA,2019-20,217,Cal Poly,5,11
+MBA,2019-20,218,San Francisco,9,8
+MBA,2019-20,219,Winthrop,11,4
+MBA,2019-20,220,Penn State,10,5
+MBA,2019-20,221,California,5,11
+MBA,2019-20,222,Georgia State,9,7
+MBA,2019-20,223,Wagner,6,8
+MBA,2019-20,224,Cincinnati,7,8
+MBA,2019-20,225,Northern Colorado,4,13
+MBA,2019-20,226,UC Davis,9,7
+MBA,2019-20,227,Presbyterian College,2,14
+MBA,2019-20,228,Grambling State,4,10
+MBA,2019-20,229,Oregon,8,7
+MBA,2019-20,230,Alabama State,14,4
+MBA,2019-20,231,Butler,7,6
+MBA,2019-20,232,UMBC,3,10
+MBA,2019-20,233,Siena,0,17
+MBA,2019-20,234,Bucknell,4,12
+MBA,2019-20,235,NJIT,6,10
+MBA,2019-20,236,Utah Valley,5,14
+MBA,2019-20,237,La Salle,5,9
+MBA,2019-20,238,Houston Baptist,6,11
+MBA,2019-20,239,George Washington,8,8
+MBA,2019-20,240,Stanford,5,11
+MBA,2019-20,241,Quinnipiac,3,11
+MBA,2019-20,242,Creighton,5,10
+MBA,2019-20,243,Iona,3,13
+MBA,2019-20,244,UMass,1,8
+MBA,2019-20,245,Alcorn State,5,7
+MBA,2019-20,246,UMass-Lowell,4,11
+MBA,2019-20,247,Fairfield,2,9
+MBA,2019-20,248,Elon,7,10
+MBA,2019-20,249,Cornell,1,8
+MBA,2019-20,250,The Citadel,10,6
+MBA,2019-20,251,Cal State Bakersfield,5,9
+MBA,2019-20,252,Western Carolina,8,8
+MBA,2019-20,253,Lehigh,5,10
+MBA,2019-20,254,Bowling Green,2,11
+MBA,2019-20,255,North Carolina A&T,7,9
+MBA,2019-20,256,Purdue Fort Wayne,5,10
+MBA,2019-20,257,Marist,3,9
+MBA,2019-20,258,Lafayette,4,10
+MBA,2019-20,259,California Baptist,7,8
+MBA,2019-20,260,Saint John's,5,9
+MBA,2019-20,261,Hofstra,4,10
+MBA,2019-20,262,Richmond,5,12
+MBA,2019-20,263,Furman,8,9
+MBA,2019-20,264,Austin Peay,7,10
+MBA,2019-20,265,Maine,1,12
+MBA,2019-20,266,Tennessee Tech,3,12
+MBA,2019-20,267,Dayton,6,8
+MBA,2019-20,268,Bethune-Cookman,6,12
+MBA,2019-20,269,Fairleigh Dickinson,4,9
+MBA,2019-20,270,Manhattan,3,11
+MBA,2019-20,271,Norfolk State,3,13
+MBA,2019-20,272,Chicago State,2,16
+MBA,2019-20,273,Central Connecticut,4,8
+MBA,2019-20,274,Western Illinois,0,13
+MBA,2019-20,275,Oakland,2,10
+MBA,2019-20,276,Saint Bonaventure,3,4
+MBA,2019-20,277,Coppin State,3,10
+MBA,2019-20,278,Canisius,3,11
+MBA,2019-20,279,North Carolina Central,6,11
+MBA,2019-20,280,North Alabama,3,13
+MBA,2019-20,281,Eastern Michigan,1,13
+MBA,2019-20,282,Charleston Southern,7,12
+MBA,2019-20,283,Nevada,2,12
+MBA,2019-20,284,San Jose State,5,12
+MBA,2019-20,285,Marshall,5,10
+MBA,2019-20,286,Columbia,1,7
+MBA,2019-20,287,Northern Kentucky,0,17
+MBA,2019-20,288,George Mason,1,14
+MBA,2019-20,289,Arkansas-Pine Bluff,4,11
+MBA,2019-20,290,Milwaukee,1,14
+MBA,2019-20,291,Ohio,3,12
+MBA,2019-20,292,North Florida,4,12
+MBA,2019-20,293,Saint Peter's,1,15
+MBA,2019-20,294,Longwood,4,13
+MBA,2019-20,295,VMI,4,13
+MBA,2019-20,296,Prairie View A&M,1,14
+MBA,2019-20,297,Alabama A&M,3,14
+MBA,2019-20,298,Akron,1,11
+MBA,2019-20,299,Mount Saint Mary's,2,10
+MBA,2019-20,300,Mississippi Valley State,0,14
+MBA,2019-20,301,Delaware State,3,12

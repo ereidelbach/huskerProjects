@@ -1,0 +1,356 @@
+Sport,Season,Rank,Team,W,L
+WBB,2020-21,1,South Carolina,26,5
+WBB,2020-21,2,Stanford,31,2
+WBB,2020-21,3,North Carolina State,22,3
+WBB,2020-21,4,Texas A&M,25,3
+WBB,2020-21,5,Connecticut,28,2
+WBB,2020-21,6,Louisville,26,4
+WBB,2020-21,7,Baylor,28,3
+WBB,2020-21,8,Maryland,26,3
+WBB,2020-21,9,Missouri State,22,3
+WBB,2020-21,10,Arizona,21,6
+WBB,2020-21,11,Lehigh,10,6
+WBB,2020-21,12,Rice,23,4
+WBB,2020-21,13,Gonzaga,23,4
+WBB,2020-21,14,Georgia,21,7
+WBB,2020-21,15,Kentucky,18,9
+WBB,2020-21,16,West Virginia,22,7
+WBB,2020-21,17,Michigan,16,6
+WBB,2020-21,18,UC Davis,13,3
+WBB,2020-21,19,South Florida,19,4
+WBB,2020-21,20,Tennessee,17,8
+WBB,2020-21,21,Bucknell,9,1
+WBB,2020-21,22,Indiana,21,6
+WBB,2020-21,23,Delaware,23,5
+WBB,2020-21,24,UCF,16,5
+WBB,2020-21,25,Georgia Tech,17,9
+WBB,2020-21,26,Texas,21,10
+WBB,2020-21,27,UCLA,17,6
+WBB,2020-21,28,California Baptist,24,1
+WBB,2020-21,29,Tennessee-Martin,22,6
+WBB,2020-21,30,Iowa,20,10
+WBB,2020-21,31,Arkansas,19,9
+WBB,2020-21,32,South Dakota State,21,4
+WBB,2020-21,33,Iowa State,17,11
+WBB,2020-21,34,Syracuse,14,9
+WBB,2020-21,35,BYU,19,6
+WBB,2020-21,36,Oregon,15,9
+WBB,2020-21,37,Saint Louis,14,5
+WBB,2020-21,38,Idaho State,21,4
+WBB,2020-21,39,Alabama,17,10
+WBB,2020-21,40,Stephen F. Austin,22,3
+WBB,2020-21,41,Jackson State,18,6
+WBB,2020-21,42,Oklahoma State,19,9
+WBB,2020-21,43,Marist,18,4
+WBB,2020-21,44,FGCU,24,3
+WBB,2020-21,45,Belmont,21,6
+WBB,2020-21,46,New Mexico,14,5
+WBB,2020-21,47,UMass,16,8
+WBB,2020-21,48,Virginia Tech,15,10
+WBB,2020-21,49,Villanova,17,7
+WBB,2020-21,50,Ohio State,13,7
+WBB,2020-21,51,Marquette,19,7
+WBB,2020-21,52,Troy,20,6
+WBB,2020-21,53,Northwestern,16,9
+WBB,2020-21,54,Oregon State,11,8
+WBB,2020-21,55,Boston University,12,3
+WBB,2020-21,56,South Dakota,18,6
+WBB,2020-21,57,Drake,18,12
+WBB,2020-21,58,Mount Saint Mary's,17,7
+WBB,2020-21,59,Rutgers,14,5
+WBB,2020-21,60,Colorado State,13,6
+WBB,2020-21,61,Wake Forest,12,13
+WBB,2020-21,62,Houston,17,8
+WBB,2020-21,63,LSU,9,13
+WBB,2020-21,64,Maine,17,3
+WBB,2020-21,65,Tulane,18,9
+WBB,2020-21,66,Howard,15,4
+WBB,2020-21,67,Bowling Green,21,8
+WBB,2020-21,68,Drexel,14,9
+WBB,2020-21,69,Mississippi State,10,9
+WBB,2020-21,70,IUPUI,15,5
+WBB,2020-21,71,Idaho,17,7
+WBB,2020-21,72,Central Michigan,18,9
+WBB,2020-21,73,Milwaukee,20,8
+WBB,2020-21,74,Fordham,12,6
+WBB,2020-21,75,Stony Brook,15,6
+WBB,2020-21,76,Michigan State,15,9
+WBB,2020-21,77,Middle Tennessee,17,8
+WBB,2020-21,78,Ole Miss,15,12
+WBB,2020-21,79,Northern Iowa,17,13
+WBB,2020-21,80,Louisiana,16,8
+WBB,2020-21,81,North Texas,13,7
+WBB,2020-21,82,Washington State,12,12
+WBB,2020-21,83,VCU,16,11
+WBB,2020-21,84,Wright State,19,8
+WBB,2020-21,85,Fresno State,17,11
+WBB,2020-21,86,North Carolina,13,11
+WBB,2020-21,87,Grand Canyon,15,7
+WBB,2020-21,88,Ohio,15,10
+WBB,2020-21,89,Fairfield,11,5
+WBB,2020-21,90,Morgan State,12,4
+WBB,2020-21,91,Notre Dame,10,10
+WBB,2020-21,92,Dayton,14,5
+WBB,2020-21,93,Elon,7,8
+WBB,2020-21,94,San Francisco,15,11
+WBB,2020-21,95,Oklahoma,12,12
+WBB,2020-21,96,Buffalo,15,9
+WBB,2020-21,97,Florida State,10,9
+WBB,2020-21,98,Bradley,16,12
+WBB,2020-21,99,Alabama State,16,4
+WBB,2020-21,100,UTEP,17,8
+WBB,2020-21,101,Towson,12,9
+WBB,2020-21,102,Nebraska,13,13
+WBB,2020-21,103,James Madison,14,10
+WBB,2020-21,104,Wagner,13,6
+WBB,2020-21,105,Sam Houston State,12,8
+WBB,2020-21,106,Hawaii,8,7
+WBB,2020-21,107,Santa Clara,14,11
+WBB,2020-21,108,Wyoming,14,10
+WBB,2020-21,109,Green Bay,15,7
+WBB,2020-21,110,North Carolina A&T,13,3
+WBB,2020-21,111,Illinois State,15,9
+WBB,2020-21,112,High Point,21,7
+WBB,2020-21,113,Creighton,10,12
+WBB,2020-21,114,Kent State,11,9
+WBB,2020-21,115,Richmond,13,9
+WBB,2020-21,116,DePaul,14,10
+WBB,2020-21,117,Holy Cross,7,8
+WBB,2020-21,118,Montana State,17,7
+WBB,2020-21,119,Vanderbilt,4,4
+WBB,2020-21,120,Miami (FL),11,11
+WBB,2020-21,121,UNLV,15,9
+WBB,2020-21,122,Seton Hall,14,7
+WBB,2020-21,123,Liberty,17,8
+WBB,2020-21,124,Cleveland State,13,9
+WBB,2020-21,125,USC,11,12
+WBB,2020-21,126,Cal Poly,13,11
+WBB,2020-21,127,Boise State,13,9
+WBB,2020-21,128,Duke,3,1
+WBB,2020-21,129,Jacksonville State,15,9
+WBB,2020-21,130,Saint Francis (PA),14,9
+WBB,2020-21,131,Pacific,11,11
+WBB,2020-21,132,Rhode Island,11,8
+WBB,2020-21,133,Murray State,16,11
+WBB,2020-21,134,UMass-Lowell,12,9
+WBB,2020-21,135,Louisiana Tech,14,10
+WBB,2020-21,136,Ball State,14,11
+WBB,2020-21,137,Arizona State,12,12
+WBB,2020-21,138,Tennessee Tech,15,10
+WBB,2020-21,139,Missouri,9,13
+WBB,2020-21,140,Old Dominion,13,11
+WBB,2020-21,141,Marshall,8,11
+WBB,2020-21,142,Fairleigh Dickinson,16,8
+WBB,2020-21,143,Temple,11,11
+WBB,2020-21,144,Campbell,16,7
+WBB,2020-21,145,Mercer,18,7
+WBB,2020-21,146,UC Irvine,14,9
+WBB,2020-21,147,Southern,12,11
+WBB,2020-21,148,Florida,12,14
+WBB,2020-21,149,Clemson,12,14
+WBB,2020-21,150,Northeastern,7,13
+WBB,2020-21,151,Manhattan,11,9
+WBB,2020-21,152,Colorado,11,11
+WBB,2020-21,153,Samford,12,11
+WBB,2020-21,154,Alabama A&M,10,7
+WBB,2020-21,155,Northern Illinois,12,12
+WBB,2020-21,156,Appalachian State,15,12
+WBB,2020-21,157,Quinnipiac,13,8
+WBB,2020-21,158,Utah Valley,12,7
+WBB,2020-21,159,UTA,11,7
+WBB,2020-21,160,Northern Arizona,15,14
+WBB,2020-21,161,Long Beach State,11,9
+WBB,2020-21,162,Boston College,7,12
+WBB,2020-21,163,North Dakota State,15,9
+WBB,2020-21,164,Nevada,11,9
+WBB,2020-21,165,Charlotte,10,12
+WBB,2020-21,166,Penn State,9,15
+WBB,2020-21,167,Albany,7,11
+WBB,2020-21,168,Lipscomb,10,10
+WBB,2020-21,169,Little Rock,15,11
+WBB,2020-21,170,Portland,13,13
+WBB,2020-21,171,Southeast Missouri,14,11
+WBB,2020-21,172,Eastern Michigan,10,10
+WBB,2020-21,173,Northern Kentucky,8,11
+WBB,2020-21,174,FIU,12,13
+WBB,2020-21,175,TCU,10,15
+WBB,2020-21,176,Washington,7,14
+WBB,2020-21,177,Kansas State,9,18
+WBB,2020-21,178,Sacred Heart,8,10
+WBB,2020-21,179,Eastern Kentucky,9,15
+WBB,2020-21,180,Hofstra,8,12
+WBB,2020-21,181,San Diego,11,7
+WBB,2020-21,182,Georgia State,12,11
+WBB,2020-21,183,Minnesota,8,13
+WBB,2020-21,184,North Florida,13,11
+WBB,2020-21,185,William & Mary,6,7
+WBB,2020-21,186,New Mexico State,8,12
+WBB,2020-21,187,Northern Colorado,14,12
+WBB,2020-21,188,Saint John's,8,15
+WBB,2020-21,189,Abilene Christian,9,13
+WBB,2020-21,190,Austin Peay,11,11
+WBB,2020-21,191,Utah,5,16
+WBB,2020-21,192,Longwood,14,11
+WBB,2020-21,193,Lamar,10,14
+WBB,2020-21,194,Valparaiso,12,13
+WBB,2020-21,195,Loyola-Chicago,11,15
+WBB,2020-21,196,FAU,10,11
+WBB,2020-21,197,Texas Tech,9,15
+WBB,2020-21,198,Grambling State,10,10
+WBB,2020-21,199,UAB,8,13
+WBB,2020-21,200,Providence,7,14
+WBB,2020-21,201,Chattanooga,14,10
+WBB,2020-21,202,Western Kentucky,7,16
+WBB,2020-21,203,American,7,4
+WBB,2020-21,204,La Salle,12,14
+WBB,2020-21,205,Oakland,12,12
+WBB,2020-21,206,Vermont,4,2
+WBB,2020-21,207,Toledo,12,12
+WBB,2020-21,208,Presbyterian College,11,10
+WBB,2020-21,209,Central Arkansas,13,14
+WBB,2020-21,210,Purdue,7,16
+WBB,2020-21,211,Cincinnati,8,16
+WBB,2020-21,212,Auburn,5,19
+WBB,2020-21,213,Saint Peter's,13,15
+WBB,2020-21,214,Pittsburgh,5,14
+WBB,2020-21,215,Saint Joseph's,6,10
+WBB,2020-21,216,San Jose State,2,2
+WBB,2020-21,217,UC Santa Barbara,7,14
+WBB,2020-21,218,Lafayette,5,8
+WBB,2020-21,219,Texas State,11,11
+WBB,2020-21,220,Saint Mary's College,7,19
+WBB,2020-21,221,Gardner-Webb,11,13
+WBB,2020-21,222,Wofford,12,11
+WBB,2020-21,223,Southeastern Louisiana,11,8
+WBB,2020-21,224,Akron,6,14
+WBB,2020-21,225,San Diego State,7,17
+WBB,2020-21,226,Southern Utah,10,9
+WBB,2020-21,227,Davidson,9,14
+WBB,2020-21,228,Eastern Illinois,11,15
+WBB,2020-21,229,Montana,11,11
+WBB,2020-21,230,Wichita State,6,12
+WBB,2020-21,231,East Carolina,8,14
+WBB,2020-21,232,Portland State,9,13
+WBB,2020-21,233,Southern Illinois,9,16
+WBB,2020-21,234,Georgia Southern,8,13
+WBB,2020-21,235,Siena,4,9
+WBB,2020-21,236,Merrimack,5,10
+WBB,2020-21,237,Loyola-Marymount,7,19
+WBB,2020-21,238,Furman,8,14
+WBB,2020-21,239,Tulsa,5,14
+WBB,2020-21,240,George Washington,8,14
+WBB,2020-21,241,UC San Diego,6,9
+WBB,2020-21,242,Long Island,7,11
+WBB,2020-21,243,Kansas,7,18
+WBB,2020-21,244,Cal State Bakersfield,9,9
+WBB,2020-21,245,Omaha,7,13
+WBB,2020-21,246,Duquesne,5,11
+WBB,2020-21,247,Radford,9,11
+WBB,2020-21,248,Army,9,11
+WBB,2020-21,249,South Alabama,11,13
+WBB,2020-21,250,Nicholls,10,14
+WBB,2020-21,251,Texas Southern,5,10
+WBB,2020-21,252,UNCW,7,14
+WBB,2020-21,253,Youngstown State,10,8
+WBB,2020-21,254,UMKC,8,12
+WBB,2020-21,255,Air Force,7,17
+WBB,2020-21,256,Wisconsin,5,19
+WBB,2020-21,257,Morehead State,6,16
+WBB,2020-21,258,North Carolina Central,3,12
+WBB,2020-21,259,Robert Morris,4,13
+WBB,2020-21,260,UNCG,7,14
+WBB,2020-21,261,Southern Miss,6,12
+WBB,2020-21,262,Navy,5,7
+WBB,2020-21,263,Xavier,5,10
+WBB,2020-21,264,Alcorn State,7,13
+WBB,2020-21,265,Seattle University,8,14
+WBB,2020-21,266,Saint Francis (NY),4,10
+WBB,2020-21,267,Bryant,7,14
+WBB,2020-21,268,Illinois,5,18
+WBB,2020-21,269,UNC Asheville,10,15
+WBB,2020-21,270,UC Riverside,6,12
+WBB,2020-21,271,Western Michigan,6,15
+WBB,2020-21,272,Niagara,4,7
+WBB,2020-21,273,Western Illinois,8,16
+WBB,2020-21,274,Charleston,5,9
+WBB,2020-21,275,Norfolk State,4,9
+WBB,2020-21,276,Oral Roberts,5,15
+WBB,2020-21,277,South Carolina Upstate,6,15
+WBB,2020-21,278,Canisius,0,5
+WBB,2020-21,279,Utah State,4,20
+WBB,2020-21,280,California,1,16
+WBB,2020-21,281,Stetson,8,15
+WBB,2020-21,282,NJIT,4,14
+WBB,2020-21,283,UMBC,2,6
+WBB,2020-21,284,Saint Bonaventure,6,15
+WBB,2020-21,285,North Alabama,7,18
+WBB,2020-21,286,UTRGV,6,14
+WBB,2020-21,287,Georgetown,2,15
+WBB,2020-21,288,Butler,3,17
+WBB,2020-21,289,Rider,8,18
+WBB,2020-21,290,Pepperdine,4,18
+WBB,2020-21,291,Memphis,4,15
+WBB,2020-21,292,Miami (OH),4,20
+WBB,2020-21,293,Eastern Washington,5,17
+WBB,2020-21,294,Central Connecticut,4,14
+WBB,2020-21,295,Denver,7,16
+WBB,2020-21,296,Arkansas State,5,12
+WBB,2020-21,297,Iona,6,9
+WBB,2020-21,298,Houston Baptist,8,11
+WBB,2020-21,299,Tarleton State,5,16
+WBB,2020-21,300,SMU,0,6
+WBB,2020-21,301,Mississippi Valley State,4,16
+WBB,2020-21,302,New Hampshire,5,15
+WBB,2020-21,303,Binghamton,5,11
+WBB,2020-21,304,Arkansas-Pine Bluff,3,18
+WBB,2020-21,305,Evansville,5,18
+WBB,2020-21,306,Hartford,3,9
+WBB,2020-21,307,Bellarmine,5,17
+WBB,2020-21,308,Virginia,0,5
+WBB,2020-21,309,Indiana State,5,15
+WBB,2020-21,310,Jacksonville,2,17
+WBB,2020-21,311,East Tennessee State,3,16
+WBB,2020-21,312,Incarnate Word,5,9
+WBB,2020-21,313,Winthrop,6,18
+WBB,2020-21,314,Coppin State,2,13
+WBB,2020-21,315,Coastal Carolina,1,15
+WBB,2020-21,316,McNeese,6,15
+WBB,2020-21,317,Delaware State,3,11
+WBB,2020-21,318,Western Carolina,4,18
+WBB,2020-21,319,Cal State Fullerton,3,18
+WBB,2020-21,320,Charleston Southern,5,17
+WBB,2020-21,321,Weber State,2,19
+WBB,2020-21,322,SIUE,5,19
+WBB,2020-21,323,Sacramento State,3,22
+WBB,2020-21,324,New Orleans,6,15
+WBB,2020-21,325,Colgate,1,8
+WBB,2020-21,326,UIC,2,16
+WBB,2020-21,327,Hampton,4,11
+WBB,2020-21,328,Detroit,1,13
+WBB,2020-21,329,Texas A&M-Corpus Christi,4,12
+WBB,2020-21,330,North Dakota,2,19
+WBB,2020-21,331,Purdue Fort Wayne,1,22
+WBB,2020-21,332,Monmouth,2,16
+WBB,2020-21,333,UTSA,1,18
+WBB,2020-21,334,George Mason,3,19
+WBB,2020-21,335,ULM,2,20
+WBB,2020-21,336,Kennesaw State,3,12
+WBB,2020-21,337,South Carolina State,1,9
+WBB,2020-21,338,Tennessee State,0,22
+WBB,2020-21,339,Prairie View A&M,3,13
+WBB,2020-21,340,Chicago State,0,14
+WBB,2020-21,341,Dixie State,0,2
+WBB,2020-21,342,Northwestern State,1,19
+WBB,2020-21,343,Loyola-Maryland,0,13
+WBB,2020-21,344,Bethune-Cookman,0,0
+WBB,2020-21,344,Brown,0,0
+WBB,2020-21,344,Cal State Northridge,0,0
+WBB,2020-21,344,Columbia,0,0
+WBB,2020-21,344,Cornell,0,0
+WBB,2020-21,344,Dartmouth,0,0
+WBB,2020-21,344,Florida A&M,0,0
+WBB,2020-21,344,Harvard,0,0
+WBB,2020-21,344,Maryland Eastern Shore,0,0
+WBB,2020-21,344,Penn,0,0
+WBB,2020-21,344,Princeton,0,0
+WBB,2020-21,344,Yale,0,0

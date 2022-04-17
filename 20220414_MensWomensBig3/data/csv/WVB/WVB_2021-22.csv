@@ -1,0 +1,342 @@
+Sport,Season,Team,W,L,Rank,Conf
+WVB,2021-22,Louisville,32,1,1,ACC
+WVB,2021-22,Wisconsin,31,3,2,Big Ten
+WVB,2021-22,Pittsburgh,30,4,3,ACC
+WVB,2021-22,Texas,27,2,4,Big 12
+WVB,2021-22,Georgia Tech,26,6,5,ACC
+WVB,2021-22,Nebraska,26,8,6,Big Ten
+WVB,2021-22,Baylor,22,6,7,Big 12
+WVB,2021-22,Kentucky,25,5,8,SEC
+WVB,2021-22,Purdue,26,7,9,Big Ten
+WVB,2021-22,Ohio St.,27,6,10,Big Ten
+WVB,2021-22,Creighton,31,4,11,Big East
+WVB,2021-22,Minnesota,22,9,12,Big Ten
+WVB,2021-22,UCLA,25,6,13,Pac-12
+WVB,2021-22,Miami (FL),25,5,14,ACC
+WVB,2021-22,BYU,30,2,15,WCC
+WVB,2021-22,Washington,26,5,16,Pac-12
+WVB,2021-22,Marquette,26,6,17,Big East
+WVB,2021-22,Florida,22,9,18,SEC
+WVB,2021-22,Western Ky.,28,2,19,C-USA
+WVB,2021-22,Florida St.,20,10,20,ACC
+WVB,2021-22,Utah,22,9,21,Pac-12
+WVB,2021-22,UCF,27,7,22,AAC
+WVB,2021-22,Rice,20,7,23,C-USA
+WVB,2021-22,Illinois,22,12,24,Big Ten
+WVB,2021-22,Penn St.,21,11,25,Big Ten
+WVB,2021-22,Mississippi St.,25,6,26,SEC
+WVB,2021-22,Oregon,22,9,27,Pac-12
+WVB,2021-22,Tennessee,20,10,28,SEC
+WVB,2021-22,Ball St.,30,4,29,MAC
+WVB,2021-22,Stanford,19,11,30,Pac-12
+WVB,2021-22,Kansas,18,12,31,Big 12
+WVB,2021-22,North Carolina,21,9,32,ACC
+WVB,2021-22,FGCU,27,6,33,ASUN
+WVB,2021-22,Notre Dame,13,15,34,ACC
+WVB,2021-22,Michigan,18,12,35,Big Ten
+WVB,2021-22,Washington St.,20,12,36,Pac-12
+WVB,2021-22,Dayton,26,6,37,Atlantic 10
+WVB,2021-22,UNLV,28,9,38,Mountain West
+WVB,2021-22,Pepperdine,22,6,39,WCC
+WVB,2021-22,San Diego,20,8,40,WCC
+WVB,2021-22,South Carolina,14,15,41,SEC
+WVB,2021-22,Syracuse,17,13,42,ACC
+WVB,2021-22,Texas Tech,17,13,43,Big 12
+WVB,2021-22,Arkansas,20,11,44,SEC
+WVB,2021-22,UTEP,24,8,45,C-USA
+WVB,2021-22,Valparaiso,26,10,46,MVC
+WVB,2021-22,Southern California,15,15,47,Pac-12
+WVB,2021-22,High Point,24,7,48,Big South
+WVB,2021-22,Hawaii,22,8,49,Big West
+WVB,2021-22,West Virginia,19,10,50,Big 12
+WVB,2021-22,Texas St.,20,12,51,Sun Belt
+WVB,2021-22,South Alabama,25,7,52,Sun Belt
+WVB,2021-22,Cincinnati,19,9,53,AAC
+WVB,2021-22,Kansas St.,15,13,54,Big 12
+WVB,2021-22,James Madison,17,7,55,CAA
+WVB,2021-22,Iowa St.,16,12,56,Big 12
+WVB,2021-22,Ole Miss,21,9,57,SEC
+WVB,2021-22,Houston,25,7,58,AAC
+WVB,2021-22,Northern Ky.,20,8,59,Horizon
+WVB,2021-22,DePaul,19,12,60,Big East
+WVB,2021-22,Northern Colo.,24,7,61,Big Sky
+WVB,2021-22,Duke,16,13,62,ACC
+WVB,2021-22,Bowling Green,21,9,63,MAC
+WVB,2021-22,Illinois St.,19,14,64,MVC
+WVB,2021-22,Loyola Chicago,22,10,65,MVC
+WVB,2021-22,Towson,26,5,66,CAA
+WVB,2021-22,Texas A&M,14,14,67,SEC
+WVB,2021-22,UConn,24,11,68,Big East
+WVB,2021-22,Wright St.,23,8,69,Horizon
+WVB,2021-22,SMU,18,12,70,AAC
+WVB,2021-22,Wichita St.,19,10,71,AAC
+WVB,2021-22,Brown,20,6,72,Ivy League
+WVB,2021-22,Omaha,20,10,73,Summit League
+WVB,2021-22,South Dakota,20,10,74,Summit League
+WVB,2021-22,North Florida,25,8,75,ASUN
+WVB,2021-22,Weber St.,22,10,76,Big Sky
+WVB,2021-22,Milwaukee,22,9,77,Horizon
+WVB,2021-22,Boise St.,24,11,78,Mountain West
+WVB,2021-22,LSU,13,14,79,SEC
+WVB,2021-22,San Jose St.,19,10,80,Mountain West
+WVB,2021-22,Utah Valley,16,13,81,WAC
+WVB,2021-22,Princeton,16,6,82,Ivy League
+WVB,2021-22,Grand Canyon,19,7,83,WAC
+WVB,2021-22,Southeast Mo. St.,26,8,84,OVC
+WVB,2021-22,Arizona St.,14,17,85,Pac-12
+WVB,2021-22,Denver,23,6,86,Summit League
+WVB,2021-22,NC State,16,13,87,ACC
+WVB,2021-22,Colorado St.,19,11,88,Mountain West
+WVB,2021-22,Colorado,15,14,89,Pac-12
+WVB,2021-22,Sam Houston,18,10,90,WAC
+WVB,2021-22,Jacksonville St.,25,7,91,ASUN
+WVB,2021-22,SFA,19,10,92,WAC
+WVB,2021-22,Arizona,17,16,93,Pac-12
+WVB,2021-22,Campbell,21,10,94,Big South
+WVB,2021-22,UC Santa Barbara,21,11,95,Big West
+WVB,2021-22,Georgia,12,17,96,SEC
+WVB,2021-22,Kennesaw St.,20,9,97,ASUN
+WVB,2021-22,Colgate,18,10,98,Patriot
+WVB,2021-22,Utah St.,22,9,99,Mountain West
+WVB,2021-22,Morehead St.,20,12,100,OVC
+WVB,2021-22,Portland St.,20,11,101,Big Sky
+WVB,2021-22,St. John's (NY),15,17,102,Big East
+WVB,2021-22,Maryland,19,13,103,Big Ten
+WVB,2021-22,A&M-Corpus Christi,19,10,104,Southland
+WVB,2021-22,Boston College,17,17,105,ACC
+WVB,2021-22,Coastal Carolina,19,9,106,Sun Belt
+WVB,2021-22,Wake Forest,15,14,107,ACC
+WVB,2021-22,Northwestern,12,19,108,Big Ten
+WVB,2021-22,VCU,18,12,109,Atlantic 10
+WVB,2021-22,Western Mich.,19,12,110,MAC
+WVB,2021-22,New Mexico St.,19,10,111,WAC
+WVB,2021-22,Evansville,21,12,112,MVC
+WVB,2021-22,Yale,16,7,113,Ivy League
+WVB,2021-22,Elon,17,11,114,CAA
+WVB,2021-22,Kansas City,21,10,115,Summit League
+WVB,2021-22,Bradley,17,15,116,MVC
+WVB,2021-22,Villanova,15,15,117,Big East
+WVB,2021-22,Fairfield,24,9,118,MAAC
+WVB,2021-22,Missouri St.,17,13,119,MVC
+WVB,2021-22,UIC,20,12,120,Horizon
+WVB,2021-22,LMU (CA),17,11,121,WCC
+WVB,2021-22,Col. of Charleston,16,12,122,CAA
+WVB,2021-22,Clemson,12,18,123,ACC
+WVB,2021-22,North Texas,15,12,124,C-USA
+WVB,2021-22,New Mexico,20,10,125,Mountain West
+WVB,2021-22,Indiana St.,18,13,126,MVC
+WVB,2021-22,FIU,9,13,127,C-USA
+WVB,2021-22,Murray St.,18,12,128,OVC
+WVB,2021-22,Michigan St.,11,18,129,Big Ten
+WVB,2021-22,TCU,8,18,130,Big 12
+WVB,2021-22,Sacred Heart,19,10,131,NEC
+WVB,2021-22,UNC Greensboro,23,7,132,SoCon
+WVB,2021-22,Cal Poly,15,16,133,Big West
+WVB,2021-22,Troy,18,13,134,Sun Belt
+WVB,2021-22,Wyoming,16,14,135,Mountain West
+WVB,2021-22,Tulane,18,14,136,AAC
+WVB,2021-22,UNI,12,19,137,MVC
+WVB,2021-22,Toledo,20,13,138,MAC
+WVB,2021-22,Virginia Tech,12,18,139,ACC
+WVB,2021-22,Mercer,16,12,140,SoCon
+WVB,2021-22,Ga. Southern,17,11,141,Sun Belt
+WVB,2021-22,Austin Peay,21,12,142,OVC
+WVB,2021-22,Saint Mary's (CA),15,12,143,WCC
+WVB,2021-22,South Dakota St.,19,12,144,Summit League
+WVB,2021-22,Oklahoma,10,17,145,Big 12
+WVB,2021-22,Ohio,12,19,146,MAC
+WVB,2021-22,N.C. A&T,20,11,147,Big South
+WVB,2021-22,Tulsa,14,16,148,AAC
+WVB,2021-22,Dartmouth,15,8,149,Ivy League
+WVB,2021-22,American,19,14,150,Patriot
+WVB,2021-22,UAB,11,14,151,C-USA
+WVB,2021-22,Tennessee Tech,16,14,152,OVC
+WVB,2021-22,Montana St.,15,14,153,Big Sky
+WVB,2021-22,Delaware,15,13,154,CAA
+WVB,2021-22,Houston Baptist,21,9,155,Southland
+WVB,2021-22,Army West Point,17,9,156,Patriot
+WVB,2021-22,Hofstra,15,14,157,CAA
+WVB,2021-22,Butler,16,16,158,Big East
+WVB,2021-22,Indiana,10,22,159,Big Ten
+WVB,2021-22,Marshall,9,16,160,C-USA
+WVB,2021-22,UTSA,8,16,161,C-USA
+WVB,2021-22,UMBC,19,12,162,America East
+WVB,2021-22,Auburn,13,15,163,SEC
+WVB,2021-22,Northeastern,12,15,164,CAA
+WVB,2021-22,Lipscomb,14,13,165,ASUN
+WVB,2021-22,Long Beach St.,16,15,166,Big West
+WVB,2021-22,Middle Tenn.,9,12,167,C-USA
+WVB,2021-22,Lafayette,15,10,168,Patriot
+WVB,2021-22,Arkansas St.,15,14,169,Sun Belt
+WVB,2021-22,McNeese,18,11,170,Southland
+WVB,2021-22,Florida A&M,25,7,171,SWAC
+WVB,2021-22,Oakland,15,15,172,Horizon
+WVB,2021-22,CSU Bakersfield,18,11,173,Big West
+WVB,2021-22,Pacific,13,17,174,WCC
+WVB,2021-22,Northern Ill.,16,13,175,MAC
+WVB,2021-22,Chicago St.,17,11,176,WAC
+WVB,2021-22,Loyola Maryland,17,11,177,Patriot
+WVB,2021-22,Oral Roberts,18,11,178,Summit League
+WVB,2021-22,Sacramento St.,16,12,179,Big Sky
+WVB,2021-22,Fla. Atlantic,11,14,179,C-USA
+WVB,2021-22,Fresno St.,12,14,181,Mountain West
+WVB,2021-22,Alabama,10,20,182,SEC
+WVB,2021-22,Harvard,10,13,183,Ivy League
+WVB,2021-22,Winthrop,18,10,184,Big South
+WVB,2021-22,Seton Hall,14,18,185,Big East
+WVB,2021-22,UC Irvine,17,13,186,Big West
+WVB,2021-22,UTRGV,17,11,187,WAC
+WVB,2021-22,Bryant,21,11,187,NEC
+WVB,2021-22,Saint Louis,18,12,189,Atlantic 10
+WVB,2021-22,Santa Clara,12,15,190,WCC
+WVB,2021-22,Charlotte,12,13,191,C-USA
+WVB,2021-22,Delaware St.,25,5,192,MEAC
+WVB,2021-22,Iowa,6,24,193,Big Ten
+WVB,2021-22,Xavier,11,18,194,Big East
+WVB,2021-22,UT Martin,15,17,195,OVC
+WVB,2021-22,Central Mich.,13,17,196,MAC
+WVB,2021-22,Virginia,8,20,197,ACC
+WVB,2021-22,Northern Ariz.,12,14,198,Big Sky
+WVB,2021-22,Tarleton St.,15,14,199,WAC
+WVB,2021-22,Missouri,5,26,200,SEC
+WVB,2021-22,Drake,11,15,201,MVC
+WVB,2021-22,Samford,11,18,202,SoCon
+WVB,2021-22,Howard,18,13,203,MEAC
+WVB,2021-22,Memphis,13,19,204,AAC
+WVB,2021-22,Rutgers,8,21,205,Big Ten
+WVB,2021-22,Old Dominion,13,13,206,C-USA
+WVB,2021-22,Navy,13,14,207,Patriot
+WVB,2021-22,Wofford,17,14,208,SoCon
+WVB,2021-22,The Citadel,14,12,209,SoCon
+WVB,2021-22,Albany (NY),14,15,210,America East
+WVB,2021-22,Davidson,14,13,211,Atlantic 10
+WVB,2021-22,California Baptist,13,11,212,WAC
+WVB,2021-22,Louisiana,15,11,213,Sun Belt
+WVB,2021-22,UT Arlington,12,15,214,Sun Belt
+WVB,2021-22,Kent St.,12,18,215,MAC
+WVB,2021-22,Eastern Mich.,9,20,216,MAC
+WVB,2021-22,San Diego St.,8,22,217,Mountain West
+WVB,2021-22,Buffalo,13,17,218,MAC
+WVB,2021-22,Cornell,7,15,219,Ivy League
+WVB,2021-22,Oregon St.,5,25,220,Pac-12
+WVB,2021-22,Cal St. Fullerton,12,15,221,Big West
+WVB,2021-22,Liberty,10,14,222,ASUN
+WVB,2021-22,Stetson,13,16,223,ASUN
+WVB,2021-22,Green Bay,15,16,224,Horizon
+WVB,2021-22,Montana,11,16,225,Big Sky
+WVB,2021-22,Dixie St.,7,15,226,WAC
+WVB,2021-22,Providence,16,15,227,Big East
+WVB,2021-22,USC Upstate,14,16,228,Big South
+WVB,2021-22,ETSU,11,17,229,SoCon
+WVB,2021-22,North Dakota St.,12,18,230,Summit League
+WVB,2021-22,Stony Brook,13,14,231,America East
+WVB,2021-22,Western Caro.,11,17,232,SoCon
+WVB,2021-22,Rider,19,12,233,MAAC
+WVB,2021-22,N.C. Central,11,14,234,MEAC
+WVB,2021-22,Little Rock,14,15,235,Sun Belt
+WVB,2021-22,East Carolina,9,20,236,AAC
+WVB,2021-22,Gonzaga,9,20,237,WCC
+WVB,2021-22,Penn,8,15,238,Ivy League
+WVB,2021-22,Jackson St.,17,14,239,SWAC
+WVB,2021-22,Abilene Christian,9,15,240,WAC
+WVB,2021-22,Eastern Ill.,11,18,241,OVC
+WVB,2021-22,Coppin St.,16,12,242,MEAC
+WVB,2021-22,Southern Miss.,11,17,243,C-USA
+WVB,2021-22,Portland,5,20,244,WCC
+WVB,2021-22,Temple,7,24,245,AAC
+WVB,2021-22,Eastern Wash.,11,14,246,Big Sky
+WVB,2021-22,Marist,17,13,247,MAAC
+WVB,2021-22,South Fla.,7,24,248,AAC
+WVB,2021-22,Cleveland St.,8,21,249,Horizon
+WVB,2021-22,Georgia St.,8,20,250,Sun Belt
+WVB,2021-22,UC Davis,11,20,251,Big West
+WVB,2021-22,California,7,24,252,Pac-12
+WVB,2021-22,Belmont,9,20,253,OVC
+WVB,2021-22,LIU,13,14,254,NEC
+WVB,2021-22,Nicholls,11,17,255,Southland
+WVB,2021-22,Columbia,5,19,256,Ivy League
+WVB,2021-22,Miami (OH),7,21,257,MAC
+WVB,2021-22,Air Force,7,21,258,Mountain West
+WVB,2021-22,Akron,10,20,259,MAC
+WVB,2021-22,Purdue Fort Wayne,8,23,260,Horizon
+WVB,2021-22,Georgetown,7,22,261,Big East
+WVB,2021-22,Duquesne,13,16,262,Atlantic 10
+WVB,2021-22,Chattanooga,11,19,263,SoCon
+WVB,2021-22,Rhode Island,13,19,264,Atlantic 10
+WVB,2021-22,Idaho St.,7,21,265,Big Sky
+WVB,2021-22,Central Ark.,7,18,266,ASUN
+WVB,2021-22,Fordham,10,20,267,Atlantic 10
+WVB,2021-22,UC San Diego,10,21,268,Big West
+WVB,2021-22,Alabama St.,17,17,269,SWAC
+WVB,2021-22,Furman,9,20,270,SoCon
+WVB,2021-22,New Hampshire,16,12,271,America East
+WVB,2021-22,CSUN,7,23,272,Big West
+WVB,2021-22,UIW,13,19,273,Southland
+WVB,2021-22,UNC Asheville,6,19,274,Big South
+WVB,2021-22,App State,7,22,275,Sun Belt
+WVB,2021-22,Lehigh,8,19,276,Patriot
+WVB,2021-22,Presbyterian,12,15,277,Big South
+WVB,2021-22,Saint Francis (PA),13,14,278,NEC
+WVB,2021-22,Canisius,11,18,279,MAAC
+WVB,2021-22,Central Conn. St.,9,17,280,NEC
+WVB,2021-22,William & Mary,5,16,281,CAA
+WVB,2021-22,Louisiana Tech,9,19,281,C-USA
+WVB,2021-22,Bucknell,7,18,283,Patriot
+WVB,2021-22,Eastern Ky.,10,21,284,ASUN
+WVB,2021-22,Southeastern La.,9,18,285,Southland
+WVB,2021-22,Hartford,7,18,286,America East
+WVB,2021-22,ULM,5,27,287,Sun Belt
+WVB,2021-22,Niagara,13,15,288,MAAC
+WVB,2021-22,Southern Ill.,5,26,289,MVC
+WVB,2021-22,SIUE,6,23,290,OVC
+WVB,2021-22,Quinnipiac,11,18,291,MAAC
+WVB,2021-22,Tennessee St.,10,17,292,OVC
+WVB,2021-22,Charleston So.,9,17,293,Big South
+WVB,2021-22,Ark.-Pine Bluff,14,16,294,SWAC
+WVB,2021-22,Northwestern St.,11,19,295,Southland
+WVB,2021-22,Southern Utah,6,22,296,Big Sky
+WVB,2021-22,St. Thomas (MN),3,25,297,Summit League
+WVB,2021-22,Seattle U,4,21,298,WAC
+WVB,2021-22,Western Ill.,5,24,299,Summit League
+WVB,2021-22,George Mason,5,22,300,Atlantic 10
+WVB,2021-22,UMES,12,14,301,MEAC
+WVB,2021-22,Norfolk St.,7,18,302,MEAC
+WVB,2021-22,Jacksonville,4,24,303,ASUN
+WVB,2021-22,IUPUI,5,24,304,Horizon
+WVB,2021-22,UC Riverside,6,24,305,Big West
+WVB,2021-22,San Francisco,0,25,306,WCC
+WVB,2021-22,Youngstown St.,6,23,307,Horizon
+WVB,2021-22,Idaho,5,20,308,Big Sky
+WVB,2021-22,Radford,6,22,309,Big South
+WVB,2021-22,Nevada,3,26,310,Mountain West
+WVB,2021-22,UNCW,4,23,311,CAA
+WVB,2021-22,Binghamton,7,17,312,America East
+WVB,2021-22,Robert Morris,9,21,313,Horizon
+WVB,2021-22,Holy Cross,2,25,314,Patriot
+WVB,2021-22,Gardner-Webb,7,19,315,Big South
+WVB,2021-22,Iona,10,18,316,MAAC
+WVB,2021-22,Siena,7,23,317,MAAC
+WVB,2021-22,North Dakota,1,29,318,Summit League
+WVB,2021-22,Lamar University,4,22,319,WAC
+WVB,2021-22,St. Francis Brooklyn,9,20,320,NEC
+WVB,2021-22,Morgan St.,5,24,321,MEAC
+WVB,2021-22,Bellarmine,6,22,322,ASUN
+WVB,2021-22,North Ala.,9,20,323,ASUN
+WVB,2021-22,Hampton,3,20,324,Big South
+WVB,2021-22,Grambling,9,16,325,SWAC
+WVB,2021-22,George Washington,2,25,326,Atlantic 10
+WVB,2021-22,Bethune-Cookman,6,21,327,SWAC
+WVB,2021-22,NJIT,2,25,328,America East
+WVB,2021-22,Texas Southern,7,24,329,SWAC
+WVB,2021-22,Fairleigh Dickinson,8,20,330,NEC
+WVB,2021-22,Prairie View,7,26,331,SWAC
+WVB,2021-22,Alabama A&M,5,23,332,SWAC
+WVB,2021-22,New Orleans,1,22,333,Southland
+WVB,2021-22,Southern U.,8,15,334,SWAC
+WVB,2021-22,Manhattan,2,20,335,MAAC
+WVB,2021-22,South Carolina St.,0,24,336,MEAC
+WVB,2021-22,Saint Peter's,3,27,337,MAAC
+WVB,2021-22,Merrimack,0,29,338,NEC
+WVB,2021-22,Alcorn,3,22,339,SWAC
+WVB,2021-22,Mississippi Val.,0,21,340,SWAC
+WVB,2021-22,Mississippi Val.,0,21,340,SWAC

@@ -1,0 +1,2000 @@
+Sport,Season,Rank,Team,W,L
+MFB,2006-07,1,Ohio St.,12,1
+MFB,2006-07,2,USC,11,2
+MFB,2006-07,3,LSU,11,2
+MFB,2006-07,4,Texas,10,3
+MFB,2006-07,5,Louisville,12,1
+MFB,2006-07,6,Florida,13,1
+MFB,2006-07,7,Michigan,11,2
+MFB,2006-07,8,California,10,3
+MFB,2006-07,9,BYU,11,2
+MFB,2006-07,10,West Virginia,11,2
+MFB,2006-07,11,Oklahoma,11,3
+MFB,2006-07,12,Auburn,11,2
+MFB,2006-07,13,Nebraska,9,5
+MFB,2006-07,14,Arkansas,10,4
+MFB,2006-07,15,Tennessee,9,4
+MFB,2006-07,16,Clemson,8,5
+MFB,2006-07,50,Notre Dame,10,3
+MFB,2006-07,18,Virginia Tech,10,3
+MFB,2006-07,19,Wisconsin,12,1
+MFB,2006-07,20,Boise St.,13,0
+MFB,2006-07,21,Rutgers,11,2
+MFB,2006-07,22,Penn State,9,4
+MFB,2006-07,23,TCU,11,2
+MFB,2006-07,24,Boston College,10,3
+MFB,2006-07,25,Texas Tech,8,5
+MFB,2006-07,26,Hawaii,11,3
+MFB,2006-07,27,Oregon,7,6
+MFB,2006-07,28,South Carolina,8,5
+MFB,2006-07,29,Missouri,8,5
+MFB,2006-07,30,Texas A&M,9,4
+MFB,2006-07,31,Georgia,9,4
+MFB,2006-07,32,Florida St.,7,6
+MFB,2006-07,33,Oregon St.,10,4
+MFB,2006-07,34,Oklahoma St.,7,6
+MFB,2006-07,35,UCLA,7,6
+MFB,2006-07,36,Iowa,6,7
+MFB,2006-07,37,Arizona St.,7,6
+MFB,2006-07,38,Pittsburgh,6,6
+MFB,2006-07,39,Minnesota,6,7
+MFB,2006-07,40,Alabama,6,7
+MFB,2006-07,41,Georgia Tech,9,5
+MFB,2006-07,42,Washington St.,6,6
+MFB,2006-07,43,Miami (FL),7,6
+MFB,2006-07,44,Wake Forest,11,3
+MFB,2006-07,45,Arizona,6,6
+MFB,2006-07,46,Utah,8,5
+MFB,2006-07,47,South Florida,9,4
+MFB,2006-07,48,Washington,5,7
+MFB,2006-07,49,Cincinnati,8,5
+MFB,2006-07,50,Houston,10,4
+MFB,2006-07,51,Tulsa,8,5
+MFB,2006-07,52,Southern Miss,9,5
+MFB,2006-07,53,Nevada,8,5
+MFB,2006-07,54,Navy,9,4
+MFB,2006-07,55,Maryland,9,4
+MFB,2006-07,56,Michigan St.,4,8
+MFB,2006-07,57,Kansas St.,7,6
+MFB,2006-07,58,Kansas,6,6
+MFB,2006-07,59,Kentucky,8,5
+MFB,2006-07,60,Purdue,8,6
+MFB,2006-07,61,Central Michigan,10,4
+MFB,2006-07,62,Virginia,5,7
+MFB,2006-07,63,NC State,3,9
+MFB,2006-07,64,Vanderbilt,4,8
+MFB,2006-07,65,Northern Illinois,7,6
+MFB,2006-07,66,East Carolina,7,6
+MFB,2006-07,67,Air Force,4,8
+MFB,2006-07,68,Connecticut,4,8
+MFB,2006-07,69,Mississippi St.,3,9
+MFB,2006-07,70,Syracuse,4,8
+MFB,2006-07,71,Colorado,2,10
+MFB,2006-07,72,Illinois,2,10
+MFB,2006-07,73,Wyoming,6,6
+MFB,2006-07,74,Western Michigan,8,5
+MFB,2006-07,75,Indiana,5,7
+MFB,2006-07,76,Iowa St.,4,8
+MFB,2006-07,77,Ball St.,5,7
+MFB,2006-07,78,Ole Miss,4,8
+MFB,2006-07,79,Northwestern,4,8
+MFB,2006-07,80,Ohio,9,5
+MFB,2006-07,81,New Mexico,6,7
+MFB,2006-07,82,Baylor,4,8
+MFB,2006-07,83,North Carolina,3,9
+MFB,2006-07,84,Fresno St.,4,8
+MFB,2006-07,85,SMU,6,6
+MFB,2006-07,86,San Jose St.,9,4
+MFB,2006-07,87,Marshall,5,7
+MFB,2006-07,88,Akron,5,7
+MFB,2006-07,89,Middle Tennessee,7,6
+MFB,2006-07,90,Colorado St.,4,8
+MFB,2006-07,91,Stanford,1,11
+MFB,2006-07,92,Rice,7,6
+MFB,2006-07,93,UTEP,5,7
+MFB,2006-07,94,Toledo,5,7
+MFB,2006-07,95,UAB,3,9
+MFB,2006-07,96,Kent State,6,6
+MFB,2006-07,97,Troy,8,5
+MFB,2006-07,98,Central Florida,4,8
+MFB,2006-07,99,UL Monroe,4,8
+MFB,2006-07,100,Memphis,2,10
+MFB,2006-07,101,San Diego St.,3,9
+MFB,2006-07,102,Bowling Green,4,8
+MFB,2006-07,103,Army,3,9
+MFB,2006-07,104,Miami (OH),2,10
+MFB,2006-07,105,Louisiana,6,6
+MFB,2006-07,106,UNLV,2,10
+MFB,2006-07,107,Tulane,4,8
+MFB,2006-07,108,New Mexico State,4,8
+MFB,2006-07,109,Duke,0,12
+MFB,2006-07,110,Arkansas St.,6,6
+MFB,2006-07,111,Eastern Michigan,1,11
+MFB,2006-07,112,Florida Atlantic,5,7
+MFB,2006-07,113,North Texas,3,9
+MFB,2006-07,114,Idaho,4,8
+MFB,2006-07,115,Florida Intl,0,12
+MFB,2006-07,116,Buffalo,2,10
+MFB,2006-07,117,Louisiana Tech,3,10
+MFB,2006-07,118,Utah St.,1,11
+MFB,2006-07,119,Temple,1,11
+MFB,2007-08,1,Oklahoma,11,3
+MFB,2007-08,2,USC,11,2
+MFB,2007-08,3,LSU,12,2
+MFB,2007-08,4,West Virginia,11,2
+MFB,2007-08,5,Florida,9,4
+MFB,2007-08,6,Missouri,12,2
+MFB,2007-08,7,Oregon,9,4
+MFB,2007-08,8,Ohio St.,11,2
+MFB,2007-08,9,Kansas,12,1
+MFB,2007-08,10,Virginia Tech,11,3
+MFB,2007-08,11,Texas,10,3
+MFB,2007-08,12,Clemson,9,4
+MFB,2007-08,13,Georgia,11,2
+MFB,2007-08,14,Penn State,9,4
+MFB,2007-08,15,Texas Tech,9,4
+MFB,2007-08,16,Arizona St.,10,3
+MFB,2007-08,17,South Florida,9,4
+MFB,2007-08,18,Auburn,9,4
+MFB,2007-08,19,Cincinnati,10,3
+MFB,2007-08,20,Tennessee,10,4
+MFB,2007-08,21,California,7,6
+MFB,2007-08,22,BYU,11,2
+MFB,2007-08,23,Boise St.,10,3
+MFB,2007-08,24,Michigan,9,4
+MFB,2007-08,25,Oklahoma St.,7,6
+MFB,2007-08,26,Arkansas,8,5
+MFB,2007-08,27,UCLA,6,7
+MFB,2007-08,28,Wisconsin,9,4
+MFB,2007-08,29,South Carolina,6,6
+MFB,2007-08,30,Kentucky,8,5
+MFB,2007-08,31,Oregon St.,9,4
+MFB,2007-08,32,Boston College,11,3
+MFB,2007-08,33,Utah,9,4
+MFB,2007-08,34,Arizona,5,7
+MFB,2007-08,35,Illinois,9,4
+MFB,2007-08,36,Rutgers,8,5
+MFB,2007-08,37,Texas A&M,7,6
+MFB,2007-08,38,Alabama,7,6
+MFB,2007-08,39,Hawaii,12,1
+MFB,2007-08,40,Louisville,6,6
+MFB,2007-08,41,Virginia,9,4
+MFB,2007-08,42,Florida St.,7,6
+MFB,2007-08,43,Purdue,8,5
+MFB,2007-08,44,Michigan St.,7,6
+MFB,2007-08,45,Wake Forest,9,4
+MFB,2007-08,46,Kansas St.,5,7
+MFB,2007-08,47,TCU,8,5
+MFB,2007-08,48,Connecticut,9,4
+MFB,2007-08,49,Washington,4,9
+MFB,2007-08,50,Maryland,6,7
+MFB,2007-08,51,Georgia Tech,7,6
+MFB,2007-08,52,Nebraska,5,7
+MFB,2007-08,53,Air Force,9,4
+MFB,2007-08,54,Troy,8,4
+MFB,2007-08,55,Colorado,6,7
+MFB,2007-08,56,Vanderbilt,5,7
+MFB,2007-08,57,Central Florida,10,4
+MFB,2007-08,58,Washington St.,5,7
+MFB,2007-08,59,New Mexico,9,4
+MFB,2007-08,60,Mississippi St.,8,5
+MFB,2007-08,61,Tulsa,10,4
+MFB,2007-08,62,Miami (FL),5,7
+MFB,2007-08,63,Pittsburgh,5,7
+MFB,2007-08,64,Iowa,6,6
+MFB,2007-08,65,Fresno St.,9,4
+MFB,2007-08,66,Indiana,7,6
+MFB,2007-08,67,Southern Miss,7,6
+MFB,2007-08,68,North Carolina,4,8
+MFB,2007-08,69,Houston,8,5
+MFB,2007-08,70,East Carolina,8,5
+MFB,2007-08,71,Stanford,4,8
+MFB,2007-08,72,Ball St.,7,6
+MFB,2007-08,73,Ole Miss,3,9
+MFB,2007-08,74,Navy,8,5
+MFB,2007-08,75,NC State,5,7
+MFB,2007-08,76,Colorado St.,3,9
+MFB,2007-08,77,Northwestern,6,6
+MFB,2007-08,78,Nevada,6,7
+MFB,2007-08,79,Central Michigan,8,6
+MFB,2007-08,80,Wyoming,5,7
+MFB,2007-08,50,Notre Dame,3,9
+MFB,2007-08,82,Minnesota,1,11
+MFB,2007-08,83,Western Michigan,5,7
+MFB,2007-08,84,Florida Atlantic,8,5
+MFB,2007-08,85,San Diego St.,4,8
+MFB,2007-08,86,Iowa St.,3,9
+MFB,2007-08,87,Bowling Green,8,5
+MFB,2007-08,88,Middle Tennessee,5,7
+MFB,2007-08,89,Marshall,3,9
+MFB,2007-08,90,UL Monroe,6,6
+MFB,2007-08,91,Duke,1,11
+MFB,2007-08,92,UNLV,2,10
+MFB,2007-08,93,San Jose St.,5,7
+MFB,2007-08,94,Memphis,7,6
+MFB,2007-08,95,Miami (OH),6,7
+MFB,2007-08,96,Ohio,6,6
+MFB,2007-08,97,Arkansas St.,5,7
+MFB,2007-08,98,UTEP,4,8
+MFB,2007-08,99,Buffalo,5,7
+MFB,2007-08,100,Syracuse,2,10
+MFB,2007-08,101,Akron,4,8
+MFB,2007-08,102,Baylor,3,9
+MFB,2007-08,103,Toledo,5,7
+MFB,2007-08,104,Louisiana Tech,5,7
+MFB,2007-08,105,Kent State,3,9
+MFB,2007-08,106,Eastern Michigan,4,8
+MFB,2007-08,107,Tulane,4,8
+MFB,2007-08,108,Rice,3,9
+MFB,2007-08,109,SMU,1,11
+MFB,2007-08,110,Utah St.,2,10
+MFB,2007-08,111,Northern Illinois,2,10
+MFB,2007-08,112,New Mexico State,4,9
+MFB,2007-08,113,Louisiana,3,9
+MFB,2007-08,114,Temple,4,8
+MFB,2007-08,115,Army,3,9
+MFB,2007-08,116,UAB,2,10
+MFB,2007-08,117,Idaho,1,11
+MFB,2007-08,118,North Texas,2,10
+MFB,2007-08,119,Florida Intl,1,11
+MFB,2008-09,1,Florida,13,1
+MFB,2008-09,2,USC,12,1
+MFB,2008-09,3,Oklahoma,12,2
+MFB,2008-09,4,Texas,12,1
+MFB,2008-09,5,Penn State,11,2
+MFB,2008-09,6,Ohio St.,10,3
+MFB,2008-09,7,Texas Tech,11,2
+MFB,2008-09,8,Oregon,10,3
+MFB,2008-09,9,Alabama,12,2
+MFB,2008-09,10,Missouri,10,4
+MFB,2008-09,11,TCU,11,2
+MFB,2008-09,12,Utah,13,0
+MFB,2008-09,13,Iowa,9,4
+MFB,2008-09,14,Georgia,10,3
+MFB,2008-09,15,Oklahoma St.,9,4
+MFB,2008-09,16,Boise St.,12,1
+MFB,2008-09,17,Arizona,8,5
+MFB,2008-09,18,California,9,4
+MFB,2008-09,19,Florida St.,9,4
+MFB,2008-09,20,Ole Miss,9,4
+MFB,2008-09,21,Oregon St.,9,4
+MFB,2008-09,22,LSU,8,5
+MFB,2008-09,23,Clemson,7,6
+MFB,2008-09,24,West Virginia,9,4
+MFB,2008-09,25,Kansas,8,5
+MFB,2008-09,26,South Florida,8,5
+MFB,2008-09,27,BYU,10,3
+MFB,2008-09,28,North Carolina,8,5
+MFB,2008-09,29,Virginia Tech,10,4
+MFB,2008-09,30,Tulsa,11,3
+MFB,2008-09,31,Pittsburgh,9,4
+MFB,2008-09,32,Nebraska,9,4
+MFB,2008-09,33,Rutgers,8,5
+MFB,2008-09,34,Michigan St.,9,4
+MFB,2008-09,35,Boston College,9,5
+MFB,2008-09,36,South Carolina,7,6
+MFB,2008-09,37,Connecticut,8,5
+MFB,2008-09,38,Miami (FL),7,6
+MFB,2008-09,39,Cincinnati,11,3
+MFB,2008-09,40,Illinois,5,7
+MFB,2008-09,41,Stanford,5,7
+MFB,2008-09,42,Tennessee,5,7
+MFB,2008-09,43,Wisconsin,7,6
+MFB,2008-09,44,Arizona St.,5,7
+MFB,2008-09,45,Northwestern,9,4
+MFB,2008-09,46,Wake Forest,8,5
+MFB,2008-09,47,Ball St.,12,2
+MFB,2008-09,50,Notre Dame,7,6
+MFB,2008-09,49,Auburn,5,7
+MFB,2008-09,50,Troy,8,5
+MFB,2008-09,51,Georgia Tech,9,4
+MFB,2008-09,52,Vanderbilt,7,6
+MFB,2008-09,53,Purdue,4,8
+MFB,2008-09,54,Maryland,8,5
+MFB,2008-09,55,Houston,8,5
+MFB,2008-09,56,Virginia,5,7
+MFB,2008-09,57,Baylor,4,8
+MFB,2008-09,58,Kentucky,7,6
+MFB,2008-09,59,NC State,6,7
+MFB,2008-09,60,Southern Miss,7,6
+MFB,2008-09,61,East Carolina,9,5
+MFB,2008-09,62,Arkansas,5,7
+MFB,2008-09,63,Kansas St.,5,7
+MFB,2008-09,64,Rice,10,3
+MFB,2008-09,65,Nevada,7,6
+MFB,2008-09,66,Navy,8,5
+MFB,2008-09,67,Air Force,8,5
+MFB,2008-09,68,Duke,4,8
+MFB,2008-09,69,Michigan,3,9
+MFB,2008-09,70,Minnesota,7,6
+MFB,2008-09,71,Colorado,5,7
+MFB,2008-09,72,Bowling Green,6,6
+MFB,2008-09,73,New Mexico,4,8
+MFB,2008-09,74,UCLA,4,8
+MFB,2008-09,75,Northern Illinois,6,7
+MFB,2008-09,76,Buffalo,8,6
+MFB,2008-09,77,Western Michigan,9,4
+MFB,2008-09,78,Louisville,5,7
+MFB,2008-09,79,Temple,5,7
+MFB,2008-09,80,Fresno St.,7,6
+MFB,2008-09,81,Texas A&M,4,8
+MFB,2008-09,82,Central Michigan,8,5
+MFB,2008-09,83,Mississippi St.,4,8
+MFB,2008-09,84,Iowa St.,2,10
+MFB,2008-09,85,Memphis,6,7
+MFB,2008-09,86,Arkansas St.,6,6
+MFB,2008-09,87,Colorado St.,7,6
+MFB,2008-09,88,UTEP,5,7
+MFB,2008-09,89,Akron,5,7
+MFB,2008-09,90,UNLV,5,7
+MFB,2008-09,91,Hawaii,7,7
+MFB,2008-09,92,Florida Atlantic,7,6
+MFB,2008-09,93,Louisiana,6,6
+MFB,2008-09,94,Marshall,4,8
+MFB,2008-09,95,Louisiana Tech,8,5
+MFB,2008-09,96,Middle Tennessee,5,7
+MFB,2008-09,97,Central Florida,4,8
+MFB,2008-09,98,Ohio,4,8
+MFB,2008-09,99,Syracuse,3,9
+MFB,2008-09,100,Florida Intl,5,7
+MFB,2008-09,101,San Jose St.,6,6
+MFB,2008-09,102,Indiana,3,9
+MFB,2008-09,103,Washington,0,12
+MFB,2008-09,104,Kent State,4,8
+MFB,2008-09,105,UAB,4,8
+MFB,2008-09,106,Toledo,3,9
+MFB,2008-09,107,Wyoming,4,8
+MFB,2008-09,108,Utah St.,3,9
+MFB,2008-09,109,Army,3,9
+MFB,2008-09,110,Western Kentucky,2,10
+MFB,2008-09,111,UL Monroe,4,8
+MFB,2008-09,112,Eastern Michigan,3,9
+MFB,2008-09,113,Miami (OH),2,10
+MFB,2008-09,114,San Diego St.,2,10
+MFB,2008-09,115,SMU,1,11
+MFB,2008-09,116,Tulane,2,10
+MFB,2008-09,117,New Mexico State,3,9
+MFB,2008-09,118,Washington St.,2,11
+MFB,2008-09,119,Idaho,2,10
+MFB,2008-09,120,North Texas,1,11
+MFB,2009-10,1,Florida,13,1
+MFB,2009-10,2,Texas,13,1
+MFB,2009-10,3,Alabama,14,0
+MFB,2009-10,4,Oklahoma,8,5
+MFB,2009-10,5,Virginia Tech,10,3
+MFB,2009-10,6,TCU,12,1
+MFB,2009-10,7,Ohio St.,11,2
+MFB,2009-10,8,Penn State,11,2
+MFB,2009-10,9,Oregon,10,3
+MFB,2009-10,10,Boise St.,14,0
+MFB,2009-10,11,Nebraska,10,4
+MFB,2009-10,12,LSU,9,4
+MFB,2009-10,13,USC,9,4
+MFB,2009-10,14,Georgia Tech,11,3
+MFB,2009-10,15,Arkansas,8,5
+MFB,2009-10,16,Texas Tech,9,4
+MFB,2009-10,17,Ole Miss,9,4
+MFB,2009-10,18,Miami (FL),9,4
+MFB,2009-10,19,Pittsburgh,10,3
+MFB,2009-10,20,Clemson,9,5
+MFB,2009-10,21,Stanford,8,5
+MFB,2009-10,22,Cincinnati,12,1
+MFB,2009-10,23,Iowa,11,2
+MFB,2009-10,24,Tennessee,7,6
+MFB,2009-10,25,Georgia,8,5
+MFB,2009-10,26,Auburn,8,5
+MFB,2009-10,27,BYU,11,2
+MFB,2009-10,28,Oklahoma St.,9,4
+MFB,2009-10,29,California,8,5
+MFB,2009-10,30,Wisconsin,10,3
+MFB,2009-10,50,Notre Dame,6,6
+MFB,2009-10,32,Arizona,8,5
+MFB,2009-10,33,Florida St.,7,6
+MFB,2009-10,34,Oregon St.,8,5
+MFB,2009-10,35,North Carolina,8,5
+MFB,2009-10,36,Connecticut,8,5
+MFB,2009-10,37,West Virginia,9,4
+MFB,2009-10,38,South Carolina,7,6
+MFB,2009-10,39,Utah,10,3
+MFB,2009-10,40,Michigan St.,6,7
+MFB,2009-10,41,Boston College,8,5
+MFB,2009-10,42,Missouri,8,5
+MFB,2009-10,43,Houston,10,4
+MFB,2009-10,44,Air Force,8,5
+MFB,2009-10,45,Kansas,5,7
+MFB,2009-10,46,Central Michigan,12,2
+MFB,2009-10,47,UCLA,7,6
+MFB,2009-10,48,South Florida,8,5
+MFB,2009-10,49,Kentucky,7,6
+MFB,2009-10,50,Wake Forest,5,7
+MFB,2009-10,51,Washington,5,7
+MFB,2009-10,52,Texas A&M,6,7
+MFB,2009-10,53,East Carolina,9,5
+MFB,2009-10,54,Rutgers,9,4
+MFB,2009-10,55,Mississippi St.,5,7
+MFB,2009-10,56,Navy,10,4
+MFB,2009-10,57,Southern Miss,7,6
+MFB,2009-10,58,Arizona St.,4,8
+MFB,2009-10,59,Nevada,8,5
+MFB,2009-10,60,Michigan,5,7
+MFB,2009-10,61,Minnesota,6,7
+MFB,2009-10,62,Purdue,5,7
+MFB,2009-10,63,NC State,5,7
+MFB,2009-10,64,Kansas St.,6,6
+MFB,2009-10,65,Virginia,3,9
+MFB,2009-10,66,Baylor,4,8
+MFB,2009-10,67,Fresno St.,8,5
+MFB,2009-10,68,Northwestern,8,5
+MFB,2009-10,69,Illinois,3,9
+MFB,2009-10,70,Central Florida,8,5
+MFB,2009-10,71,Troy,9,4
+MFB,2009-10,72,Middle Tennessee,10,3
+MFB,2009-10,73,Iowa St.,7,6
+MFB,2009-10,74,Temple,9,4
+MFB,2009-10,75,Vanderbilt,2,10
+MFB,2009-10,76,Tulsa,5,7
+MFB,2009-10,77,Colorado,3,9
+MFB,2009-10,78,Duke,5,7
+MFB,2009-10,79,Louisiana Tech,4,8
+MFB,2009-10,80,Northern Illinois,7,6
+MFB,2009-10,81,Ohio,9,5
+MFB,2009-10,82,Maryland,2,10
+MFB,2009-10,83,Marshall,7,6
+MFB,2009-10,84,SMU,8,5
+MFB,2009-10,85,Indiana,4,8
+MFB,2009-10,86,Bowling Green,7,6
+MFB,2009-10,87,Syracuse,4,8
+MFB,2009-10,88,Buffalo,5,7
+MFB,2009-10,89,Louisville,4,8
+MFB,2009-10,90,UAB,5,7
+MFB,2009-10,91,UTEP,4,8
+MFB,2009-10,92,Arkansas St.,4,8
+MFB,2009-10,93,Utah St.,4,8
+MFB,2009-10,94,UL Monroe,6,6
+MFB,2009-10,95,Wyoming,7,6
+MFB,2009-10,96,UNLV,5,7
+MFB,2009-10,97,Colorado St.,3,9
+MFB,2009-10,98,Western Michigan,5,7
+MFB,2009-10,99,Idaho,8,5
+MFB,2009-10,100,Florida Atlantic,5,7
+MFB,2009-10,101,Kent State,5,7
+MFB,2009-10,102,Toledo,5,7
+MFB,2009-10,103,Memphis,2,10
+MFB,2009-10,104,San Diego St.,4,8
+MFB,2009-10,105,Hawaii,6,7
+MFB,2009-10,106,Louisiana,6,6
+MFB,2009-10,107,Florida Intl,3,9
+MFB,2009-10,108,Akron,3,9
+MFB,2009-10,109,Ball St.,2,10
+MFB,2009-10,110,Army,5,7
+MFB,2009-10,111,North Texas,2,10
+MFB,2009-10,112,New Mexico,1,11
+MFB,2009-10,113,Washington St.,1,11
+MFB,2009-10,114,San Jose St.,2,10
+MFB,2009-10,115,Miami (OH),1,11
+MFB,2009-10,116,Rice,2,10
+MFB,2009-10,117,Tulane,3,9
+MFB,2009-10,118,Eastern Michigan,0,12
+MFB,2009-10,119,Western Kentucky,0,12
+MFB,2009-10,120,New Mexico State,3,10
+MFB,2010-11,1,Oregon,12,1
+MFB,2010-11,2,Boise St.,12,1
+MFB,2010-11,3,Alabama,10,3
+MFB,2010-11,4,Ohio St.,12,1
+MFB,2010-11,5,TCU,13,0
+MFB,2010-11,6,Stanford,12,1
+MFB,2010-11,7,Auburn,14,0
+MFB,2010-11,8,Oklahoma,12,2
+MFB,2010-11,9,Arkansas,10,3
+MFB,2010-11,10,Virginia Tech,11,3
+MFB,2010-11,11,Wisconsin,11,2
+MFB,2010-11,12,Oklahoma St.,11,2
+MFB,2010-11,13,Florida St.,10,4
+MFB,2010-11,14,LSU,11,2
+MFB,2010-11,15,South Carolina,9,5
+MFB,2010-11,16,Missouri,10,3
+MFB,2010-11,17,Florida,8,5
+MFB,2010-11,18,Nebraska,10,4
+MFB,2010-11,19,Texas A&M,9,4
+MFB,2010-11,20,Georgia,6,7
+MFB,2010-11,21,Iowa,8,5
+MFB,2010-11,22,West Virginia,9,4
+MFB,2010-11,23,Mississippi St.,9,4
+MFB,2010-11,24,Miami (FL),7,6
+MFB,2010-11,25,USC,8,5
+MFB,2010-11,26,NC State,9,4
+MFB,2010-11,27,Nevada,13,1
+MFB,2010-11,50,Notre Dame,8,5
+MFB,2010-11,29,Arizona,7,6
+MFB,2010-11,30,Pittsburgh,8,5
+MFB,2010-11,31,Clemson,6,7
+MFB,2010-11,32,North Carolina,8,5
+MFB,2010-11,33,Utah,10,3
+MFB,2010-11,34,Arizona St.,6,6
+MFB,2010-11,35,Illinois,7,6
+MFB,2010-11,36,California,5,7
+MFB,2010-11,37,Oregon St.,5,7
+MFB,2010-11,38,Maryland,9,4
+MFB,2010-11,39,Michigan St.,11,2
+MFB,2010-11,40,Penn State,7,6
+MFB,2010-11,41,Northern Illinois,11,3
+MFB,2010-11,42,Central Florida,11,3
+MFB,2010-11,43,Tennessee,6,7
+MFB,2010-11,44,Texas,5,7
+MFB,2010-11,45,Air Force,9,4
+MFB,2010-11,46,Hawaii,10,4
+MFB,2010-11,47,Connecticut,8,5
+MFB,2010-11,48,San Diego St.,9,4
+MFB,2010-11,49,Georgia Tech,6,7
+MFB,2010-11,50,Texas Tech,8,5
+MFB,2010-11,51,South Florida,8,5
+MFB,2010-11,52,Washington,7,6
+MFB,2010-11,53,BYU,7,6
+MFB,2010-11,54,Louisville,7,6
+MFB,2010-11,55,Kansas St.,7,6
+MFB,2010-11,56,Tulsa,10,3
+MFB,2010-11,57,Kentucky,6,7
+MFB,2010-11,58,Michigan,7,6
+MFB,2010-11,59,Boston College,7,6
+MFB,2010-11,60,Baylor,7,6
+MFB,2010-11,61,Navy,9,4
+MFB,2010-11,62,Southern Miss,8,5
+MFB,2010-11,63,UCLA,4,8
+MFB,2010-11,64,Ole Miss,4,8
+MFB,2010-11,65,Houston,5,7
+MFB,2010-11,66,Cincinnati,4,8
+MFB,2010-11,67,Colorado,5,7
+MFB,2010-11,68,Syracuse,8,5
+MFB,2010-11,69,Temple,8,4
+MFB,2010-11,70,Virginia,4,8
+MFB,2010-11,71,Northwestern,7,6
+MFB,2010-11,72,Iowa St.,5,7
+MFB,2010-11,73,SMU,7,7
+MFB,2010-11,74,Fresno St.,8,5
+MFB,2010-11,75,Western Michigan,6,6
+MFB,2010-11,76,Rutgers,4,8
+MFB,2010-11,77,Minnesota,3,9
+MFB,2010-11,78,Troy,8,5
+MFB,2010-11,79,Duke,3,9
+MFB,2010-11,80,Army,7,6
+MFB,2010-11,81,Ohio,8,5
+MFB,2010-11,82,Purdue,4,8
+MFB,2010-11,83,Wake Forest,3,9
+MFB,2010-11,84,East Carolina,6,7
+MFB,2010-11,85,Florida Intl,7,6
+MFB,2010-11,86,Indiana,5,7
+MFB,2010-11,87,Idaho,6,7
+MFB,2010-11,88,Louisiana Tech,5,7
+MFB,2010-11,89,Toledo,8,5
+MFB,2010-11,90,Miami (OH),10,4
+MFB,2010-11,91,Central Michigan,3,9
+MFB,2010-11,92,Vanderbilt,2,10
+MFB,2010-11,93,Washington St.,2,10
+MFB,2010-11,94,Arkansas St.,4,8
+MFB,2010-11,95,Kent State,5,7
+MFB,2010-11,96,Wyoming,3,9
+MFB,2010-11,97,UAB,4,8
+MFB,2010-11,98,UTEP,6,7
+MFB,2010-11,99,Marshall,5,7
+MFB,2010-11,100,Middle Tennessee,6,7
+MFB,2010-11,101,Kansas,3,9
+MFB,2010-11,102,Rice,4,8
+MFB,2010-11,103,Utah St.,4,8
+MFB,2010-11,104,North Texas,3,9
+MFB,2010-11,105,Ball St.,4,8
+MFB,2010-11,106,Colorado St.,3,9
+MFB,2010-11,107,Western Kentucky,2,10
+MFB,2010-11,108,UL Monroe,5,7
+MFB,2010-11,109,UNLV,2,11
+MFB,2010-11,110,Bowling Green,2,10
+MFB,2010-11,111,Tulane,4,8
+MFB,2010-11,112,Louisiana,3,9
+MFB,2010-11,113,San Jose St.,1,12
+MFB,2010-11,114,Florida Atlantic,4,8
+MFB,2010-11,115,Buffalo,2,10
+MFB,2010-11,116,New Mexico,1,11
+MFB,2010-11,117,Akron,1,11
+MFB,2010-11,118,Memphis,1,11
+MFB,2010-11,119,New Mexico State,2,10
+MFB,2010-11,120,Eastern Michigan,2,10
+MFB,2011-12,1,Alabama,12,1
+MFB,2011-12,2,LSU,13,1
+MFB,2011-12,3,Oklahoma St.,12,1
+MFB,2011-12,4,Oregon,12,2
+MFB,2011-12,5,Stanford,11,2
+MFB,2011-12,6,Oklahoma,10,3
+MFB,2011-12,7,Wisconsin,11,3
+MFB,2011-12,8,Boise St.,12,1
+MFB,2011-12,9,USC,10,2
+MFB,2011-12,10,Michigan,11,2
+MFB,2011-12,11,Texas A&M,7,6
+MFB,2011-12,12,Arkansas,11,2
+MFB,2011-12,50,Notre Dame,8,5
+MFB,2011-12,14,Georgia,10,4
+MFB,2011-12,15,Florida St.,9,4
+MFB,2011-12,16,Missouri,8,5
+MFB,2011-12,17,Houston,13,1
+MFB,2011-12,18,South Carolina,11,2
+MFB,2011-12,19,TCU,11,2
+MFB,2011-12,20,Michigan St.,11,3
+MFB,2011-12,21,Texas,8,5
+MFB,2011-12,22,Baylor,10,3
+MFB,2011-12,23,Virginia Tech,11,3
+MFB,2011-12,24,Arizona St.,6,7
+MFB,2011-12,25,Nebraska,9,4
+MFB,2011-12,26,Florida,7,6
+MFB,2011-12,27,West Virginia,10,3
+MFB,2011-12,28,Ohio St.,6,7
+MFB,2011-12,29,Mississippi St.,7,6
+MFB,2011-12,30,California,7,6
+MFB,2011-12,31,Miami (FL),6,6
+MFB,2011-12,32,Cincinnati,10,3
+MFB,2011-12,33,Southern Miss,12,2
+MFB,2011-12,34,Clemson,10,4
+MFB,2011-12,35,Kansas St.,10,3
+MFB,2011-12,36,Penn State,9,4
+MFB,2011-12,37,Utah,8,5
+MFB,2011-12,38,Tulsa,8,5
+MFB,2011-12,39,BYU,10,3
+MFB,2011-12,40,Vanderbilt,6,7
+MFB,2011-12,41,Toledo,9,4
+MFB,2011-12,42,Tennessee,5,7
+MFB,2011-12,43,North Carolina,7,6
+MFB,2011-12,44,South Florida,5,7
+MFB,2011-12,45,Illinois,7,6
+MFB,2011-12,46,Iowa,7,6
+MFB,2011-12,47,Georgia Tech,8,5
+MFB,2011-12,48,Washington,7,6
+MFB,2011-12,49,Temple,9,4
+MFB,2011-12,50,Arizona,4,8
+MFB,2011-12,51,Auburn,8,5
+MFB,2011-12,52,Rutgers,9,4
+MFB,2011-12,53,Nevada,7,6
+MFB,2011-12,54,UCLA,6,8
+MFB,2011-12,55,Pittsburgh,6,7
+MFB,2011-12,56,Texas Tech,5,7
+MFB,2011-12,57,Louisiana Tech,8,5
+MFB,2011-12,58,NC State,8,5
+MFB,2011-12,59,Central Florida,5,7
+MFB,2011-12,60,Northwestern,6,7
+MFB,2011-12,61,Air Force,7,6
+MFB,2011-12,62,Oregon St.,3,9
+MFB,2011-12,63,SMU,8,5
+MFB,2011-12,64,Washington St.,4,8
+MFB,2011-12,65,Louisville,7,6
+MFB,2011-12,66,Northern Illinois,11,3
+MFB,2011-12,67,Virginia,8,5
+MFB,2011-12,68,Purdue,7,6
+MFB,2011-12,69,Wake Forest,6,7
+MFB,2011-12,70,San Diego St.,8,5
+MFB,2011-12,71,Navy,5,7
+MFB,2011-12,72,Arkansas St.,10,3
+MFB,2011-12,73,Western Michigan,7,6
+MFB,2011-12,74,Iowa St.,6,7
+MFB,2011-12,75,Boston College,4,8
+MFB,2011-12,76,Utah St.,7,6
+MFB,2011-12,77,Connecticut,5,7
+MFB,2011-12,78,Kentucky,5,7
+MFB,2011-12,79,Ohio,10,4
+MFB,2011-12,80,Syracuse,5,7
+MFB,2011-12,81,Hawaii,6,7
+MFB,2011-12,82,Maryland,2,10
+MFB,2011-12,83,Florida Intl,8,5
+MFB,2011-12,84,Colorado,3,10
+MFB,2011-12,85,Ole Miss,2,10
+MFB,2011-12,86,Duke,3,9
+MFB,2011-12,87,Miami (OH),4,8
+MFB,2011-12,88,Wyoming,8,5
+MFB,2011-12,89,Minnesota,3,9
+MFB,2011-12,90,UL Monroe,4,8
+MFB,2011-12,91,San Jose St.,5,7
+MFB,2011-12,92,Louisiana,9,4
+MFB,2011-12,93,Marshall,7,6
+MFB,2011-12,94,East Carolina,5,7
+MFB,2011-12,95,Fresno St.,4,9
+MFB,2011-12,96,Army,3,9
+MFB,2011-12,97,Western Kentucky,7,5
+MFB,2011-12,98,UTEP,5,7
+MFB,2011-12,99,Bowling Green,5,7
+MFB,2011-12,100,Kansas,2,10
+MFB,2011-12,101,Rice,4,8
+MFB,2011-12,102,Kent State,5,7
+MFB,2011-12,103,Ball St.,6,6
+MFB,2011-12,104,North Texas,5,7
+MFB,2011-12,105,Indiana,1,11
+MFB,2011-12,106,Central Michigan,3,9
+MFB,2011-12,107,Troy,3,9
+MFB,2011-12,108,Buffalo,3,9
+MFB,2011-12,109,Eastern Michigan,6,6
+MFB,2011-12,110,UAB,3,9
+MFB,2011-12,111,Colorado St.,3,9
+MFB,2011-12,112,Idaho,2,10
+MFB,2011-12,113,New Mexico State,4,9
+MFB,2011-12,114,UNLV,2,10
+MFB,2011-12,115,Tulane,2,11
+MFB,2011-12,116,Middle Tennessee,2,10
+MFB,2011-12,117,Florida Atlantic,1,11
+MFB,2011-12,118,Memphis,2,10
+MFB,2011-12,119,New Mexico,1,11
+MFB,2011-12,120,Akron,1,11
+MFB,2012-13,1,Alabama,13,1
+MFB,2012-13,2,Oregon,12,1
+MFB,2012-13,3,Texas A&M,11,2
+MFB,2012-13,4,Georgia,12,2
+MFB,2012-13,5,Florida St.,12,2
+MFB,2012-13,6,Oklahoma,10,3
+MFB,2012-13,50,Notre Dame,12,1
+MFB,2012-13,8,Oklahoma St.,8,5
+MFB,2012-13,9,Kansas St.,11,2
+MFB,2012-13,10,LSU,10,3
+MFB,2012-13,11,South Carolina,11,2
+MFB,2012-13,12,Florida,11,2
+MFB,2012-13,13,Stanford,12,2
+MFB,2012-13,14,Clemson,11,2
+MFB,2012-13,15,USC,7,6
+MFB,2012-13,16,Michigan,8,5
+MFB,2012-13,17,Ohio St.,12,0
+MFB,2012-13,18,Texas,9,4
+MFB,2012-13,19,Baylor,8,5
+MFB,2012-13,20,Oregon St.,9,4
+MFB,2012-13,21,Wisconsin,8,6
+MFB,2012-13,22,Arizona St.,8,5
+MFB,2012-13,23,UCLA,9,5
+MFB,2012-13,24,Nebraska,10,4
+MFB,2012-13,25,TCU,7,6
+MFB,2012-13,26,Vanderbilt,9,4
+MFB,2012-13,27,BYU,8,5
+MFB,2012-13,28,North Carolina,8,4
+MFB,2012-13,29,Ole Miss,7,6
+MFB,2012-13,30,Texas Tech,8,5
+MFB,2012-13,31,Penn State,8,4
+MFB,2012-13,32,Utah St.,11,2
+MFB,2012-13,33,Michigan St.,7,6
+MFB,2012-13,34,Central Florida,10,4
+MFB,2012-13,35,Tennessee,5,7
+MFB,2012-13,36,Cincinnati,10,3
+MFB,2012-13,37,Boise St.,11,2
+MFB,2012-13,38,Northern Illinois,12,2
+MFB,2012-13,39,Missouri,5,7
+MFB,2012-13,40,Mississippi St.,8,5
+MFB,2012-13,41,Northwestern,10,3
+MFB,2012-13,42,West Virginia,7,6
+MFB,2012-13,43,Georgia Tech,7,7
+MFB,2012-13,44,Miami (FL),7,5
+MFB,2012-13,45,Syracuse,8,5
+MFB,2012-13,46,Arizona,8,5
+MFB,2012-13,47,Utah,5,7
+MFB,2012-13,48,Virginia Tech,7,6
+MFB,2012-13,49,Louisiana Tech,9,3
+MFB,2012-13,50,Louisville,11,2
+MFB,2012-13,51,Fresno St.,9,4
+MFB,2012-13,52,Tulsa,11,3
+MFB,2012-13,53,Pittsburgh,6,7
+MFB,2012-13,54,Washington,7,6
+MFB,2012-13,55,Iowa St.,6,7
+MFB,2012-13,56,San Jose St.,11,2
+MFB,2012-13,57,Rutgers,9,4
+MFB,2012-13,58,NC State,7,6
+MFB,2012-13,59,Arkansas,4,8
+MFB,2012-13,60,Arkansas St.,10,3
+MFB,2012-13,61,San Diego St.,9,4
+MFB,2012-13,62,California,3,9
+MFB,2012-13,63,Kent State,11,3
+MFB,2012-13,64,Purdue,6,7
+MFB,2012-13,65,Iowa,4,8
+MFB,2012-13,66,Louisiana,9,4
+MFB,2012-13,67,Auburn,3,9
+MFB,2012-13,68,South Florida,3,9
+MFB,2012-13,69,SMU,7,6
+MFB,2012-13,70,Minnesota,6,7
+MFB,2012-13,71,Ball St.,9,4
+MFB,2012-13,72,Nevada,7,6
+MFB,2012-13,73,Duke,6,7
+MFB,2012-13,74,Connecticut,5,7
+MFB,2012-13,75,Virginia,4,8
+MFB,2012-13,76,UL Monroe,8,5
+MFB,2012-13,77,Boston College,2,10
+MFB,2012-13,78,Toledo,9,4
+MFB,2012-13,79,Ohio,9,4
+MFB,2012-13,80,Bowling Green,8,5
+MFB,2012-13,81,Maryland,4,8
+MFB,2012-13,82,Western Kentucky,7,6
+MFB,2012-13,83,Indiana,4,8
+MFB,2012-13,84,East Carolina,8,5
+MFB,2012-13,85,Kentucky,2,10
+MFB,2012-13,86,Temple,4,7
+MFB,2012-13,87,Houston,5,7
+MFB,2012-13,88,Navy,8,5
+MFB,2012-13,89,Rice,7,6
+MFB,2012-13,90,Troy,5,7
+MFB,2012-13,91,Western Michigan,4,8
+MFB,2012-13,92,Washington St.,3,9
+MFB,2012-13,93,Marshall,5,7
+MFB,2012-13,94,Kansas,1,11
+MFB,2012-13,95,Wake Forest,5,7
+MFB,2012-13,96,Florida Intl,3,9
+MFB,2012-13,97,Middle Tennessee,8,4
+MFB,2012-13,98,Illinois,2,10
+MFB,2012-13,99,UTEP,3,9
+MFB,2012-13,100,Wyoming,4,8
+MFB,2012-13,101,Air Force,6,7
+MFB,2012-13,102,Central Michigan,7,6
+MFB,2012-13,103,North Texas,4,8
+MFB,2012-13,104,Buffalo,4,8
+MFB,2012-13,105,Texas St.,4,8
+MFB,2012-13,106,Army,2,10
+MFB,2012-13,107,Miami (OH),4,8
+MFB,2012-13,108,New Mexico,4,9
+MFB,2012-13,109,Memphis,4,8
+MFB,2012-13,110,Florida Atlantic,3,9
+MFB,2012-13,111,Colorado St.,4,8
+MFB,2012-13,112,UAB,3,9
+MFB,2012-13,113,UTSA,8,4
+MFB,2012-13,114,UNLV,2,11
+MFB,2012-13,115,Southern Miss,0,12
+MFB,2012-13,116,Akron,1,11
+MFB,2012-13,117,Eastern Michigan,2,10
+MFB,2012-13,118,South Alabama,2,11
+MFB,2012-13,119,Hawaii,3,9
+MFB,2012-13,120,Tulane,2,10
+MFB,2012-13,121,Colorado,1,11
+MFB,2012-13,122,New Mexico State,1,11
+MFB,2012-13,123,Idaho,1,11
+MFB,2012-13,124,Massachusetts,1,11
+MFB,2013-14,1,Florida St.,14,0
+MFB,2013-14,2,Alabama,11,2
+MFB,2013-14,3,Oregon,11,2
+MFB,2013-14,4,Baylor,11,2
+MFB,2013-14,5,Stanford,11,3
+MFB,2013-14,6,Oklahoma St.,10,3
+MFB,2013-14,7,Ohio St.,12,2
+MFB,2013-14,8,Arizona St.,10,4
+MFB,2013-14,9,Missouri,12,2
+MFB,2013-14,10,South Carolina,11,2
+MFB,2013-14,11,Clemson,11,2
+MFB,2013-14,12,Auburn,12,2
+MFB,2013-14,13,Washington,9,4
+MFB,2013-14,14,UCLA,10,3
+MFB,2013-14,15,LSU,10,3
+MFB,2013-14,16,Texas A&M,9,4
+MFB,2013-14,17,Wisconsin,9,4
+MFB,2013-14,18,Georgia,8,5
+MFB,2013-14,19,Oklahoma,11,2
+MFB,2013-14,20,Michigan St.,13,1
+MFB,2013-14,21,Louisville,12,1
+MFB,2013-14,22,USC,10,4
+MFB,2013-14,23,Texas,8,5
+MFB,2013-14,24,Kansas St.,8,5
+MFB,2013-14,25,Ole Miss,8,5
+MFB,2013-14,26,Arizona,8,5
+MFB,2013-14,27,Oregon St.,7,6
+MFB,2013-14,50,Notre Dame,9,4
+MFB,2013-14,29,Georgia Tech,7,6
+MFB,2013-14,30,BYU,8,5
+MFB,2013-14,31,Mississippi St.,7,6
+MFB,2013-14,32,North Carolina,7,6
+MFB,2013-14,33,Michigan,7,6
+MFB,2013-14,34,Central Florida,12,1
+MFB,2013-14,35,Miami (FL),9,4
+MFB,2013-14,36,Florida,4,8
+MFB,2013-14,37,Nebraska,9,4
+MFB,2013-14,38,Utah St.,9,5
+MFB,2013-14,39,Texas Tech,8,5
+MFB,2013-14,40,Utah,5,7
+MFB,2013-14,41,Iowa,8,5
+MFB,2013-14,42,Virginia Tech,8,5
+MFB,2013-14,43,Boise St.,8,5
+MFB,2013-14,44,TCU,4,8
+MFB,2013-14,45,Bowling Green,10,4
+MFB,2013-14,46,Fresno St.,11,2
+MFB,2013-14,47,Marshall,10,4
+MFB,2013-14,48,Duke,10,4
+MFB,2013-14,49,East Carolina,10,3
+MFB,2013-14,50,Houston,8,5
+MFB,2013-14,51,Vanderbilt,9,4
+MFB,2013-14,52,Cincinnati,9,4
+MFB,2013-14,53,Northern Illinois,12,2
+MFB,2013-14,54,Pittsburgh,7,6
+MFB,2013-14,55,Penn State,7,5
+MFB,2013-14,56,Washington St.,6,7
+MFB,2013-14,57,Indiana,5,7
+MFB,2013-14,58,Northwestern,5,7
+MFB,2013-14,59,Tennessee,5,7
+MFB,2013-14,60,Minnesota,8,5
+MFB,2013-14,61,Navy,9,4
+MFB,2013-14,62,North Texas,9,4
+MFB,2013-14,63,Boston College,7,6
+MFB,2013-14,64,Ball St.,10,3
+MFB,2013-14,65,Toledo,7,5
+MFB,2013-14,66,Colorado St.,8,6
+MFB,2013-14,67,Maryland,7,6
+MFB,2013-14,68,Rice,10,4
+MFB,2013-14,69,West Virginia,4,8
+MFB,2013-14,70,Syracuse,7,6
+MFB,2013-14,71,Arkansas,3,9
+MFB,2013-14,72,Louisiana,9,4
+MFB,2013-14,73,Buffalo,8,5
+MFB,2013-14,74,Iowa St.,3,9
+MFB,2013-14,75,Illinois,4,8
+MFB,2013-14,76,Florida Atlantic,6,6
+MFB,2013-14,77,San Diego St.,8,5
+MFB,2013-14,78,San Jose St.,6,6
+MFB,2013-14,79,Wake Forest,4,8
+MFB,2013-14,80,Rutgers,6,7
+MFB,2013-14,81,Kentucky,2,10
+MFB,2013-14,82,SMU,5,7
+MFB,2013-14,83,Western Kentucky,8,4
+MFB,2013-14,84,Middle Tennessee,8,5
+MFB,2013-14,85,UTSA,7,5
+MFB,2013-14,86,Arkansas St.,8,5
+MFB,2013-14,87,UNLV,7,6
+MFB,2013-14,88,NC State,3,9
+MFB,2013-14,89,South Alabama,6,6
+MFB,2013-14,90,Colorado,4,8
+MFB,2013-14,91,Nevada,4,8
+MFB,2013-14,92,Virginia,2,10
+MFB,2013-14,93,Tulane,7,6
+MFB,2013-14,94,Temple,2,10
+MFB,2013-14,95,Memphis,3,9
+MFB,2013-14,96,Old Dominion,8,4
+MFB,2013-14,97,California,1,11
+MFB,2013-14,98,Ohio,7,6
+MFB,2013-14,99,Connecticut,3,9
+MFB,2013-14,100,Kent State,4,8
+MFB,2013-14,101,Hawaii,1,11
+MFB,2013-14,102,Troy,6,6
+MFB,2013-14,103,Tulsa,3,9
+MFB,2013-14,104,Kansas,3,9
+MFB,2013-14,105,Wyoming,5,7
+MFB,2013-14,106,UL Monroe,6,6
+MFB,2013-14,107,South Florida,2,10
+MFB,2013-14,108,Akron,5,7
+MFB,2013-14,109,Central Michigan,6,6
+MFB,2013-14,110,New Mexico,3,9
+MFB,2013-14,111,Purdue,1,11
+MFB,2013-14,112,Texas St.,6,6
+MFB,2013-14,113,Army,3,9
+MFB,2013-14,114,Louisiana Tech,4,8
+MFB,2013-14,115,Air Force,2,10
+MFB,2013-14,116,UAB,2,10
+MFB,2013-14,117,Western Michigan,1,11
+MFB,2013-14,118,UTEP,2,10
+MFB,2013-14,119,Georgia St.,0,12
+MFB,2013-14,120,Massachusetts,1,11
+MFB,2013-14,121,Southern Miss,1,11
+MFB,2013-14,122,New Mexico State,2,10
+MFB,2013-14,123,Eastern Michigan,2,10
+MFB,2013-14,124,Miami (OH),0,12
+MFB,2013-14,125,Idaho,1,11
+MFB,2013-14,126,Florida Intl,1,11
+MFB,2014-15,1,Oregon,13,2
+MFB,2014-15,2,Alabama,12,2
+MFB,2014-15,3,TCU,12,1
+MFB,2014-15,4,Ohio St.,14,1
+MFB,2014-15,5,Georgia,10,3
+MFB,2014-15,6,Baylor,11,2
+MFB,2014-15,7,Michigan St.,11,2
+MFB,2014-15,8,Auburn,8,5
+MFB,2014-15,9,Ole Miss,9,4
+MFB,2014-15,10,Mississippi St.,10,3
+MFB,2014-15,11,UCLA,10,3
+MFB,2014-15,12,Stanford,8,5
+MFB,2014-15,13,USC,9,4
+MFB,2014-15,14,Florida St.,13,1
+MFB,2014-15,15,LSU,8,5
+MFB,2014-15,16,Oklahoma,8,5
+MFB,2014-15,17,Arkansas,7,6
+MFB,2014-15,18,Kansas St.,9,4
+MFB,2014-15,19,Wisconsin,11,3
+MFB,2014-15,20,Clemson,10,3
+MFB,2014-15,21,Georgia Tech,11,3
+MFB,2014-15,22,Florida,7,5
+MFB,2014-15,23,Texas A&M,8,5
+MFB,2014-15,24,Arizona St.,10,3
+MFB,2014-15,25,Arizona,10,4
+MFB,2014-15,26,Missouri,11,3
+MFB,2014-15,27,Utah,9,4
+MFB,2014-15,28,Nebraska,9,4
+MFB,2014-15,29,Marshall,13,1
+MFB,2014-15,50,Notre Dame,8,5
+MFB,2014-15,31,Tennessee,7,6
+MFB,2014-15,32,West Virginia,7,6
+MFB,2014-15,33,South Carolina,7,6
+MFB,2014-15,34,Washington,8,6
+MFB,2014-15,35,Louisville,9,4
+MFB,2014-15,36,Miami (FL),6,7
+MFB,2014-15,37,Boise St.,12,2
+MFB,2014-15,38,Texas,6,7
+MFB,2014-15,39,Minnesota,8,5
+MFB,2014-15,40,Memphis,10,3
+MFB,2014-15,41,Virginia Tech,7,6
+MFB,2014-15,42,Duke,9,4
+MFB,2014-15,43,BYU,8,5
+MFB,2014-15,44,Michigan,5,7
+MFB,2014-15,45,Pittsburgh,6,7
+MFB,2014-15,46,Virginia,5,7
+MFB,2014-15,47,California,5,7
+MFB,2014-15,48,Oklahoma St.,7,6
+MFB,2014-15,49,Iowa,7,6
+MFB,2014-15,50,Cincinnati,9,4
+MFB,2014-15,51,Boston College,7,6
+MFB,2014-15,52,Maryland,7,6
+MFB,2014-15,53,Louisiana Tech,9,5
+MFB,2014-15,54,Houston,8,5
+MFB,2014-15,55,Central Florida,9,4
+MFB,2014-15,56,Penn State,7,6
+MFB,2014-15,57,North Carolina,6,7
+MFB,2014-15,58,NC State,8,5
+MFB,2014-15,59,East Carolina,8,5
+MFB,2014-15,60,Kentucky,5,7
+MFB,2014-15,61,Oregon St.,5,7
+MFB,2014-15,62,Washington St.,3,9
+MFB,2014-15,63,Colorado St.,10,3
+MFB,2014-15,64,Texas Tech,4,8
+MFB,2014-15,65,Utah St.,10,4
+MFB,2014-15,66,Northwestern,5,7
+MFB,2014-15,67,Rutgers,8,5
+MFB,2014-15,68,Toledo,9,4
+MFB,2014-15,69,Navy,8,5
+MFB,2014-15,70,Northern Illinois,11,3
+MFB,2014-15,71,Georgia Southern,9,3
+MFB,2014-15,72,Nevada,7,6
+MFB,2014-15,73,Syracuse,3,9
+MFB,2014-15,74,Indiana,4,8
+MFB,2014-15,75,Colorado,2,10
+MFB,2014-15,76,Temple,6,6
+MFB,2014-15,77,San Diego St.,7,6
+MFB,2014-15,78,Western Michigan,8,5
+MFB,2014-15,79,Illinois,6,7
+MFB,2014-15,80,Louisiana,9,4
+MFB,2014-15,81,Air Force,10,3
+MFB,2014-15,82,Arkansas St.,7,6
+MFB,2014-15,83,Western Kentucky,8,5
+MFB,2014-15,84,Rice,8,5
+MFB,2014-15,85,Iowa St.,2,10
+MFB,2014-15,86,Purdue,3,9
+MFB,2014-15,87,Central Michigan,7,6
+MFB,2014-15,88,Fresno St.,6,8
+MFB,2014-15,89,Appalachian St.,7,5
+MFB,2014-15,90,UAB,6,6
+MFB,2014-15,91,Kansas,3,9
+MFB,2014-15,92,Middle Tennessee,6,6
+MFB,2014-15,93,Texas St.,7,5
+MFB,2014-15,94,Vanderbilt,3,9
+MFB,2014-15,95,Ball St.,5,7
+MFB,2014-15,96,Hawaii,4,9
+MFB,2014-15,97,UTEP,7,6
+MFB,2014-15,98,South Alabama,6,7
+MFB,2014-15,99,Bowling Green,8,6
+MFB,2014-15,100,Tulane,3,9
+MFB,2014-15,101,UL Monroe,4,8
+MFB,2014-15,102,South Florida,4,8
+MFB,2014-15,103,UTSA,4,8
+MFB,2014-15,104,Wake Forest,3,9
+MFB,2014-15,105,Akron,5,7
+MFB,2014-15,106,Ohio,6,6
+MFB,2014-15,107,Buffalo,5,6
+MFB,2014-15,108,Old Dominion,6,6
+MFB,2014-15,109,Wyoming,4,8
+MFB,2014-15,110,San Jose St.,3,9
+MFB,2014-15,111,Florida Atlantic,3,9
+MFB,2014-15,112,New Mexico,4,8
+MFB,2014-15,113,Florida Intl,4,8
+MFB,2014-15,114,North Texas,4,8
+MFB,2014-15,115,Tulsa,2,10
+MFB,2014-15,116,Army,4,8
+MFB,2014-15,117,Kent State,2,9
+MFB,2014-15,118,Massachusetts,3,9
+MFB,2014-15,119,Connecticut,2,10
+MFB,2014-15,120,Southern Miss,3,9
+MFB,2014-15,121,Miami (OH),2,10
+MFB,2014-15,122,UNLV,2,11
+MFB,2014-15,123,Idaho,1,10
+MFB,2014-15,124,Troy,3,9
+MFB,2014-15,125,SMU,1,11
+MFB,2014-15,126,New Mexico State,2,10
+MFB,2014-15,127,Georgia St.,1,11
+MFB,2014-15,128,Eastern Michigan,2,10
+MFB,2015-16,1,Alabama,14,1
+MFB,2015-16,2,Oklahoma,11,2
+MFB,2015-16,3,Ohio St.,12,1
+MFB,2015-16,4,Ole Miss,10,3
+MFB,2015-16,5,Clemson,14,1
+MFB,2015-16,6,Baylor,10,3
+MFB,2015-16,7,Stanford,12,2
+MFB,2015-16,8,LSU,9,3
+MFB,2015-16,9,Tennessee,9,4
+MFB,2015-16,10,TCU,11,2
+MFB,2015-16,50,Notre Dame,10,3
+MFB,2015-16,12,USC,8,6
+MFB,2015-16,13,Florida St.,10,3
+MFB,2015-16,14,Arkansas,8,5
+MFB,2015-16,15,Michigan,10,3
+MFB,2015-16,16,North Carolina,11,3
+MFB,2015-16,17,Mississippi St.,9,4
+MFB,2015-16,18,Michigan St.,12,2
+MFB,2015-16,19,Georgia,10,3
+MFB,2015-16,20,UCLA,8,5
+MFB,2015-16,21,Texas A&M,8,5
+MFB,2015-16,22,West Virginia,8,5
+MFB,2015-16,23,Oregon,9,4
+MFB,2015-16,24,Oklahoma St.,10,3
+MFB,2015-16,25,California,8,5
+MFB,2015-16,26,Wisconsin,10,3
+MFB,2015-16,27,Utah,10,3
+MFB,2015-16,28,Washington,7,6
+MFB,2015-16,29,Florida,10,4
+MFB,2015-16,30,Auburn,7,6
+MFB,2015-16,31,Western Kentucky,12,2
+MFB,2015-16,32,Boise St.,9,4
+MFB,2015-16,33,Iowa,12,2
+MFB,2015-16,34,Houston,13,1
+MFB,2015-16,35,Louisville,8,5
+MFB,2015-16,36,Georgia Tech,3,9
+MFB,2015-16,37,Arizona St.,6,7
+MFB,2015-16,38,Virginia Tech,7,6
+MFB,2015-16,39,Nebraska,6,7
+MFB,2015-16,40,BYU,9,4
+MFB,2015-16,41,NC State,7,6
+MFB,2015-16,42,Texas Tech,7,6
+MFB,2015-16,43,Toledo,10,2
+MFB,2015-16,44,Navy,11,2
+MFB,2015-16,45,Pittsburgh,8,5
+MFB,2015-16,46,Memphis,9,4
+MFB,2015-16,47,Bowling Green,10,4
+MFB,2015-16,48,Washington St.,9,4
+MFB,2015-16,49,Penn State,7,6
+MFB,2015-16,50,Texas,5,7
+MFB,2015-16,51,Temple,10,4
+MFB,2015-16,52,Miami (FL),8,5
+MFB,2015-16,53,San Diego St.,11,3
+MFB,2015-16,54,Arizona,7,6
+MFB,2015-16,55,Georgia Southern,9,4
+MFB,2015-16,56,Western Michigan,8,5
+MFB,2015-16,57,Appalachian St.,11,2
+MFB,2015-16,58,Missouri,5,7
+MFB,2015-16,59,South Florida,8,5
+MFB,2015-16,60,Kansas St.,6,7
+MFB,2015-16,61,Duke,8,5
+MFB,2015-16,62,Northwestern,10,3
+MFB,2015-16,63,Louisiana Tech,9,4
+MFB,2015-16,64,South Carolina,3,9
+MFB,2015-16,65,Southern Miss,9,5
+MFB,2015-16,66,Minnesota,6,7
+MFB,2015-16,67,Illinois,5,7
+MFB,2015-16,68,Marshall,10,3
+MFB,2015-16,69,Kentucky,5,7
+MFB,2015-16,70,Virginia,4,8
+MFB,2015-16,71,Air Force,8,6
+MFB,2015-16,72,Indiana,6,7
+MFB,2015-16,73,Arkansas St.,9,4
+MFB,2015-16,74,Vanderbilt,4,8
+MFB,2015-16,75,Boston College,3,9
+MFB,2015-16,76,Cincinnati,7,6
+MFB,2015-16,77,Utah St.,6,7
+MFB,2015-16,78,Middle Tennessee,7,6
+MFB,2015-16,79,Iowa St.,3,9
+MFB,2015-16,80,Syracuse,4,8
+MFB,2015-16,81,East Carolina,5,7
+MFB,2015-16,82,Colorado,4,9
+MFB,2015-16,83,Northern Illinois,8,6
+MFB,2015-16,84,Maryland,3,9
+MFB,2015-16,85,Central Michigan,7,6
+MFB,2015-16,86,Wake Forest,3,9
+MFB,2015-16,87,San Jose St.,6,7
+MFB,2015-16,88,Ohio,8,5
+MFB,2015-16,89,Purdue,2,10
+MFB,2015-16,90,Rutgers,4,8
+MFB,2015-16,91,Tulsa,6,7
+MFB,2015-16,92,Connecticut,6,7
+MFB,2015-16,93,Colorado St.,7,6
+MFB,2015-16,94,Akron,8,5
+MFB,2015-16,95,New Mexico,7,6
+MFB,2015-16,96,Troy,4,8
+MFB,2015-16,97,Oregon St.,2,10
+MFB,2015-16,98,Nevada,7,6
+MFB,2015-16,99,Florida Atlantic,3,9
+MFB,2015-16,100,Georgia St.,6,7
+MFB,2015-16,101,Buffalo,5,7
+MFB,2015-16,102,Florida Intl,5,7
+MFB,2015-16,103,UNLV,3,9
+MFB,2015-16,104,Ball St.,3,9
+MFB,2015-16,105,Louisiana,4,8
+MFB,2015-16,106,Massachusetts,3,9
+MFB,2015-16,107,Rice,5,7
+MFB,2015-16,108,SMU,2,10
+MFB,2015-16,109,Army,2,10
+MFB,2015-16,110,Texas St.,3,9
+MFB,2015-16,111,Fresno St.,3,9
+MFB,2015-16,112,Tulane,3,9
+MFB,2015-16,113,Wyoming,2,10
+MFB,2015-16,114,Idaho,4,8
+MFB,2015-16,115,Kent State,3,9
+MFB,2015-16,116,UTSA,3,9
+MFB,2015-16,117,South Alabama,5,7
+MFB,2015-16,118,UL Monroe,2,11
+MFB,2015-16,119,Hawaii,3,10
+MFB,2015-16,120,Old Dominion,5,7
+MFB,2015-16,121,UTEP,5,7
+MFB,2015-16,122,New Mexico State,3,9
+MFB,2015-16,123,Miami (OH),3,9
+MFB,2015-16,124,Kansas,0,12
+MFB,2015-16,125,Central Florida,0,12
+MFB,2015-16,126,Eastern Michigan,1,11
+MFB,2015-16,127,North Texas,1,11
+MFB,2015-16,128,Charlotte,2,10
+MFB,2016-17,1,Alabama,14,1
+MFB,2016-17,2,Clemson,14,1
+MFB,2016-17,3,Michigan,10,3
+MFB,2016-17,4,Ohio St.,11,2
+MFB,2016-17,5,Washington,12,2
+MFB,2016-17,6,LSU,8,4
+MFB,2016-17,7,Oklahoma,11,2
+MFB,2016-17,8,Florida St.,10,3
+MFB,2016-17,9,Louisville,9,4
+MFB,2016-17,10,USC,10,3
+MFB,2016-17,11,Auburn,8,5
+MFB,2016-17,12,Wisconsin,11,3
+MFB,2016-17,13,Penn State,11,3
+MFB,2016-17,14,Miami (FL),9,4
+MFB,2016-17,15,Oklahoma St.,10,3
+MFB,2016-17,16,Texas A&M,8,5
+MFB,2016-17,17,Tennessee,9,4
+MFB,2016-17,18,Stanford,10,3
+MFB,2016-17,19,Colorado,10,4
+MFB,2016-17,20,Washington St.,8,5
+MFB,2016-17,21,North Carolina,8,5
+MFB,2016-17,22,Florida,9,4
+MFB,2016-17,23,Virginia Tech,10,4
+MFB,2016-17,24,West Virginia,10,3
+MFB,2016-17,25,Pittsburgh,8,5
+MFB,2016-17,26,Western Michigan,13,1
+MFB,2016-17,27,Kansas St.,9,4
+MFB,2016-17,28,Western Kentucky,11,3
+MFB,2016-17,29,Ole Miss,5,7
+MFB,2016-17,30,Iowa,8,5
+MFB,2016-17,31,BYU,9,4
+MFB,2016-17,50,Notre Dame,4,8
+MFB,2016-17,33,Utah,9,4
+MFB,2016-17,34,TCU,6,7
+MFB,2016-17,35,Boise St.,10,3
+MFB,2016-17,36,South Florida,11,2
+MFB,2016-17,37,NC State,7,6
+MFB,2016-17,38,Houston,9,4
+MFB,2016-17,39,Baylor,7,6
+MFB,2016-17,40,Temple,10,4
+MFB,2016-17,41,Georgia,8,5
+MFB,2016-17,42,Northwestern,7,6
+MFB,2016-17,43,UCLA,4,8
+MFB,2016-17,44,Texas,5,7
+MFB,2016-17,45,San Diego St.,11,3
+MFB,2016-17,46,Georgia Tech,9,4
+MFB,2016-17,47,Minnesota,9,4
+MFB,2016-17,48,Nebraska,9,4
+MFB,2016-17,49,Tulsa,10,3
+MFB,2016-17,50,Arkansas,7,6
+MFB,2016-17,51,Mississippi St.,6,7
+MFB,2016-17,52,Memphis,8,5
+MFB,2016-17,53,Texas Tech,5,7
+MFB,2016-17,54,Appalachian St.,10,3
+MFB,2016-17,55,Vanderbilt,6,7
+MFB,2016-17,56,Toledo,9,4
+MFB,2016-17,57,Navy,9,5
+MFB,2016-17,58,California,5,7
+MFB,2016-17,59,Louisiana Tech,9,5
+MFB,2016-17,60,Michigan St.,3,9
+MFB,2016-17,61,Oregon,4,8
+MFB,2016-17,62,Kentucky,7,6
+MFB,2016-17,63,Wake Forest,7,6
+MFB,2016-17,64,Missouri,4,8
+MFB,2016-17,65,Duke,4,8
+MFB,2016-17,66,Iowa St.,3,9
+MFB,2016-17,67,Indiana,6,7
+MFB,2016-17,68,Air Force,10,3
+MFB,2016-17,69,Troy,10,3
+MFB,2016-17,70,Arizona St.,5,7
+MFB,2016-17,71,Oregon St.,4,8
+MFB,2016-17,72,South Carolina,6,7
+MFB,2016-17,73,Central Florida,6,7
+MFB,2016-17,74,Colorado St.,7,6
+MFB,2016-17,75,Boston College,7,6
+MFB,2016-17,76,Wyoming,8,6
+MFB,2016-17,77,Army,8,5
+MFB,2016-17,78,Maryland,6,7
+MFB,2016-17,79,Arizona,3,9
+MFB,2016-17,80,Arkansas St.,8,5
+MFB,2016-17,81,Syracuse,4,8
+MFB,2016-17,82,Northern Illinois,5,7
+MFB,2016-17,83,New Mexico,9,4
+MFB,2016-17,84,Virginia,2,10
+MFB,2016-17,85,Old Dominion,10,3
+MFB,2016-17,86,Middle Tennessee,8,5
+MFB,2016-17,87,Ohio,8,6
+MFB,2016-17,88,Utah St.,3,9
+MFB,2016-17,89,Southern Miss,7,6
+MFB,2016-17,90,Cincinnati,4,8
+MFB,2016-17,91,Central Michigan,6,7
+MFB,2016-17,92,SMU,5,7
+MFB,2016-17,93,Georgia Southern,5,7
+MFB,2016-17,94,Illinois,3,9
+MFB,2016-17,95,Tulane,4,8
+MFB,2016-17,96,Idaho,9,4
+MFB,2016-17,97,Miami (OH),6,7
+MFB,2016-17,98,East Carolina,3,9
+MFB,2016-17,99,Purdue,3,9
+MFB,2016-17,100,Nevada,5,7
+MFB,2016-17,101,UTSA,6,7
+MFB,2016-17,102,San Jose St.,4,8
+MFB,2016-17,103,Ball St.,4,8
+MFB,2016-17,104,Kansas,2,10
+MFB,2016-17,105,Eastern Michigan,7,6
+MFB,2016-17,106,Louisiana,6,7
+MFB,2016-17,107,UNLV,4,8
+MFB,2016-17,108,Akron,5,7
+MFB,2016-17,109,Kent State,3,9
+MFB,2016-17,110,Georgia St.,3,9
+MFB,2016-17,111,Hawaii,7,7
+MFB,2016-17,112,Connecticut,3,9
+MFB,2016-17,113,Rutgers,2,10
+MFB,2016-17,114,South Alabama,6,7
+MFB,2016-17,115,Marshall,3,9
+MFB,2016-17,116,Bowling Green,4,8
+MFB,2016-17,117,North Texas,5,8
+MFB,2016-17,118,Massachusetts,2,10
+MFB,2016-17,119,Florida Atlantic,3,9
+MFB,2016-17,120,Fresno St.,1,11
+MFB,2016-17,121,Rice,3,9
+MFB,2016-17,122,Florida Intl,4,8
+MFB,2016-17,123,New Mexico State,3,9
+MFB,2016-17,124,UTEP,4,8
+MFB,2016-17,125,Charlotte,4,8
+MFB,2016-17,126,UL Monroe,4,8
+MFB,2016-17,127,Buffalo,2,10
+MFB,2016-17,128,Texas St.,2,10
+MFB,2017-18,1,Alabama,13,1
+MFB,2017-18,2,Ohio St.,12,2
+MFB,2017-18,3,Georgia,13,2
+MFB,2017-18,4,Penn State,11,2
+MFB,2017-18,5,Clemson,12,2
+MFB,2017-18,6,Oklahoma,12,2
+MFB,2017-18,7,Wisconsin,13,1
+MFB,2017-18,8,Washington,10,3
+MFB,2017-18,9,Auburn,10,4
+MFB,2017-18,50,Notre Dame,10,3
+MFB,2017-18,11,Oklahoma St.,10,3
+MFB,2017-18,12,TCU,11,3
+MFB,2017-18,13,Stanford,9,5
+MFB,2017-18,14,LSU,9,4
+MFB,2017-18,15,Central Florida,13,0
+MFB,2017-18,16,USC,11,3
+MFB,2017-18,17,Miami (FL),10,3
+MFB,2017-18,18,Virginia Tech,9,4
+MFB,2017-18,19,Mississippi St.,9,4
+MFB,2017-18,20,Florida St.,7,6
+MFB,2017-18,21,NC State,9,4
+MFB,2017-18,22,Louisville,8,5
+MFB,2017-18,23,Iowa,8,5
+MFB,2017-18,24,Michigan,8,5
+MFB,2017-18,25,Texas,7,6
+MFB,2017-18,26,Iowa St.,8,5
+MFB,2017-18,27,Northwestern,10,3
+MFB,2017-18,28,Oregon,7,6
+MFB,2017-18,29,Kansas St.,8,5
+MFB,2017-18,30,Memphis,10,3
+MFB,2017-18,31,Wake Forest,8,5
+MFB,2017-18,32,Michigan St.,10,3
+MFB,2017-18,33,Georgia Tech,5,6
+MFB,2017-18,34,South Carolina,9,4
+MFB,2017-18,35,Boston College,7,6
+MFB,2017-18,36,Washington St.,9,4
+MFB,2017-18,37,Duke,7,6
+MFB,2017-18,38,Utah,7,6
+MFB,2017-18,39,Missouri,7,6
+MFB,2017-18,40,Texas A&M,7,6
+MFB,2017-18,41,Boise St.,11,3
+MFB,2017-18,42,Texas Tech,6,7
+MFB,2017-18,43,Arizona,7,6
+MFB,2017-18,44,South Florida,10,2
+MFB,2017-18,45,UCLA,6,7
+MFB,2017-18,46,West Virginia,7,6
+MFB,2017-18,47,Arizona St.,7,6
+MFB,2017-18,48,Purdue,7,6
+MFB,2017-18,49,Indiana,5,7
+MFB,2017-18,50,Florida,4,7
+MFB,2017-18,51,San Diego St.,10,3
+MFB,2017-18,52,Florida Atlantic,11,3
+MFB,2017-18,53,Ole Miss,6,6
+MFB,2017-18,54,Navy,7,6
+MFB,2017-18,55,California,5,7
+MFB,2017-18,56,Houston,7,5
+MFB,2017-18,57,Pittsburgh,5,7
+MFB,2017-18,58,Kentucky,7,6
+MFB,2017-18,59,Toledo,11,3
+MFB,2017-18,60,Fresno St.,10,4
+MFB,2017-18,61,Ohio,9,4
+MFB,2017-18,62,North Carolina,3,9
+MFB,2017-18,63,Appalachian St.,9,4
+MFB,2017-18,64,Syracuse,4,8
+MFB,2017-18,65,Army,10,3
+MFB,2017-18,66,Minnesota,5,7
+MFB,2017-18,67,Colorado,5,7
+MFB,2017-18,68,Troy,11,2
+MFB,2017-18,69,Arkansas,4,8
+MFB,2017-18,70,Nebraska,4,8
+MFB,2017-18,71,Colorado St.,7,6
+MFB,2017-18,72,SMU,7,6
+MFB,2017-18,73,Tennessee,4,8
+MFB,2017-18,74,Northern Illinois,8,5
+MFB,2017-18,75,Virginia,6,7
+MFB,2017-18,76,Vanderbilt,5,7
+MFB,2017-18,77,Wyoming,8,5
+MFB,2017-18,78,Arkansas St.,7,5
+MFB,2017-18,79,Temple,7,6
+MFB,2017-18,80,Western Michigan,6,6
+MFB,2017-18,81,Baylor,1,11
+MFB,2017-18,82,Marshall,8,5
+MFB,2017-18,83,Tulane,5,7
+MFB,2017-18,84,Maryland,4,8
+MFB,2017-18,85,Utah St.,6,7
+MFB,2017-18,86,Eastern Michigan,5,7
+MFB,2017-18,87,Louisiana Tech,7,6
+MFB,2017-18,88,Air Force,5,7
+MFB,2017-18,89,Tulsa,2,10
+MFB,2017-18,90,Southern Miss,8,5
+MFB,2017-18,91,Buffalo,6,6
+MFB,2017-18,92,Central Michigan,8,5
+MFB,2017-18,93,BYU,4,9
+MFB,2017-18,94,Rutgers,4,8
+MFB,2017-18,95,UTSA,6,5
+MFB,2017-18,96,Miami (OH),5,7
+MFB,2017-18,97,North Texas,9,5
+MFB,2017-18,98,Middle Tennessee,7,6
+MFB,2017-18,99,Massachusetts,4,8
+MFB,2017-18,100,New Mexico State,7,6
+MFB,2017-18,101,Nevada,3,9
+MFB,2017-18,102,UNLV,5,7
+MFB,2017-18,103,UL Monroe,4,8
+MFB,2017-18,104,Illinois,2,10
+MFB,2017-18,105,Akron,7,7
+MFB,2017-18,106,Cincinnati,4,8
+MFB,2017-18,107,UAB,8,5
+MFB,2017-18,108,Oregon St.,1,11
+MFB,2017-18,109,Western Kentucky,6,7
+MFB,2017-18,110,Florida Intl,8,5
+MFB,2017-18,111,Idaho,4,8
+MFB,2017-18,112,New Mexico,3,9
+MFB,2017-18,113,Georgia St.,7,5
+MFB,2017-18,114,South Alabama,4,8
+MFB,2017-18,115,Connecticut,3,9
+MFB,2017-18,116,East Carolina,3,9
+MFB,2017-18,117,Bowling Green,2,10
+MFB,2017-18,118,Georgia Southern,2,10
+MFB,2017-18,119,Kansas,1,11
+MFB,2017-18,120,Hawaii,3,9
+MFB,2017-18,121,Louisiana,5,7
+MFB,2017-18,122,Coastal Carolina,3,9
+MFB,2017-18,123,Old Dominion,5,7
+MFB,2017-18,124,Rice,1,11
+MFB,2017-18,125,Kent State,2,10
+MFB,2017-18,126,San Jose St.,2,11
+MFB,2017-18,127,Charlotte,1,11
+MFB,2017-18,128,Texas St.,2,10
+MFB,2017-18,129,Ball St.,2,10
+MFB,2017-18,130,UTEP,0,12
+MFB,2018-19,1,Clemson,15,0
+MFB,2018-19,2,Alabama,14,1
+MFB,2018-19,3,Georgia,11,3
+MFB,2018-19,4,Ohio St.,13,1
+MFB,2018-19,5,Oklahoma,12,2
+MFB,2018-19,6,Michigan,10,3
+MFB,2018-19,50,Notre Dame,12,1
+MFB,2018-19,8,Penn State,9,4
+MFB,2018-19,9,Mississippi St.,8,5
+MFB,2018-19,10,Washington,10,4
+MFB,2018-19,11,Florida,10,3
+MFB,2018-19,12,Auburn,8,5
+MFB,2018-19,13,Texas A&M,9,4
+MFB,2018-19,14,Missouri,8,5
+MFB,2018-19,15,West Virginia,8,4
+MFB,2018-19,16,Iowa,9,4
+MFB,2018-19,17,LSU,10,3
+MFB,2018-19,18,Washington St.,11,2
+MFB,2018-19,19,Texas,10,4
+MFB,2018-19,20,Utah,9,5
+MFB,2018-19,21,Stanford,9,4
+MFB,2018-19,22,Fresno St.,12,2
+MFB,2018-19,23,Utah St.,11,2
+MFB,2018-19,24,Wisconsin,8,5
+MFB,2018-19,25,Central Florida,12,1
+MFB,2018-19,26,Kentucky,10,3
+MFB,2018-19,27,Miami (FL),7,6
+MFB,2018-19,28,Syracuse,10,3
+MFB,2018-19,29,Boise St.,10,3
+MFB,2018-19,30,Oklahoma St.,7,6
+MFB,2018-19,31,Oregon,9,4
+MFB,2018-19,32,Michigan St.,7,6
+MFB,2018-19,33,NC State,9,4
+MFB,2018-19,34,Texas Tech,5,7
+MFB,2018-19,35,South Carolina,7,6
+MFB,2018-19,36,Boston College,7,5
+MFB,2018-19,37,Northwestern,9,5
+MFB,2018-19,38,Iowa St.,8,5
+MFB,2018-19,39,Georgia Tech,7,6
+MFB,2018-19,40,Purdue,6,7
+MFB,2018-19,41,Arizona St.,7,6
+MFB,2018-19,42,Virginia,8,5
+MFB,2018-19,43,Duke,8,5
+MFB,2018-19,44,Cincinnati,11,2
+MFB,2018-19,45,Appalachian St.,11,2
+MFB,2018-19,46,USC,5,7
+MFB,2018-19,47,TCU,7,6
+MFB,2018-19,48,Minnesota,7,6
+MFB,2018-19,49,Pittsburgh,7,7
+MFB,2018-19,50,Maryland,5,7
+MFB,2018-19,51,Memphis,8,6
+MFB,2018-19,52,California,7,6
+MFB,2018-19,53,Vanderbilt,6,7
+MFB,2018-19,54,Ohio,9,4
+MFB,2018-19,55,Virginia Tech,6,7
+MFB,2018-19,56,Army,11,2
+MFB,2018-19,57,Nebraska,4,8
+MFB,2018-19,58,Ole Miss,5,7
+MFB,2018-19,59,Wake Forest,7,6
+MFB,2018-19,60,BYU,7,6
+MFB,2018-19,61,Baylor,7,6
+MFB,2018-19,62,Kansas St.,5,7
+MFB,2018-19,63,Indiana,5,7
+MFB,2018-19,64,Arizona,5,7
+MFB,2018-19,65,Tennessee,5,7
+MFB,2018-19,66,Temple,8,5
+MFB,2018-19,67,Florida St.,5,7
+MFB,2018-19,68,UCLA,3,9
+MFB,2018-19,69,Colorado,5,7
+MFB,2018-19,70,UAB,11,3
+MFB,2018-19,71,Houston,8,5
+MFB,2018-19,72,Toledo,7,6
+MFB,2018-19,73,Marshall,9,4
+MFB,2018-19,74,North Texas,9,4
+MFB,2018-19,75,Buffalo,10,4
+MFB,2018-19,76,Georgia Southern,10,3
+MFB,2018-19,77,North Carolina,2,9
+MFB,2018-19,78,Air Force,5,7
+MFB,2018-19,79,Troy,10,3
+MFB,2018-19,80,Kansas,3,9
+MFB,2018-19,81,Middle Tennessee,8,6
+MFB,2018-19,82,Miami (OH),6,6
+MFB,2018-19,83,Northern Illinois,8,6
+MFB,2018-19,84,Nevada,8,5
+MFB,2018-19,85,Tulane,7,6
+MFB,2018-19,86,Florida Intl,9,4
+MFB,2018-19,87,Arkansas St.,8,5
+MFB,2018-19,88,Wyoming,6,6
+MFB,2018-19,89,Eastern Michigan,7,6
+MFB,2018-19,90,San Diego St.,7,6
+MFB,2018-19,91,Arkansas,2,10
+MFB,2018-19,92,Florida Atlantic,5,7
+MFB,2018-19,93,Louisiana Tech,8,5
+MFB,2018-19,94,South Florida,7,6
+MFB,2018-19,95,Southern Miss,6,5
+MFB,2018-19,96,Western Michigan,7,6
+MFB,2018-19,97,SMU,5,7
+MFB,2018-19,98,Illinois,4,8
+MFB,2018-19,99,Navy,3,10
+MFB,2018-19,100,Rutgers,1,11
+MFB,2018-19,101,Tulsa,3,9
+MFB,2018-19,102,Louisiana,7,7
+MFB,2018-19,103,Louisville,2,10
+MFB,2018-19,104,Oregon St.,2,10
+MFB,2018-19,105,UL Monroe,6,6
+MFB,2018-19,106,Massachusetts,4,8
+MFB,2018-19,107,Hawaii,8,6
+MFB,2018-19,108,Akron,4,8
+MFB,2018-19,109,Charlotte,5,7
+MFB,2018-19,110,UNLV,4,8
+MFB,2018-19,111,Colorado St.,3,9
+MFB,2018-19,112,New Mexico,3,9
+MFB,2018-19,113,Liberty,6,6
+MFB,2018-19,114,Ball St.,4,8
+MFB,2018-19,115,Western Kentucky,3,9
+MFB,2018-19,116,Coastal Carolina,5,7
+MFB,2018-19,117,Old Dominion,4,8
+MFB,2018-19,118,Central Michigan,1,11
+MFB,2018-19,119,San Jose St.,1,11
+MFB,2018-19,120,East Carolina,3,9
+MFB,2018-19,121,Georgia St.,2,10
+MFB,2018-19,122,Bowling Green,3,9
+MFB,2018-19,123,Kent State,2,10
+MFB,2018-19,124,New Mexico State,3,9
+MFB,2018-19,125,UTSA,3,9
+MFB,2018-19,126,Texas St.,3,9
+MFB,2018-19,127,South Alabama,3,9
+MFB,2018-19,128,Rice,2,11
+MFB,2018-19,129,Connecticut,1,11
+MFB,2018-19,130,UTEP,1,11
+MFB,2019-20,1,Ohio St.,13,1
+MFB,2019-20,2,Clemson,14,1
+MFB,2019-20,3,LSU,15,0
+MFB,2019-20,4,Alabama,11,2
+MFB,2019-20,5,Georgia,12,2
+MFB,2019-20,6,Oregon,12,2
+MFB,2019-20,7,Penn State,11,2
+MFB,2019-20,8,Wisconsin,10,4
+MFB,2019-20,9,Florida,11,2
+MFB,2019-20,10,Auburn,9,4
+MFB,2019-20,50,Notre Dame,11,2
+MFB,2019-20,12,Michigan,9,4
+MFB,2019-20,13,Oklahoma,12,2
+MFB,2019-20,14,Utah,11,3
+MFB,2019-20,15,Iowa,10,3
+MFB,2019-20,16,Washington,8,5
+MFB,2019-20,17,Baylor,11,3
+MFB,2019-20,18,Minnesota,11,2
+MFB,2019-20,19,Texas A&M,8,5
+MFB,2019-20,20,Texas,8,5
+MFB,2019-20,21,Central Florida,10,3
+MFB,2019-20,22,Iowa St.,7,6
+MFB,2019-20,23,USC,8,5
+MFB,2019-20,24,Memphis,12,2
+MFB,2019-20,25,Kentucky,8,5
+MFB,2019-20,26,Oklahoma St.,8,5
+MFB,2019-20,27,North Carolina,7,6
+MFB,2019-20,28,Boise St.,12,2
+MFB,2019-20,29,Appalachian St.,13,1
+MFB,2019-20,30,Cincinnati,11,3
+MFB,2019-20,31,Washington St.,6,7
+MFB,2019-20,32,Missouri,6,6
+MFB,2019-20,33,Tennessee,8,5
+MFB,2019-20,34,Kansas St.,8,5
+MFB,2019-20,35,Michigan St.,7,6
+MFB,2019-20,36,Indiana,8,5
+MFB,2019-20,37,TCU,5,7
+MFB,2019-20,38,Air Force,11,2
+MFB,2019-20,39,Mississippi St.,6,7
+MFB,2019-20,40,Navy,11,2
+MFB,2019-20,41,South Carolina,4,8
+MFB,2019-20,42,Virginia,9,5
+MFB,2019-20,43,Arizona St.,8,5
+MFB,2019-20,44,Louisiana,11,3
+MFB,2019-20,45,Miami (FL),6,7
+MFB,2019-20,46,Ole Miss,4,8
+MFB,2019-20,47,Nebraska,5,7
+MFB,2019-20,48,Virginia Tech,8,5
+MFB,2019-20,49,SMU,10,3
+MFB,2019-20,50,Florida Atlantic,11,3
+MFB,2019-20,51,Florida St.,6,7
+MFB,2019-20,52,California,8,5
+MFB,2019-20,53,Wake Forest,8,5
+MFB,2019-20,54,Louisville,8,5
+MFB,2019-20,55,Tulane,7,6
+MFB,2019-20,56,Texas Tech,4,8
+MFB,2019-20,57,BYU,7,6
+MFB,2019-20,58,UCLA,4,8
+MFB,2019-20,59,Stanford,4,8
+MFB,2019-20,60,Oregon St.,5,7
+MFB,2019-20,61,Pittsburgh,8,5
+MFB,2019-20,62,San Diego St.,10,3
+MFB,2019-20,63,Purdue,4,8
+MFB,2019-20,64,Duke,5,7
+MFB,2019-20,65,Illinois,6,7
+MFB,2019-20,66,Wyoming,8,5
+MFB,2019-20,67,Western Michigan,7,6
+MFB,2019-20,68,West Virginia,5,7
+MFB,2019-20,69,Boston College,6,7
+MFB,2019-20,70,Colorado,5,7
+MFB,2019-20,71,Syracuse,5,7
+MFB,2019-20,72,Arizona,4,8
+MFB,2019-20,73,Northwestern,3,9
+MFB,2019-20,74,Western Kentucky,9,4
+MFB,2019-20,75,Hawaii,10,5
+MFB,2019-20,76,Houston,4,8
+MFB,2019-20,77,Ohio,7,6
+MFB,2019-20,78,Louisiana Tech,10,3
+MFB,2019-20,79,Utah St.,7,6
+MFB,2019-20,80,Buffalo,8,5
+MFB,2019-20,81,Fresno St.,4,8
+MFB,2019-20,82,Tulsa,4,8
+MFB,2019-20,83,Marshall,8,5
+MFB,2019-20,84,Army,5,8
+MFB,2019-20,85,Temple,8,5
+MFB,2019-20,86,Southern Miss,7,6
+MFB,2019-20,87,Georgia Southern,7,6
+MFB,2019-20,88,Ball St.,5,7
+MFB,2019-20,89,Maryland,3,9
+MFB,2019-20,90,Arkansas St.,8,5
+MFB,2019-20,91,Arkansas,2,10
+MFB,2019-20,92,NC State,4,8
+MFB,2019-20,93,Central Michigan,8,6
+MFB,2019-20,94,Vanderbilt,3,9
+MFB,2019-20,95,South Florida,4,8
+MFB,2019-20,96,Kent State,7,6
+MFB,2019-20,97,Liberty,8,5
+MFB,2019-20,98,Eastern Michigan,6,7
+MFB,2019-20,99,Miami (OH),8,6
+MFB,2019-20,100,Middle Tennessee,4,8
+MFB,2019-20,101,Troy,5,7
+MFB,2019-20,102,Florida Intl,6,7
+MFB,2019-20,103,San Jose St.,5,7
+MFB,2019-20,104,UAB,9,5
+MFB,2019-20,105,Colorado St.,4,8
+MFB,2019-20,106,Kansas,3,9
+MFB,2019-20,107,Northern Illinois,5,7
+MFB,2019-20,108,Toledo,6,6
+MFB,2019-20,109,North Texas,4,8
+MFB,2019-20,110,Georgia Tech,3,9
+MFB,2019-20,111,UL Monroe,5,7
+MFB,2019-20,112,Georgia St.,7,6
+MFB,2019-20,113,Charlotte,7,6
+MFB,2019-20,114,Coastal Carolina,5,7
+MFB,2019-20,115,East Carolina,4,8
+MFB,2019-20,116,Nevada,7,6
+MFB,2019-20,117,UNLV,4,8
+MFB,2019-20,118,Rutgers,2,10
+MFB,2019-20,119,Rice,3,9
+MFB,2019-20,120,Texas St.,3,9
+MFB,2019-20,121,New Mexico,2,10
+MFB,2019-20,122,South Alabama,2,10
+MFB,2019-20,123,UTSA,4,8
+MFB,2019-20,124,Old Dominion,1,11
+MFB,2019-20,125,New Mexico State,2,10
+MFB,2019-20,126,Connecticut,2,10
+MFB,2019-20,127,Bowling Green,3,9
+MFB,2019-20,128,UTEP,1,11
+MFB,2019-20,129,Akron,0,12
+MFB,2019-20,130,Massachusetts,1,11
+MFB,2020-21,1,Alabama,13,0
+MFB,2020-21,2,Ohio St.,7,1
+MFB,2020-21,3,Clemson,10,2
+MFB,2020-21,4,Oklahoma,9,2
+MFB,2020-21,5,Georgia,8,2
+MFB,2020-21,6,Texas,7,3
+MFB,2020-21,7,Notre Dame,10,2
+MFB,2020-21,8,Texas A&M,9,1
+MFB,2020-21,9,Wisconsin,4,3
+MFB,2020-21,10,Iowa St.,9,3
+MFB,2020-21,11,Florida,8,4
+MFB,2020-21,12,Iowa,6,2
+MFB,2020-21,13,BYU,11,1
+MFB,2020-21,14,Cincinnati,9,1
+MFB,2020-21,15,Oklahoma St.,8,3
+MFB,2020-21,16,Indiana,6,2
+MFB,2020-21,17,Oregon,4,3
+MFB,2020-21,18,USC,5,1
+MFB,2020-21,19,Auburn,6,5
+MFB,2020-21,20,Northwestern,7,2
+MFB,2020-21,21,TCU,6,4
+MFB,2020-21,22,Central Florida,6,4
+MFB,2020-21,23,Arizona St.,2,2
+MFB,2020-21,24,Penn State,4,5
+MFB,2020-21,25,Miami (FL),8,3
+MFB,2020-21,26,North Carolina,8,4
+MFB,2020-21,27,Utah,3,2
+MFB,2020-21,28,LSU,5,5
+MFB,2020-21,29,UCLA,3,4
+MFB,2020-21,30,Coastal Carolina,11,1
+MFB,2020-21,31,West Virginia,6,4
+MFB,2020-21,32,Virginia Tech,5,6
+MFB,2020-21,33,Washington,3,1
+MFB,2020-21,34,Stanford,4,2
+MFB,2020-21,35,Ole Miss,5,5
+MFB,2020-21,36,Louisiana,10,1
+MFB,2020-21,37,Tulsa,6,3
+MFB,2020-21,38,Louisville,4,7
+MFB,2020-21,39,Appalachian St.,9,3
+MFB,2020-21,40,Buffalo,6,1
+MFB,2020-21,41,Pittsburgh,6,5
+MFB,2020-21,42,Minnesota,3,4
+MFB,2020-21,43,Wake Forest,4,5
+MFB,2020-21,44,Nebraska,3,5
+MFB,2020-21,45,Kentucky,5,6
+MFB,2020-21,46,Boise St.,5,2
+MFB,2020-21,47,Baylor,2,7
+MFB,2020-21,48,Michigan,2,4
+MFB,2020-21,49,Missouri,5,5
+MFB,2020-21,50,Purdue,2,4
+MFB,2020-21,51,California,1,3
+MFB,2020-21,52,Mississippi St.,4,7
+MFB,2020-21,53,Tennessee,3,7
+MFB,2020-21,54,Boston College,6,5
+MFB,2020-21,55,Kansas St.,4,6
+MFB,2020-21,56,Arkansas,3,7
+MFB,2020-21,57,Virginia,5,5
+MFB,2020-21,58,Marshall,7,3
+MFB,2020-21,59,Colorado,4,2
+MFB,2020-21,60,San Diego St.,4,4
+MFB,2020-21,61,UAB,6,3
+MFB,2020-21,62,NC State,8,4
+MFB,2020-21,63,Tulane,6,6
+MFB,2020-21,64,Oregon St.,2,5
+MFB,2020-21,65,Houston,3,5
+MFB,2020-21,66,Ball St.,7,1
+MFB,2020-21,67,SMU,7,3
+MFB,2020-21,68,Washington St.,1,3
+MFB,2020-21,69,Memphis,8,3
+MFB,2020-21,70,Texas Tech,4,6
+MFB,2020-21,71,San Jose St.,7,1
+MFB,2020-21,72,Rutgers,3,6
+MFB,2020-21,73,Wyoming,2,4
+MFB,2020-21,74,Air Force,3,3
+MFB,2020-21,75,Nevada,7,2
+MFB,2020-21,76,Liberty,10,1
+MFB,2020-21,77,Army,9,3
+MFB,2020-21,78,Maryland,2,3
+MFB,2020-21,79,South Carolina,2,8
+MFB,2020-21,80,Toledo,4,2
+MFB,2020-21,81,Illinois,2,6
+MFB,2020-21,82,Western Michigan,4,2
+MFB,2020-21,83,Michigan St.,2,5
+MFB,2020-21,84,Ohio,2,1
+MFB,2020-21,85,Central Michigan,3,3
+MFB,2020-21,86,Georgia Southern,8,5
+MFB,2020-21,87,Kent State,3,1
+MFB,2020-21,88,Florida St.,3,6
+MFB,2020-21,89,Miami (OH),2,1
+MFB,2020-21,90,Georgia Tech,3,7
+MFB,2020-21,91,Georgia St.,6,4
+MFB,2020-21,92,Troy,5,6
+MFB,2020-21,93,East Carolina,3,6
+MFB,2020-21,94,Hawaii,5,4
+MFB,2020-21,95,Fresno St.,3,3
+MFB,2020-21,96,Rice,2,3
+MFB,2020-21,97,Florida Atlantic,5,4
+MFB,2020-21,98,Arizona,0,5
+MFB,2020-21,99,Duke,2,9
+MFB,2020-21,100,Colorado St.,1,3
+MFB,2020-21,101,Arkansas St.,4,7
+MFB,2020-21,102,UTSA,7,5
+MFB,2020-21,103,Eastern Michigan,2,4
+MFB,2020-21,104,Syracuse,1,10
+MFB,2020-21,105,Navy,3,7
+MFB,2020-21,106,Western Kentucky,5,7
+MFB,2020-21,107,New Mexico,2,5
+MFB,2020-21,108,Louisiana Tech,5,5
+MFB,2020-21,109,South Florida,1,8
+MFB,2020-21,110,Northern Illinois,0,6
+MFB,2020-21,111,Charlotte,2,4
+MFB,2020-21,112,Vanderbilt,0,9
+MFB,2020-21,113,Temple,1,6
+MFB,2020-21,114,South Alabama,4,7
+MFB,2020-21,115,Texas St.,2,10
+MFB,2020-21,116,Southern Miss,3,7
+MFB,2020-21,117,Kansas,0,9
+MFB,2020-21,118,Utah St.,1,5
+MFB,2020-21,119,Middle Tennessee,3,6
+MFB,2020-21,120,North Texas,4,6
+MFB,2020-21,121,UNLV,0,6
+MFB,2020-21,122,Florida Intl,0,5
+MFB,2020-21,123,UTEP,3,5
+MFB,2020-21,124,UL Monroe,0,10
+MFB,2020-21,125,Akron,1,5
+MFB,2020-21,126,Bowling Green,0,5
+MFB,2020-21,127,Massachusetts,0,4
+MFB,2021-22,1,Georgia,14,1
+MFB,2021-22,2,Alabama,13,2
+MFB,2021-22,3,Ohio St.,11,2
+MFB,2021-22,4,Michigan,12,2
+MFB,2021-22,5,Oklahoma,11,2
+MFB,2021-22,6,Notre Dame,11,2
+MFB,2021-22,7,Oklahoma St.,12,2
+MFB,2021-22,8,Clemson,10,3
+MFB,2021-22,9,Iowa St.,7,6
+MFB,2021-22,10,Cincinnati,13,1
+MFB,2021-22,11,Utah,10,4
+MFB,2021-22,12,Pittsburgh,11,3
+MFB,2021-22,13,Wisconsin,9,4
+MFB,2021-22,14,Texas A&M,8,4
+MFB,2021-22,15,Baylor,12,2
+MFB,2021-22,16,NC State,9,3
+MFB,2021-22,17,Penn State,7,6
+MFB,2021-22,18,Ole Miss,10,3
+MFB,2021-22,19,Michigan St.,11,2
+MFB,2021-22,20,Auburn,6,7
+MFB,2021-22,21,Arkansas,9,4
+MFB,2021-22,22,Wake Forest,11,3
+MFB,2021-22,23,Miami (FL),7,5
+MFB,2021-22,24,Texas,5,7
+MFB,2021-22,25,Purdue,9,4
+MFB,2021-22,26,Tennessee,7,6
+MFB,2021-22,27,Minnesota,9,4
+MFB,2021-22,28,Kentucky,10,3
+MFB,2021-22,29,Nebraska,3,9
+MFB,2021-22,30,Oregon,10,4
+MFB,2021-22,31,UCLA,8,4
+MFB,2021-22,32,Iowa,10,4
+MFB,2021-22,33,Appalachian St.,10,4
+MFB,2021-22,34,Florida,6,7
+MFB,2021-22,35,Kansas St.,8,5
+MFB,2021-22,36,Mississippi St.,7,6
+MFB,2021-22,37,Houston,12,2
+MFB,2021-22,38,Boise St.,7,5
+MFB,2021-22,39,Arizona St.,8,5
+MFB,2021-22,40,BYU,10,3
+MFB,2021-22,41,Western Kentucky,9,5
+MFB,2021-22,42,LSU,6,7
+MFB,2021-22,43,North Carolina,6,7
+MFB,2021-22,44,SMU,8,4
+MFB,2021-22,45,Coastal Carolina,11,2
+MFB,2021-22,46,Louisville,6,7
+MFB,2021-22,47,Virginia,6,6
+MFB,2021-22,48,Louisiana,13,1
+MFB,2021-22,49,West Virginia,6,7
+MFB,2021-22,50,Texas Tech,7,6
+MFB,2021-22,51,Florida St.,5,7
+MFB,2021-22,52,Oregon St.,7,6
+MFB,2021-22,53,Fresno St.,10,3
+MFB,2021-22,54,Washington St.,7,6
+MFB,2021-22,55,Central Florida,9,4
+MFB,2021-22,56,Liberty,8,5
+MFB,2021-22,57,UTSA,12,2
+MFB,2021-22,58,USC,4,8
+MFB,2021-22,59,Nevada,8,5
+MFB,2021-22,60,UAB,9,4
+MFB,2021-22,61,Army,9,4
+MFB,2021-22,62,Washington,4,8
+MFB,2021-22,63,Maryland,7,6
+MFB,2021-22,64,Virginia Tech,6,7
+MFB,2021-22,65,Toledo,7,6
+MFB,2021-22,66,Air Force,10,3
+MFB,2021-22,67,Illinois,5,7
+MFB,2021-22,68,TCU,5,7
+MFB,2021-22,69,South Carolina,7,6
+MFB,2021-22,70,Marshall,7,6
+MFB,2021-22,71,Boston College,6,6
+MFB,2021-22,72,San Diego St.,12,2
+MFB,2021-22,73,California,5,7
+MFB,2021-22,74,Utah St.,11,3
+MFB,2021-22,75,Western Michigan,8,5
+MFB,2021-22,76,Tulsa,7,6
+MFB,2021-22,77,Syracuse,5,7
+MFB,2021-22,78,Missouri,6,7
+MFB,2021-22,79,Central Michigan,9,4
+MFB,2021-22,80,Memphis,6,6
+MFB,2021-22,81,East Carolina,7,5
+MFB,2021-22,82,Georgia Tech,3,9
+MFB,2021-22,83,Georgia St.,8,5
+MFB,2021-22,84,Indiana,2,10
+MFB,2021-22,85,Miami (OH),7,6
+MFB,2021-22,86,Rutgers,5,8
+MFB,2021-22,87,Middle Tennessee,7,6
+MFB,2021-22,88,Wyoming,7,6
+MFB,2021-22,89,Colorado,4,8
+MFB,2021-22,90,Tulane,2,10
+MFB,2021-22,91,Stanford,3,9
+MFB,2021-22,92,Florida Atlantic,5,7
+MFB,2021-22,93,Northern Illinois,9,5
+MFB,2021-22,94,Northwestern,3,9
+MFB,2021-22,95,Eastern Michigan,7,6
+MFB,2021-22,96,North Texas,6,7
+MFB,2021-22,97,Colorado St.,3,9
+MFB,2021-22,98,Troy,5,7
+MFB,2021-22,99,Buffalo,4,8
+MFB,2021-22,100,Kent State,7,7
+MFB,2021-22,101,Navy,4,8
+MFB,2021-22,102,Hawaii,6,7
+MFB,2021-22,103,Ball St.,6,7
+MFB,2021-22,104,Louisiana Tech,3,9
+MFB,2021-22,105,Old Dominion,6,7
+MFB,2021-22,106,Arizona,1,11
+MFB,2021-22,107,South Florida,2,10
+MFB,2021-22,108,San Jose St.,5,7
+MFB,2021-22,109,South Alabama,5,7
+MFB,2021-22,110,UTEP,7,6
+MFB,2021-22,111,Georgia Southern,3,9
+MFB,2021-22,112,UNLV,2,10
+MFB,2021-22,113,Duke,3,9
+MFB,2021-22,114,Kansas,2,10
+MFB,2021-22,115,Ohio,3,9
+MFB,2021-22,116,Southern Miss,3,9
+MFB,2021-22,117,Charlotte,5,7
+MFB,2021-22,118,Arkansas St.,2,10
+MFB,2021-22,119,Texas St.,4,8
+MFB,2021-22,120,UL Monroe,4,8
+MFB,2021-22,121,Vanderbilt,2,10
+MFB,2021-22,122,Rice,4,8
+MFB,2021-22,123,Bowling Green,4,8
+MFB,2021-22,124,New Mexico,3,9
+MFB,2021-22,125,Temple,3,9
+MFB,2021-22,126,Florida Intl,1,11
+MFB,2021-22,127,New Mexico State,2,10
+MFB,2021-22,128,Akron,2,10
+MFB,2021-22,129,Connecticut,1,11
+MFB,2021-22,130,Massachusetts,1,11

@@ -1,0 +1,313 @@
+Sport,Season,Team,W,L,Rank,Conf
+WVB,2020-21,Army,6,3,1,Patriot
+WVB,2020-21,Texas,27,2,2,Big 12
+WVB,2020-21,Towson,6,1,3,CAA
+WVB,2020-21,Weber St.,19,2,4,Big Sky
+WVB,2020-21,Kentucky,24,1,5,SEC
+WVB,2020-21,UNLV,13,1,6,Mountain West
+WVB,2020-21,Wisconsin,16,1,7,Big Ten
+WVB,2020-21,Jacksonville St.,16,2,8,OVC
+WVB,2020-21,UCF,16,2,9,AAC
+WVB,2020-21,Louisville,14,3,10,ACC
+WVB,2020-21,Baylor,20,7,11,Big 12
+WVB,2020-21,Western Ky.,23,1,12,C-USA
+WVB,2020-21,High Point,17,1,13,Big South
+WVB,2020-21,Florida St.,13,5,14,ACC
+WVB,2020-21,Notre Dame,15,4,15,ACC
+WVB,2020-21,Pittsburgh,19,5,16,ACC
+WVB,2020-21,Wright St.,17,2,17,Horizon
+WVB,2020-21,Bowling Green,22,2,18,MAC
+WVB,2020-21,BYU,17,2,19,WCC
+WVB,2020-21,Minnesota,16,3,20,Big Ten
+WVB,2020-21,Dayton,14,2,21,Atlantic 10
+WVB,2020-21,Creighton,11,5,22,Big East
+WVB,2020-21,Florida,21,4,23,SEC
+WVB,2020-21,Washington,20,4,24,Pac-12
+WVB,2020-21,Morehead St.,17,2,25,OVC
+WVB,2020-21,Rice,16,5,26,C-USA
+WVB,2020-21,Colgate,8,2,27,Patriot
+WVB,2020-21,Northern Ariz.,10,6,28,Big Sky
+WVB,2020-21,Georgia Tech,14,5,29,ACC
+WVB,2020-21,Marquette,10,4,30,Big East
+WVB,2020-21,Texas St.,31,9,31,Sun Belt
+WVB,2020-21,Nebraska,16,3,32,Big Ten
+WVB,2020-21,Northern Colo.,15,4,33,Big Sky
+WVB,2020-21,Purdue,16,7,34,Big Ten
+WVB,2020-21,Albany (NY),10,3,35,America East
+WVB,2020-21,Fairfield,9,1,36,MAAC
+WVB,2020-21,Houston,13,6,37,AAC
+WVB,2020-21,Pepperdine,17,4,38,WCC
+WVB,2020-21,Temple,11,6,39,AAC
+WVB,2020-21,St. John's (NY),10,4,40,Big East
+WVB,2020-21,Illinois St.,16,6,41,MVC
+WVB,2020-21,South Dakota,16,6,42,Summit League
+WVB,2020-21,Northeastern,8,3,43,CAA
+WVB,2020-21,Utah Valley,14,6,44,WAC
+WVB,2020-21,Western Mich.,18,5,45,MAC
+WVB,2020-21,Southeast Mo. St.,14,3,46,OVC
+WVB,2020-21,Oregon,15,5,47,Pac-12
+WVB,2020-21,New Mexico St.,16,2,48,WAC
+WVB,2020-21,Samford,15,4,49,SoCon
+WVB,2020-21,Ohio St.,16,4,50,Big Ten
+WVB,2020-21,Sacred Heart,11,3,51,NEC
+WVB,2020-21,UMBC,11,4,52,America East
+WVB,2020-21,San Diego,13,5,53,WCC
+WVB,2020-21,Milwaukee,8,6,54,Horizon
+WVB,2020-21,FGCU,14,3,55,ASUN
+WVB,2020-21,Denver,14,3,56,Summit League
+WVB,2020-21,UCLA,15,7,57,Pac-12
+WVB,2020-21,Delaware,4,6,58,CAA
+WVB,2020-21,Grand Canyon,11,4,59,WAC
+WVB,2020-21,Penn St.,10,6,60,Big Ten
+WVB,2020-21,Missouri,16,8,61,SEC
+WVB,2020-21,A&M-Corpus; Christi,14,5,62,Southland
+WVB,2020-21,Kansas City,13,4,63,Summit League
+WVB,2020-21,Jackson St.,11,1,64,SWAC
+WVB,2020-21,Cincinnati,6,7,65,AAC
+WVB,2020-21,Kansas St.,12,8,66,Big 12
+WVB,2020-21,Prairie View,12,3,67,SWAC
+WVB,2020-21,UTEP,10,7,68,C-USA
+WVB,2020-21,Providence,7,3,69,Big East
+WVB,2020-21,Sam Houston,11,3,70,Southland
+WVB,2020-21,Kennesaw St.,11,3,71,ASUN
+WVB,2020-21,Coastal Carolina,18,1,72,Sun Belt
+WVB,2020-21,SFA,23,6,73,Southland
+WVB,2020-21,Syracuse,7,9,74,ACC
+WVB,2020-21,Utah,13,5,75,Pac-12
+WVB,2020-21,Omaha,13,6,76,Summit League
+WVB,2020-21,South Fla.,6,8,77,AAC
+WVB,2020-21,Charlotte,13,5,78,C-USA
+WVB,2020-21,Northern Ky.,9,5,79,Horizon
+WVB,2020-21,Washington St.,11,5,80,Pac-12
+WVB,2020-21,Canisius,9,4,81,MAAC
+WVB,2020-21,Ark.-Pine Bluff,8,4,82,SWAC
+WVB,2020-21,Miami (FL),11,7,83,ACC
+WVB,2020-21,Lipscomb,17,3,84,ASUN
+WVB,2020-21,Campbell,11,5,85,Big South
+WVB,2020-21,Marshall,10,5,86,C-USA
+WVB,2020-21,UIC,14,3,87,Horizon
+WVB,2020-21,Boise St.,10,5,88,Mountain West
+WVB,2020-21,Arkansas,14,8,89,SEC
+WVB,2020-21,Niagara,5,4,90,MAAC
+WVB,2020-21,Montana St.,10,5,91,Big Sky
+WVB,2020-21,Tulane,10,10,92,AAC
+WVB,2020-21,Clemson,12,10,93,ACC
+WVB,2020-21,Mercer,15,8,94,SoCon
+WVB,2020-21,Bradley,12,7,95,MVC
+WVB,2020-21,Tennessee,12,8,96,SEC
+WVB,2020-21,Miami (OH),13,9,97,MAC
+WVB,2020-21,Colorado St.,9,6,98,Mountain West
+WVB,2020-21,SMU,8,6,99,AAC
+WVB,2020-21,Missouri St.,15,7,100,MVC
+WVB,2020-21,Charleston So.,9,5,101,Big South
+WVB,2020-21,Xavier,7,7,102,Big East
+WVB,2020-21,James Madison,7,3,103,CAA
+WVB,2020-21,Wyoming,8,6,104,Mountain West
+WVB,2020-21,Austin Peay,9,5,105,OVC
+WVB,2020-21,UAB,8,8,106,C-USA
+WVB,2020-21,Holy Cross,5,6,107,Patriot
+WVB,2020-21,Kansas,12,10,108,Big 12
+WVB,2020-21,Ohio,12,8,109,MAC
+WVB,2020-21,Coppin St.,11,5,110,MEAC
+WVB,2020-21,SIUE,10,4,111,OVC
+WVB,2020-21,North Texas,11,11,112,C-USA
+WVB,2020-21,Illinois,7,11,113,Big Ten
+WVB,2020-21,North Florida,10,10,114,ASUN
+WVB,2020-21,Rider,7,5,115,MAAC
+WVB,2020-21,Southeastern La.,11,5,116,Southland
+WVB,2020-21,West Virginia,10,11,117,Big 12
+WVB,2020-21,Central Ark.,12,8,118,Southland
+WVB,2020-21,DePaul,6,5,119,Big East
+WVB,2020-21,Kent St.,12,9,120,MAC
+WVB,2020-21,Villanova,4,6,121,Big East
+WVB,2020-21,Quinnipiac,3,5,122,MAAC
+WVB,2020-21,Drake,13,7,123,MVC
+WVB,2020-21,UConn,4,7,124,Big East
+WVB,2020-21,Saint Louis,8,10,125,Atlantic 10
+WVB,2020-21,Valparaiso,11,9,126,MVC
+WVB,2020-21,Cleveland St.,9,7,127,Horizon
+WVB,2020-21,Winthrop,9,7,128,Big South
+WVB,2020-21,East Carolina,4,8,129,AAC
+WVB,2020-21,Western Caro.,11,8,130,SoCon
+WVB,2020-21,N.C. A&T;,11,2,131,MEAC
+WVB,2020-21,Sacramento St.,10,7,132,Big Sky
+WVB,2020-21,Wofford,10,7,133,SoCon
+WVB,2020-21,Navy,4,1,134,Patriot
+WVB,2020-21,New Hampshire,6,3,135,America East
+WVB,2020-21,Southern California,7,8,136,Pac-12
+WVB,2020-21,Fresno St.,8,6,137,Mountain West
+WVB,2020-21,UT Arlington,13,10,138,Sun Belt
+WVB,2020-21,Wichita St.,9,8,139,AAC
+WVB,2020-21,Texas Tech,9,13,140,Big 12
+WVB,2020-21,Loyola Chicago,11,9,141,MVC
+WVB,2020-21,San Jose St.,7,9,142,Mountain West
+WVB,2020-21,Houston Baptist,9,10,143,Southland
+WVB,2020-21,Louisiana,17,8,144,Sun Belt
+WVB,2020-21,VCU,13,5,145,Atlantic 10
+WVB,2020-21,UNC Asheville,8,8,146,Big South
+WVB,2020-21,Central Mich.,11,11,147,MAC
+WVB,2020-21,North Carolina,10,8,148,ACC
+WVB,2020-21,Oakland,7,9,149,Horizon
+WVB,2020-21,California Baptist,4,8,150,WAC
+WVB,2020-21,Iowa St.,6,12,151,Big 12
+WVB,2020-21,Arizona,10,11,152,Pac-12
+WVB,2020-21,Fordham,5,5,153,Atlantic 10
+WVB,2020-21,Michigan,4,9,154,Big Ten
+WVB,2020-21,Dixie St.,9,8,155,WAC
+WVB,2020-21,Boston College,5,12,156,ACC
+WVB,2020-21,LMU (CA),7,9,157,WCC
+WVB,2020-21,USC Upstate,7,7,158,Big South
+WVB,2020-21,Tarleton St.,13,11,159,WAC
+WVB,2020-21,Tennessee Tech,9,7,160,OVC
+WVB,2020-21,LSU,9,13,161,SEC
+WVB,2020-21,Troy,11,9,162,Sun Belt
+WVB,2020-21,UNI,9,13,163,MVC
+WVB,2020-21,Colorado,8,12,164,Pac-12
+WVB,2020-21,Duke,9,13,165,ACC
+WVB,2020-21,Purdue Fort Wayne,10,7,166,Horizon
+WVB,2020-21,Auburn,0,8,167,SEC
+WVB,2020-21,Rhode Island,7,8,168,Atlantic 10
+WVB,2020-21,Central Conn. St.,4,4,169,NEC
+WVB,2020-21,South Carolina,12,10,170,SEC
+WVB,2020-21,NC State,8,9,171,ACC
+WVB,2020-21,North Dakota St.,10,8,172,Summit League
+WVB,2020-21,Bryant,6,5,173,NEC
+WVB,2020-21,Southern Utah,9,8,174,Big Sky
+WVB,2020-21,Georgia,8,14,175,SEC
+WVB,2020-21,Southern U.,6,7,176,SWAC
+WVB,2020-21,Texas A&M,9,9,177,SEC
+WVB,2020-21,Hofstra,3,4,178,CAA
+WVB,2020-21,Abilene Christian,7,8,179,Southland
+WVB,2020-21,San Francisco,8,10,180,WCC
+WVB,2020-21,Seton Hall,4,7,181,Big East
+WVB,2020-21,Ball St.,9,12,182,MAC
+WVB,2020-21,Saint Mary's (CA),7,10,183,WCC
+WVB,2020-21,LIU,8,5,184,NEC
+WVB,2020-21,Oklahoma,4,14,185,Big 12
+WVB,2020-21,San Diego St.,6,9,186,Mountain West
+WVB,2020-21,Bellarmine,4,13,187,ASUN
+WVB,2020-21,Arkansas St.,8,10,188,Sun Belt
+WVB,2020-21,Air Force,7,6,189,Mountain West
+WVB,2020-21,Stony Brook,8,9,190,America East
+WVB,2020-21,UTSA,7,11,191,C-USA
+WVB,2020-21,Eastern Wash.,5,12,192,Big Sky
+WVB,2020-21,Eastern Mich.,8,12,193,MAC
+WVB,2020-21,Middle Tenn.,5,11,194,C-USA
+WVB,2020-21,Delaware St.,8,5,195,MEAC
+WVB,2020-21,ETSU,7,9,196,SoCon
+WVB,2020-21,Alabama,7,15,197,SEC
+WVB,2020-21,UIW,6,8,198,Southland
+WVB,2020-21,Virginia Tech,6,11,199,ACC
+WVB,2020-21,Utah St.,5,10,200,Mountain West
+WVB,2020-21,Northern Ill.,8,14,201,MAC
+WVB,2020-21,Col. of Charleston,5,6,202,CAA
+WVB,2020-21,Evansville,6,14,203,MVC
+WVB,2020-21,Indiana St.,7,13,204,MVC
+WVB,2020-21,Murray St.,5,11,205,OVC
+WVB,2020-21,The Citadel,9,12,206,SoCon
+WVB,2020-21,Iona,3,7,207,MAAC
+WVB,2020-21,Green Bay,4,12,208,Horizon
+WVB,2020-21,Stetson,6,8,209,ASUN
+WVB,2020-21,South Alabama,8,14,210,Sun Belt
+WVB,2020-21,South Dakota St.,6,11,211,Summit League
+WVB,2020-21,Gonzaga,7,11,212,WCC
+WVB,2020-21,UT Martin,6,10,213,OVC
+WVB,2020-21,Duquesne,1,8,214,Atlantic 10
+WVB,2020-21,Old Dominion,7,11,215,C-USA
+WVB,2020-21,McNeese,5,7,216,Southland
+WVB,2020-21,Butler,3,10,217,Big East
+WVB,2020-21,Norfolk St.,1,5,218,MEAC
+WVB,2020-21,Southern Miss.,9,10,219,C-USA
+WVB,2020-21,Northwestern,4,6,220,Big Ten
+WVB,2020-21,Little Rock,6,14,221,Sun Belt
+WVB,2020-21,Toledo,6,14,222,MAC
+WVB,2020-21,Oregon St.,5,13,223,Pac-12
+WVB,2020-21,Chicago St.,1,9,224,WAC
+WVB,2020-21,TCU,4,17,225,Big 12
+WVB,2020-21,Arizona St.,6,14,226,Pac-12
+WVB,2020-21,Ga. Southern,5,13,227,Sun Belt
+WVB,2020-21,Hartford,4,6,228,America East
+WVB,2020-21,Belmont,3,13,229,OVC
+WVB,2020-21,Seattle U,2,10,230,WAC
+WVB,2020-21,Siena,1,7,231,MAAC
+WVB,2020-21,Rutgers,6,14,232,Big Ten
+WVB,2020-21,Georgia St.,9,11,233,Sun Belt
+WVB,2020-21,Akron,6,16,234,MAC
+WVB,2020-21,Liberty,5,9,235,ASUN
+WVB,2020-21,La Salle,5,3,236,Atlantic 10
+WVB,2020-21,Wake Forest,1,13,237,ACC
+WVB,2020-21,Michigan St.,3,12,238,Big Ten
+WVB,2020-21,Gardner-Webb,4,12,239,Big South
+WVB,2020-21,Lafayette,2,5,240,Patriot
+WVB,2020-21,Tulsa,2,8,241,AAC
+WVB,2020-21,Mississippi St.,5,15,242,SEC
+WVB,2020-21,Alcorn,3,7,243,SWAC
+WVB,2020-21,William & Mary,3,5,244,CAA
+WVB,2020-21,Furman,5,11,245,SoCon
+WVB,2020-21,Eastern Ky.,2,14,246,OVC
+WVB,2020-21,Santa Clara,5,13,247,WCC
+WVB,2020-21,Fla. Atlantic,2,12,248,C-USA
+WVB,2020-21,UNCW,3,9,249,CAA
+WVB,2020-21,American,4,4,250,Patriot
+WVB,2020-21,Robert Morris,4,12,251,Horizon
+WVB,2020-21,Howard,2,6,252,MEAC
+WVB,2020-21,Portland St.,6,12,253,Big Sky
+WVB,2020-21,Chattanooga,6,12,254,SoCon
+WVB,2020-21,Idaho,6,11,255,Big Sky
+WVB,2020-21,Presbyterian,3,13,256,Big South
+WVB,2020-21,FIU,3,10,257,C-USA
+WVB,2020-21,Radford,3,13,258,Big South
+WVB,2020-21,New Mexico,4,10,259,Mountain West
+WVB,2020-21,Buffalo,4,18,260,MAC
+WVB,2020-21,Eastern Ill.,2,14,261,OVC
+WVB,2020-21,Nevada,3,12,262,Mountain West
+WVB,2020-21,Portland,2,14,263,WCC
+WVB,2020-21,Texas Southern,2,10,264,SWAC
+WVB,2020-21,Davidson,2,11,265,Atlantic 10
+WVB,2020-21,Oral Roberts,3,15,266,Summit League
+WVB,2020-21,Elon,5,5,267,CAA
+WVB,2020-21,Grambling,5,9,268,SWAC
+WVB,2020-21,Tennessee St.,4,12,269,OVC
+WVB,2020-21,N.C. Central,4,3,270,MEAC
+WVB,2020-21,App State,1,15,271,Sun Belt
+WVB,2020-21,UTRGV,2,15,272,WAC
+WVB,2020-21,Jacksonville,3,14,273,ASUN
+WVB,2020-21,Indiana,3,15,274,Big Ten
+WVB,2020-21,New Orleans,3,11,275,Southland
+WVB,2020-21,Iowa,4,16,276,Big Ten
+WVB,2020-21,Manhattan,4,7,277,MAAC
+WVB,2020-21,Western Ill.,2,15,278,Summit League
+WVB,2020-21,Pacific,2,7,279,WCC
+WVB,2020-21,Idaho St.,2,14,280,Big Sky
+WVB,2020-21,Morgan St.,1,7,281,MEAC
+WVB,2020-21,Stanford,2,8,282,Pac-12
+WVB,2020-21,Ole Miss,1,19,283,SEC
+WVB,2020-21,Virginia,2,12,284,ACC
+WVB,2020-21,Maryland,5,15,285,Big Ten
+WVB,2020-21,Lehigh,3,6,286,Patriot
+WVB,2020-21,Youngstown St.,3,11,287,Horizon
+WVB,2020-21,Southern Ill.,2,18,288,MVC
+WVB,2020-21,North Dakota,2,16,289,Summit League
+WVB,2020-21,George Mason,5,10,290,Atlantic 10
+WVB,2020-21,Nicholls,1,11,291,Southland
+WVB,2020-21,Memphis,5,7,292,AAC
+WVB,2020-21,UNC Greensboro,2,15,293,SoCon
+WVB,2020-21,NJIT,2,10,294,America East
+WVB,2020-21,Fairleigh Dickinson,2,7,295,NEC
+WVB,2020-21,Marist,1,3,296,MAAC
+WVB,2020-21,Binghamton,2,12,297,America East
+WVB,2020-21,ULM,1,22,298,Sun Belt
+WVB,2020-21,Northwestern St.,2,11,299,Southland
+WVB,2020-21,California,1,21,300,Pac-12
+WVB,2020-21,Lamar University,1,16,301,Southland
+WVB,2020-21,Loyola Maryland,1,5,302,Patriot
+WVB,2020-21,St. Francis Brooklyn,0,2,303,NEC
+WVB,2020-21,Mississippi Val.,0,9,304,SWAC
+WVB,2020-21,Montana,2,14,305,Big Sky
+WVB,2020-21,North Ala.,1,13,306,ASUN
+WVB,2020-21,Louisiana Tech,1,19,307,C-USA
+WVB,2020-21,IUPUI,0,12,308,Horizon
+WVB,2020-21,Merrimack,0,13,309,NEC
+WVB,2020-21,Bucknell,1,3,310,Patriot
+WVB,2020-21,George Washington,1,9,311,Atlantic 10
+WVB,2020-21,South Carolina St.,0,8,312,MEAC

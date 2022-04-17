@@ -1,0 +1,358 @@
+Sport,Season,Rank,Team,W,L
+MBB,2020-21,1,Gonzaga,31,1
+MBB,2020-21,2,Baylor,28,2
+MBB,2020-21,3,Houston,27,4
+MBB,2020-21,4,Alabama,26,7
+MBB,2020-21,5,Michigan,23,5
+MBB,2020-21,6,USC,25,8
+MBB,2020-21,7,Arkansas,25,7
+MBB,2020-21,8,BYU,19,7
+MBB,2020-21,9,Oklahoma State,21,9
+MBB,2020-21,10,San Diego State,22,5
+MBB,2020-21,11,Illinois,24,7
+MBB,2020-21,12,Villanova,18,7
+MBB,2020-21,13,UCLA,22,10
+MBB,2020-21,14,Loyola-Chicago,24,5
+MBB,2020-21,15,Kansas,20,9
+MBB,2020-21,16,Saint Bonaventure,16,5
+MBB,2020-21,17,LSU,19,10
+MBB,2020-21,18,West Virginia,19,10
+MBB,2020-21,19,Colgate,14,2
+MBB,2020-21,20,Colorado,23,9
+MBB,2020-21,21,Texas,19,8
+MBB,2020-21,22,Ohio State,21,10
+MBB,2020-21,23,VCU,19,7
+MBB,2020-21,24,Florida State,18,7
+MBB,2020-21,25,Wichita State,14,6
+MBB,2020-21,26,Oregon,21,7
+MBB,2020-21,27,UC Santa Barbara,20,5
+MBB,2020-21,28,Louisiana Tech,23,8
+MBB,2020-21,29,Virginia,18,7
+MBB,2020-21,30,Missouri,16,10
+MBB,2020-21,31,Clemson,16,8
+MBB,2020-21,32,Saint Mary's College,14,10
+MBB,2020-21,33,Memphis,20,8
+MBB,2020-21,34,Creighton,22,9
+MBB,2020-21,35,Drake,24,5
+MBB,2020-21,36,Iowa,22,9
+MBB,2020-21,37,Syracuse,18,10
+MBB,2020-21,38,Navy,15,3
+MBB,2020-21,39,Purdue,18,10
+MBB,2020-21,40,Winthrop,23,2
+MBB,2020-21,41,Colorado State,19,8
+MBB,2020-21,42,North Carolina,18,11
+MBB,2020-21,43,Western Kentucky,21,8
+MBB,2020-21,44,Texas Tech,18,11
+MBB,2020-21,45,Boise State,18,9
+MBB,2020-21,46,Georgia State,14,6
+MBB,2020-21,47,Morehead State,21,8
+MBB,2020-21,48,North Texas,17,10
+MBB,2020-21,49,Oregon State,19,13
+MBB,2020-21,50,UNCG,21,9
+MBB,2020-21,51,Georgia Tech,17,9
+MBB,2020-21,52,Cleveland State,19,8
+MBB,2020-21,53,Louisville,13,7
+MBB,2020-21,54,Oklahoma,16,11
+MBB,2020-21,55,Belmont,25,4
+MBB,2020-21,56,Utah State,19,9
+MBB,2020-21,57,Rutgers,16,12
+MBB,2020-21,58,Florida,15,10
+MBB,2020-21,59,Arizona,17,9
+MBB,2020-21,60,Tennessee,18,9
+MBB,2020-21,61,Connecticut,15,8
+MBB,2020-21,62,Old Dominion,14,8
+MBB,2020-21,63,Ohio,16,8
+MBB,2020-21,64,SMU,11,6
+MBB,2020-21,65,Maryland,16,14
+MBB,2020-21,66,Abilene Christian,20,5
+MBB,2020-21,67,Pepperdine,13,12
+MBB,2020-21,68,Marshall,15,7
+MBB,2020-21,69,Wisconsin,18,13
+MBB,2020-21,70,Georgetown,13,13
+MBB,2020-21,71,Virginia Tech,15,7
+MBB,2020-21,72,Loyola-Marymount,13,9
+MBB,2020-21,73,Stanford,14,13
+MBB,2020-21,74,UCF,11,12
+MBB,2020-21,75,Seton Hall,14,13
+MBB,2020-21,76,Toledo,21,9
+MBB,2020-21,77,UAB,20,7
+MBB,2020-21,78,Siena,12,5
+MBB,2020-21,79,UC Irvine,16,9
+MBB,2020-21,80,Richmond,13,9
+MBB,2020-21,81,Wright State,18,6
+MBB,2020-21,82,Xavier,13,8
+MBB,2020-21,83,Furman,13,9
+MBB,2020-21,84,Wofford,13,9
+MBB,2020-21,85,Southern Utah,15,4
+MBB,2020-21,86,Auburn,13,14
+MBB,2020-21,87,Cincinnati,12,11
+MBB,2020-21,88,Dayton,14,10
+MBB,2020-21,89,Nevada,15,10
+MBB,2020-21,90,Chattanooga,16,8
+MBB,2020-21,91,Missouri State,15,7
+MBB,2020-21,92,Kent State,14,8
+MBB,2020-21,93,Eastern Kentucky,20,7
+MBB,2020-21,94,Northeastern,10,9
+MBB,2020-21,95,Eastern Washington,15,8
+MBB,2020-21,96,Iona,12,6
+MBB,2020-21,97,Pacific,8,9
+MBB,2020-21,98,Canisius,7,6
+MBB,2020-21,99,Mercer,15,11
+MBB,2020-21,100,Bryant,14,7
+MBB,2020-21,101,Monmouth,12,8
+MBB,2020-21,102,Jacksonville State,16,9
+MBB,2020-21,103,Indiana State,14,10
+MBB,2020-21,104,Mississippi State,18,15
+MBB,2020-21,105,Ole Miss,16,12
+MBB,2020-21,106,Michigan State,15,13
+MBB,2020-21,107,Santa Clara,11,8
+MBB,2020-21,108,Akron,13,8
+MBB,2020-21,109,Coastal Carolina,14,8
+MBB,2020-21,110,Saint Louis,14,7
+MBB,2020-21,111,Texas Southern,16,9
+MBB,2020-21,112,Buffalo,15,9
+MBB,2020-21,113,Saint John's,16,11
+MBB,2020-21,114,Louisiana,15,9
+MBB,2020-21,115,East Tennessee State,11,12
+MBB,2020-21,116,Sam Houston State,15,9
+MBB,2020-21,117,Duke,13,11
+MBB,2020-21,118,Weber State,14,6
+MBB,2020-21,119,American,4,6
+MBB,2020-21,120,Norfolk State,15,8
+MBB,2020-21,121,Liberty,19,6
+MBB,2020-21,122,North Carolina State,14,11
+MBB,2020-21,123,Penn State,11,14
+MBB,2020-21,124,Army,11,10
+MBB,2020-21,125,Providence,13,13
+MBB,2020-21,126,James Madison,10,7
+MBB,2020-21,127,Wagner,13,7
+MBB,2020-21,128,UMBC,14,6
+MBB,2020-21,129,South Dakota State,15,7
+MBB,2020-21,130,Oral Roberts,15,11
+MBB,2020-21,131,Texas State,17,6
+MBB,2020-21,132,Kentucky,9,16
+MBB,2020-21,133,Indiana,12,15
+MBB,2020-21,134,Drexel,12,8
+MBB,2020-21,135,South Alabama,13,11
+MBB,2020-21,136,Hartford,15,9
+MBB,2020-21,137,Marquette,13,14
+MBB,2020-21,138,Davidson,12,9
+MBB,2020-21,139,Mount Saint Mary's,12,11
+MBB,2020-21,140,Stephen F. Austin,13,5
+MBB,2020-21,141,Hofstra,13,10
+MBB,2020-21,142,Utah,12,13
+MBB,2020-21,143,Prairie View A&M,16,5
+MBB,2020-21,144,Georgia,13,12
+MBB,2020-21,145,Grand Canyon,14,7
+MBB,2020-21,146,Washington State,14,13
+MBB,2020-21,147,Arizona State,11,14
+MBB,2020-21,148,TCU,12,14
+MBB,2020-21,149,Minnesota,14,15
+MBB,2020-21,150,Appalachian State,13,12
+MBB,2020-21,151,Nicholls,17,7
+MBB,2020-21,152,UC Riverside,14,8
+MBB,2020-21,153,Rice,12,13
+MBB,2020-21,154,George Mason,12,9
+MBB,2020-21,155,Notre Dame,11,15
+MBB,2020-21,156,UTSA,11,11
+MBB,2020-21,157,Bellarmine,12,8
+MBB,2020-21,158,Bowling Green,13,12
+MBB,2020-21,159,San Francisco,11,14
+MBB,2020-21,160,Elon,9,9
+MBB,2020-21,161,Marist,12,9
+MBB,2020-21,162,Campbell,15,10
+MBB,2020-21,163,Tulsa,9,12
+MBB,2020-21,164,Oakland,12,18
+MBB,2020-21,165,Saint Peter's,14,11
+MBB,2020-21,166,South Florida,8,13
+MBB,2020-21,167,Cal State Bakersfield,13,11
+MBB,2020-21,168,Morgan State,12,7
+MBB,2020-21,169,VMI,10,12
+MBB,2020-21,170,New Mexico State,9,8
+MBB,2020-21,171,Butler,10,15
+MBB,2020-21,172,Wyoming,14,11
+MBB,2020-21,173,Vermont,10,5
+MBB,2020-21,174,Northern Kentucky,14,11
+MBB,2020-21,175,Duquesne,9,9
+MBB,2020-21,176,UTEP,9,12
+MBB,2020-21,177,Milwaukee,10,12
+MBB,2020-21,178,South Carolina,6,15
+MBB,2020-21,179,Sacred Heart,9,9
+MBB,2020-21,180,Kansas State,9,19
+MBB,2020-21,181,North Dakota State,15,12
+MBB,2020-21,182,Loyola-Maryland,6,11
+MBB,2020-21,183,Niagara,9,11
+MBB,2020-21,184,The Citadel,9,12
+MBB,2020-21,185,Montana,10,13
+MBB,2020-21,186,Fresno State,10,12
+MBB,2020-21,187,UC Davis,9,8
+MBB,2020-21,188,Tulane,10,13
+MBB,2020-21,189,Pittsburgh,10,12
+MBB,2020-21,190,UMass-Lowell,11,12
+MBB,2020-21,191,UMass,8,7
+MBB,2020-21,192,Bucknell,5,7
+MBB,2020-21,193,Jackson State,12,6
+MBB,2020-21,194,Radford,13,12
+MBB,2020-21,195,Ball State,10,13
+MBB,2020-21,196,Northwestern,8,15
+MBB,2020-21,197,Miami (OH),11,11
+MBB,2020-21,198,Rhode Island,10,15
+MBB,2020-21,199,Coppin State,9,13
+MBB,2020-21,200,Long Island,9,9
+MBB,2020-21,201,William & Mary,7,10
+MBB,2020-21,202,Northern Iowa,8,15
+MBB,2020-21,203,Merrimack,9,9
+MBB,2020-21,204,Bradley,10,16
+MBB,2020-21,205,Texas A&M,8,10
+MBB,2020-21,206,Little Rock,10,15
+MBB,2020-21,207,Detroit,12,10
+MBB,2020-21,208,San Diego,3,11
+MBB,2020-21,209,Montana State,11,10
+MBB,2020-21,210,Southern Illinois,11,14
+MBB,2020-21,211,Boston University,7,11
+MBB,2020-21,212,Lipscomb,11,12
+MBB,2020-21,213,Hawaii,9,10
+MBB,2020-21,214,Miami (FL),10,17
+MBB,2020-21,215,UNLV,10,15
+MBB,2020-21,216,South Dakota,13,11
+MBB,2020-21,217,Saint Francis (NY),9,10
+MBB,2020-21,218,Utah Valley,9,11
+MBB,2020-21,219,Vanderbilt,9,16
+MBB,2020-21,220,Georgia Southern,9,13
+MBB,2020-21,221,UTA,10,13
+MBB,2020-21,222,Western Carolina,9,16
+MBB,2020-21,223,FAU,9,10
+MBB,2020-21,224,California,8,20
+MBB,2020-21,225,IUPUI,8,10
+MBB,2020-21,226,Stony Brook,8,14
+MBB,2020-21,227,UNC Asheville,10,10
+MBB,2020-21,228,Albany,7,9
+MBB,2020-21,229,Temple,5,11
+MBB,2020-21,230,UC San Diego,4,10
+MBB,2020-21,231,Tarleton State,5,10
+MBB,2020-21,232,Youngstown State,11,12
+MBB,2020-21,233,Saint Joseph's,5,15
+MBB,2020-21,234,New Hampshire,9,9
+MBB,2020-21,235,Fairleigh Dickinson,9,15
+MBB,2020-21,236,Evansville,9,16
+MBB,2020-21,237,Fairfield,10,17
+MBB,2020-21,238,Gardner-Webb,11,15
+MBB,2020-21,239,Grambling State,11,12
+MBB,2020-21,240,Stetson,10,14
+MBB,2020-21,241,Austin Peay,12,13
+MBB,2020-21,242,East Carolina,7,11
+MBB,2020-21,243,Washington,5,21
+MBB,2020-21,244,Murray State,11,13
+MBB,2020-21,245,Longwood,12,16
+MBB,2020-21,246,Nebraska,6,20
+MBB,2020-21,247,La Salle,8,16
+MBB,2020-21,248,Troy,8,17
+MBB,2020-21,249,Howard,1,3
+MBB,2020-21,250,Sacramento State,6,12
+MBB,2020-21,251,Valparaiso,8,18
+MBB,2020-21,252,Arkansas State,8,13
+MBB,2020-21,253,North Alabama,9,11
+MBB,2020-21,254,Rider,6,17
+MBB,2020-21,255,Charlotte,9,15
+MBB,2020-21,256,Northern Arizona,6,16
+MBB,2020-21,257,Iowa State,2,22
+MBB,2020-21,258,North Carolina A&T,9,10
+MBB,2020-21,259,DePaul,5,14
+MBB,2020-21,260,Holy Cross,5,11
+MBB,2020-21,261,Samford,4,13
+MBB,2020-21,262,Delaware,6,8
+MBB,2020-21,263,Northwestern State,10,18
+MBB,2020-21,264,Lafayette,9,6
+MBB,2020-21,265,Southeast Missouri,11,16
+MBB,2020-21,266,Seattle University,8,11
+MBB,2020-21,267,Quinnipiac,9,13
+MBB,2020-21,268,Charleston,7,10
+MBB,2020-21,269,Northern Colorado,8,11
+MBB,2020-21,270,Southern,8,11
+MBB,2020-21,271,Manhattan,7,13
+MBB,2020-21,272,FGCU,8,8
+MBB,2020-21,273,Cal State Northridge,8,13
+MBB,2020-21,274,SIUE,8,17
+MBB,2020-21,275,Wake Forest,5,16
+MBB,2020-21,276,Saint Francis (PA),6,16
+MBB,2020-21,277,Green Bay,8,17
+MBB,2020-21,278,Alcorn State,6,13
+MBB,2020-21,279,High Point,9,15
+MBB,2020-21,280,Idaho State,8,11
+MBB,2020-21,281,Lamar,10,18
+MBB,2020-21,282,North Florida,7,14
+MBB,2020-21,283,Purdue Fort Wayne,8,15
+MBB,2020-21,284,Illinois State,6,18
+MBB,2020-21,285,George Washington,5,12
+MBB,2020-21,286,Tennessee-Martin,7,16
+MBB,2020-21,287,Binghamton,4,14
+MBB,2020-21,288,Central Arkansas,4,19
+MBB,2020-21,289,North Dakota,9,17
+MBB,2020-21,290,California Baptist,9,10
+MBB,2020-21,291,Boston College,4,16
+MBB,2020-21,292,Central Connecticut,5,16
+MBB,2020-21,293,Portland,3,15
+MBB,2020-21,294,Long Beach State,6,12
+MBB,2020-21,295,NJIT,7,12
+MBB,2020-21,296,South Carolina Upstate,5,17
+MBB,2020-21,297,Maine,2,7
+MBB,2020-21,298,UIC,9,13
+MBB,2020-21,299,UMKC,7,13
+MBB,2020-21,300,Jacksonville,9,13
+MBB,2020-21,301,UNCW,6,10
+MBB,2020-21,302,Alabama A&M,6,9
+MBB,2020-21,303,ULM,7,19
+MBB,2020-21,304,Cal State Fullerton,5,10
+MBB,2020-21,305,Western Michigan,4,16
+MBB,2020-21,306,Eastern Illinois,9,18
+MBB,2020-21,307,New Mexico,4,16
+MBB,2020-21,308,Hampton,11,14
+MBB,2020-21,309,Portland State,6,12
+MBB,2020-21,310,Florida A&M,8,12
+MBB,2020-21,311,Southern Miss,6,17
+MBB,2020-21,312,San Jose State,3,16
+MBB,2020-21,313,Southeastern Louisiana,8,18
+MBB,2020-21,314,Tennessee Tech,5,22
+MBB,2020-21,315,Air Force,5,20
+MBB,2020-21,316,New Orleans,9,15
+MBB,2020-21,317,Eastern Michigan,3,12
+MBB,2020-21,318,Dixie State,6,13
+MBB,2020-21,319,Omaha,5,20
+MBB,2020-21,320,Towson,4,14
+MBB,2020-21,321,FIU,5,17
+MBB,2020-21,322,Lehigh,4,11
+MBB,2020-21,323,Middle Tennessee,4,18
+MBB,2020-21,324,Western Illinois,6,15
+MBB,2020-21,325,Robert Morris,3,15
+MBB,2020-21,326,Arkansas-Pine Bluff,4,21
+MBB,2020-21,327,UTRGV,5,10
+MBB,2020-21,328,Presbyterian College,6,15
+MBB,2020-21,329,Charleston Southern,2,18
+MBB,2020-21,330,Central Michigan,5,15
+MBB,2020-21,331,Houston Baptist,5,19
+MBB,2020-21,332,Tennessee State,3,19
+MBB,2020-21,333,Mississippi Valley State,2,22
+MBB,2020-21,334,Cal Poly,3,20
+MBB,2020-21,335,Kennesaw State,2,19
+MBB,2020-21,336,Northern Illinois,3,16
+MBB,2020-21,337,North Carolina Central,4,9
+MBB,2020-21,338,Incarnate Word,5,14
+MBB,2020-21,339,Fordham,2,12
+MBB,2020-21,340,Chicago State,0,9
+MBB,2020-21,341,Texas A&M-Corpus Christi,2,19
+MBB,2020-21,342,Delaware State,1,16
+MBB,2020-21,343,Alabama State,4,14
+MBB,2020-21,344,McNeese,4,14
+MBB,2020-21,345,Idaho,1,21
+MBB,2020-21,346,South Carolina State,1,17
+MBB,2020-21,347,Denver,1,19
+MBB,2020-21,348,Bethune-Cookman,0,0
+MBB,2020-21,348,Brown,0,0
+MBB,2020-21,348,Columbia,0,0
+MBB,2020-21,348,Cornell,0,0
+MBB,2020-21,348,Dartmouth,0,0
+MBB,2020-21,348,Harvard,0,0
+MBB,2020-21,348,Maryland Eastern Shore,0,0
+MBB,2020-21,348,Penn,0,0
+MBB,2020-21,348,Princeton,0,0
+MBB,2020-21,348,Yale,0,0

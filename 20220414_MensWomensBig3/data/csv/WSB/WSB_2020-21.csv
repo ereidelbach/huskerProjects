@@ -1,0 +1,299 @@
+Sport,Season,Rank,Team,W,L
+WSB,2020-21,1,UCLA,41,4
+WSB,2020-21,2,Alabama,45,7
+WSB,2020-21,3,Florida,42,9
+WSB,2020-21,4,Oklahoma,45,2
+WSB,2020-21,5,Oklahoma State,42,9
+WSB,2020-21,6,LSU,32,19
+WSB,2020-21,7,Arkansas,40,9
+WSB,2020-21,8,Tennessee,41,13
+WSB,2020-21,9,Florida State,39,10
+WSB,2020-21,10,Arizona,36,13
+WSB,2020-21,11,Texas,39,11
+WSB,2020-21,12,Missouri,38,15
+WSB,2020-21,13,Arizona State,32,14
+WSB,2020-21,14,Duke,42,10
+WSB,2020-21,15,Oregon,37,15
+WSB,2020-21,16,Washington,41,11
+WSB,2020-21,17,Kentucky,39,13
+WSB,2020-21,18,Georgia,29,21
+WSB,2020-21,19,Liberty,42,13
+WSB,2020-21,20,Clemson,42,6
+WSB,2020-21,21,Virginia Tech,33,13
+WSB,2020-21,22,Louisiana,44,10
+WSB,2020-21,23,Delaware,25,9
+WSB,2020-21,24,Wichita State,39,11
+WSB,2020-21,25,Auburn,27,22
+WSB,2020-21,26,Notre Dame,31,13
+WSB,2020-21,27,Ole Miss,34,20
+WSB,2020-21,28,Villanova,36,13
+WSB,2020-21,29,Mississippi State,33,23
+WSB,2020-21,30,James Madison,34,1
+WSB,2020-21,31,Michigan,36,6
+WSB,2020-21,32,George Washington,37,9
+WSB,2020-21,33,UCF,39,17
+WSB,2020-21,34,Texas State,38,12
+WSB,2020-21,35,Iowa State,32,21
+WSB,2020-21,36,"Miami, Ohio",46,8
+WSB,2020-21,37,South Dakota State,42,6
+WSB,2020-21,38,South Alabama,30,19
+WSB,2020-21,39,Stanford,31,20
+WSB,2020-21,40,Texas A&M,31,21
+WSB,2020-21,41,Princeton,1,2
+WSB,2020-21,42,Baylor,27,21
+WSB,2020-21,43,Boston University,36,2
+WSB,2020-21,44,Saint Francis (PA),40,8
+WSB,2020-21,45,Southern Illinois,37,14
+WSB,2020-21,46,Fresno State,36,10
+WSB,2020-21,47,Western Kentucky,31,13
+WSB,2020-21,48,South Carolina,26,26
+WSB,2020-21,49,Troy,36,15
+WSB,2020-21,50,Minnesota,29,11
+WSB,2020-21,51,Drexel,29,12
+WSB,2020-21,52,UMBC,25,11
+WSB,2020-21,53,DePaul,25,11
+WSB,2020-21,54,Oregon State,20,26
+WSB,2020-21,55,Northern Iowa,31,18
+WSB,2020-21,56,Kennesaw State,26,25
+WSB,2020-21,57,Kansas,22,26
+WSB,2020-21,58,Illinois State,31,10
+WSB,2020-21,59,UAB,31,19
+WSB,2020-21,60,Southeast Missouri State,30,17
+WSB,2020-21,61,Northwestern,29,15
+WSB,2020-21,62,Charlotte,31,19
+WSB,2020-21,63,Eastern Kentucky,35,15
+WSB,2020-21,64,Iona,22,12
+WSB,2020-21,65,Hofstra,16,16
+WSB,2020-21,66,South Florida,29,17
+WSB,2020-21,67,BYU,36,15
+WSB,2020-21,68,Manhattan,22,14
+WSB,2020-21,69,Canisius,22,14
+WSB,2020-21,70,Utah,22,33
+WSB,2020-21,71,Monmouth,25,9
+WSB,2020-21,72,Long Island,27,9
+WSB,2020-21,73,Louisville,21,28
+WSB,2020-21,74,North Texas,38,12
+WSB,2020-21,75,UNLV,25,15
+WSB,2020-21,76,Cal State Fullerton,38,15
+WSB,2020-21,77,Marist,15,12
+WSB,2020-21,78,Fairfield,22,14
+WSB,2020-21,79,Texas Tech,21,26
+WSB,2020-21,80,Central Arkansas,35,19
+WSB,2020-21,81,McNeese,34,24
+WSB,2020-21,82,Long Beach State,30,9
+WSB,2020-21,83,Ball State,37,18
+WSB,2020-21,84,Georgia Tech,20,26
+WSB,2020-21,85,Stony Brook,27,16
+WSB,2020-21,86,San Diego State,28,16
+WSB,2020-21,87,NC State,26,25
+WSB,2020-21,88,Syracuse,20,24
+WSB,2020-21,89,California,17,20
+WSB,2020-21,90,Stephen F. Austin,35,12
+WSB,2020-21,91,Missouri State,26,17
+WSB,2020-21,92,Pennsylvania,5,5
+WSB,2020-21,93,Austin Peay,27,16
+WSB,2020-21,94,UNC Greensboro,34,15
+WSB,2020-21,95,Florida Gulf Coast,28,19
+WSB,2020-21,96,Tulsa,25,16
+WSB,2020-21,97,Iowa,26,18
+WSB,2020-21,98,Loyola Marymount,22,21
+WSB,2020-21,99,Central Connecticut,23,15
+WSB,2020-21,100,Middle Tennessee,26,22
+WSB,2020-21,101,Youngstown State,36,15
+WSB,2020-21,102,Detroit Mercy,2,2
+WSB,2020-21,103,Illinois,24,20
+WSB,2020-21,104,Illinois-Chicago,29,21
+WSB,2020-21,105,Fordham,37,10
+WSB,2020-21,106,New Mexico State,31,21
+WSB,2020-21,107,Campbell,27,17
+WSB,2020-21,108,Army,16,17
+WSB,2020-21,109,Appalachian State,27,19
+WSB,2020-21,110,Indiana,25,19
+WSB,2020-21,111,Colorado State,16,20
+WSB,2020-21,112,Connecticut,22,20
+WSB,2020-21,113,Seattle,29,19
+WSB,2020-21,114,Elon,18,21
+WSB,2020-21,115,UT Arlington,17,34
+WSB,2020-21,116,Nevada,24,16
+WSB,2020-21,117,Ohio State,24,19
+WSB,2020-21,118,Albany,23,19
+WSB,2020-21,119,Oakland,26,16
+WSB,2020-21,120,North Carolina,14,26
+WSB,2020-21,121,Jacksonville,29,20
+WSB,2020-21,122,Virginia,15,33
+WSB,2020-21,123,Siena,19,15
+WSB,2020-21,124,Longwood,26,28
+WSB,2020-21,125,Creighton,14,14
+WSB,2020-21,126,Northwestern State,24,22
+WSB,2020-21,127,Kansas City,29,26
+WSB,2020-21,128,Kent State,26,26
+WSB,2020-21,129,Lipscomb,18,18
+WSB,2020-21,130,Nebraska,22,22
+WSB,2020-21,131,Drake,19,30
+WSB,2020-21,132,Houston,17,33
+WSB,2020-21,133,Samford,18,27
+WSB,2020-21,134,Saint Joseph's,26,20
+WSB,2020-21,135,Georgia Southern,17,26
+WSB,2020-21,136,Mount St. Marys,19,25
+WSB,2020-21,137,North Florida,21,23
+WSB,2020-21,138,Southeastern Louisiana,28,23
+WSB,2020-21,139,Butler,17,21
+WSB,2020-21,140,Tennessee-Martin,27,19
+WSB,2020-21,141,Eastern Illinois,25,19
+WSB,2020-21,142,Sam Houston,19,31
+WSB,2020-21,143,Coastal Carolina,21,24
+WSB,2020-21,144,Jacksonville State,24,25
+WSB,2020-21,145,North Alabama,19,19
+WSB,2020-21,146,Lehigh,18,16
+WSB,2020-21,147,Towson,14,17
+WSB,2020-21,148,Toledo,31,22
+WSB,2020-21,149,Morgan State,19,14
+WSB,2020-21,150,Purdue,18,26
+WSB,2020-21,151,East Carolina,16,33
+WSB,2020-21,152,SIU Edwardsville,18,21
+WSB,2020-21,153,Rider,17,20
+WSB,2020-21,154,Western Carolina,27,26
+WSB,2020-21,155,Mercer,22,23
+WSB,2020-21,156,Marshall,20,13
+WSB,2020-21,157,Wisconsin,18,22
+WSB,2020-21,158,Colgate,16,15
+WSB,2020-21,159,Saint Louis,19,27
+WSB,2020-21,160,Bradley,19,22
+WSB,2020-21,161,Boise State,20,25
+WSB,2020-21,162,Murray State,22,29
+WSB,2020-21,163,Maryland,19,25
+WSB,2020-21,164,Pittsburgh,17,29
+WSB,2020-21,165,UL Monroe,17,32
+WSB,2020-21,166,Louisiana Tech,22,30
+WSB,2020-21,167,Houston Baptist,20,17
+WSB,2020-21,168,Merrimack,6,18
+WSB,2020-21,169,Furman,19,28
+WSB,2020-21,170,Florida Atlantic,12,35
+WSB,2020-21,171,UMass Lowell,13,18
+WSB,2020-21,172,USC Upstate,29,17
+WSB,2020-21,173,UNC Wilmington,15,23
+WSB,2020-21,174,Robert Morris,25,19
+WSB,2020-21,175,Green Bay,23,21
+WSB,2020-21,176,Southern Miss,22,31
+WSB,2020-21,177,Georgia State,16,30
+WSB,2020-21,178,Radford,22,32
+WSB,2020-21,179,Indiana State,20,28
+WSB,2020-21,180,Bowling Green,27,27
+WSB,2020-21,181,Binghamton,11,14
+WSB,2020-21,182,New Mexico,10,36
+WSB,2020-21,183,Evansville,23,22
+WSB,2020-21,184,Omaha,20,28
+WSB,2020-21,185,Boston College,13,32
+WSB,2020-21,186,St. John's,10,21
+WSB,2020-21,187,Dayton,21,26
+WSB,2020-21,188,Howard,15,13
+WSB,2020-21,189,North Dakota State,16,29
+WSB,2020-21,190,Tennessee Tech,19,30
+WSB,2020-21,191,Weber State,25,19
+WSB,2020-21,192,George Mason,18,17
+WSB,2020-21,193,Northern Kentucky,14,24
+WSB,2020-21,194,Bucknell,12,17
+WSB,2020-21,195,Belmont,15,26
+WSB,2020-21,196,Florida International,14,26
+WSB,2020-21,197,UTSA,15,31
+WSB,2020-21,198,Providence,5,16
+WSB,2020-21,199,Memphis,9,41
+WSB,2020-21,200,Central Michigan,20,28
+WSB,2020-21,201,California Baptist,21,30
+WSB,2020-21,202,Michigan State,14,26
+WSB,2020-21,203,Hawaii,12,19
+WSB,2020-21,204,Ohio,21,26
+WSB,2020-21,205,Utah Valley,24,28
+WSB,2020-21,206,Chattanooga,13,25
+WSB,2020-21,207,Winthrop,26,24
+WSB,2020-21,208,UC Davis,19,24
+WSB,2020-21,209,Buffalo,18,35
+WSB,2020-21,210,Fairleigh Dickinson,11,21
+WSB,2020-21,211,Niagara,11,19
+WSB,2020-21,212,Texas A&M-Corpus Christi,18,30
+WSB,2020-21,213,UC Santa Barbara,15,31
+WSB,2020-21,214,UC San Diego,16,19
+WSB,2020-21,215,Pacific,14,14
+WSB,2020-21,216,Portland State,13,24
+WSB,2020-21,217,Loyola-Chicago,13,29
+WSB,2020-21,218,Grand Canyon,19,30
+WSB,2020-21,219,Tarleton,17,36
+WSB,2020-21,220,Maine,11,22
+WSB,2020-21,221,Utah State,14,30
+WSB,2020-21,222,Sacred Heart,15,23
+WSB,2020-21,223,Dixie State,19,30
+WSB,2020-21,224,Seton Hall,9,23
+WSB,2020-21,225,Abilene Christian,14,33
+WSB,2020-21,226,Southern Utah,20,30
+WSB,2020-21,227,Western Illinois,16,29
+WSB,2020-21,228,San Diego,12,28
+WSB,2020-21,229,Northern Illinois,19,37
+WSB,2020-21,230,Purdue Fort Wayne,12,27
+WSB,2020-21,231,East Tennessee State,15,22
+WSB,2020-21,232,San Jose State,9,23
+WSB,2020-21,233,Delaware State,11,20
+WSB,2020-21,234,North Dakota,17,33
+WSB,2020-21,235,Lamar,8,43
+WSB,2020-21,236,Hartford,6,13
+WSB,2020-21,237,Saint Mary's,13,24
+WSB,2020-21,238,IUPUI,14,31
+WSB,2020-21,239,Norfolk State,20,19
+WSB,2020-21,240,Cal Poly,13,22
+WSB,2020-21,241,UTEP,11,26
+WSB,2020-21,242,Western Michigan,15,37
+WSB,2020-21,243,Wagner,12,21
+WSB,2020-21,244,Penn State,7,34
+WSB,2020-21,245,Quinnipiac,8,28
+WSB,2020-21,246,Stetson,8,26
+WSB,2020-21,247,Santa Clara,8,20
+WSB,2020-21,248,Valparaiso,5,35
+WSB,2020-21,249,Nicholls State,12,28
+WSB,2020-21,250,Montana,17,30
+WSB,2020-21,251,Idaho State,12,27
+WSB,2020-21,252,Massachusetts,16,17
+WSB,2020-21,253,Rutgers,8,36
+WSB,2020-21,254,Alabama State,18,26
+WSB,2020-21,255,Sacramento State,15,27
+WSB,2020-21,256,Texas Southern,17,20
+WSB,2020-21,257,Incarnate Word,12,27
+WSB,2020-21,258,Presbyterian,13,19
+WSB,2020-21,259,Holy Cross,8,20
+WSB,2020-21,260,Charleston Southern,11,24
+WSB,2020-21,261,Morehead State,9,30
+WSB,2020-21,262,Bellarmine,6,31
+WSB,2020-21,263,Gardner-Webb,5,29
+WSB,2020-21,264,Tennessee State,9,33
+WSB,2020-21,265,Coppin State,6,25
+WSB,2020-21,266,Cleveland State,12,36
+WSB,2020-21,267,College of Charleston,6,35
+WSB,2020-21,268,South Dakota,13,38
+WSB,2020-21,269,Alcorn State,12,16
+WSB,2020-21,270,Northern Colorado,12,27
+WSB,2020-21,271,North Carolina Central,13,31
+WSB,2020-21,272,Jackson State,15,18
+WSB,2020-21,273,Akron,8,46
+WSB,2020-21,274,Lafayette,1,21
+WSB,2020-21,275,Dartmouth,1,2
+WSB,2020-21,276,Rhode Island,5,22
+WSB,2020-21,277,UC Riverside,7,26
+WSB,2020-21,278,Prairie View,16,16
+WSB,2020-21,279,Cal State Northridge,6,20
+WSB,2020-21,280,La Salle,0,30
+WSB,2020-21,281,Alabama A&M,9,19
+WSB,2020-21,282,Saint Peter's,2,28
+WSB,2020-21,283,St. Bonaventure,2,26
+WSB,2020-21,284,North Carolina A&T,11,31
+WSB,2020-21,285,Southern,11,25
+WSB,2020-21,286,Bryant,3,24
+WSB,2020-21,287,Grambling,10,18
+WSB,2020-21,288,Mississippi Valley State,4,21
+WSB,2020-21,289,Florida A&M,6,22
+WSB,2020-21,290,Arkansas-Pine Bluff,2,29
+WSB,2020-21,291,South Carolina State,4,27
+WSB,2020-21,292,Brown,0,1
+WSB,2020-21,293,Harvard,0,0
+WSB,2020-21,293,Cornell,0,0
+WSB,2020-21,293,Yale,0,0
+WSB,2020-21,293,CSU Bakersfield,0,0
+WSB,2020-21,293,Georgetown,0,0
+WSB,2020-21,293,Columbia,0,0

@@ -1,0 +1,299 @@
+Sport,Season,Team,W,L,Rank,Conf
+WSB,2019-20,Louisiana,16,6,1,Sun Belt
+WSB,2019-20,UCLA,25,1,2,Pac-12
+WSB,2019-20,Texas,24,3,3,Big 12
+WSB,2019-20,Washington,23,2,4,Pac-12
+WSB,2019-20,Florida,21,4,5,SEC
+WSB,2019-20,Arizona,21,3,6,Pac-12
+WSB,2019-20,UCF,19,5,7,AAC
+WSB,2019-20,Oklahoma St.,18,5,8,Big 12
+WSB,2019-20,Virginia Tech,19,4,9,ACC
+WSB,2019-20,Oregon,21,2,10,Pac-12
+WSB,2019-20,Duke,22,4,11,ACC
+WSB,2019-20,Fresno St.,21,4,12,Mountain West
+WSB,2019-20,Alabama,14,8,13,SEC
+WSB,2019-20,Oklahoma,20,4,14,Big 12
+WSB,2019-20,South Carolina,15,6,15,SEC
+WSB,2019-20,Missouri,19,6,16,SEC
+WSB,2019-20,Cal St. Fullerton,14,9,17,Big West
+WSB,2019-20,Michigan,15,8,18,Big Ten
+WSB,2019-20,LSU,20,3,19,SEC
+WSB,2019-20,Mississippi St.,24,3,20,SEC
+WSB,2019-20,Tennessee,14,8,21,SEC
+WSB,2019-20,Minnesota,14,9,22,Big Ten
+WSB,2019-20,Notre Dame,12,9,23,ACC
+WSB,2019-20,Arkansas,17,6,24,SEC
+WSB,2019-20,Utah,14,4,25,Pac-12
+WSB,2019-20,Troy,15,6,26,Sun Belt
+WSB,2019-20,Kentucky,18,4,27,SEC
+WSB,2019-20,Arizona St.,21,7,28,Pac-12
+WSB,2019-20,Florida St.,17,6,29,ACC
+WSB,2019-20,NC State,17,6,30,ACC
+WSB,2019-20,Western Ky.,20,4,31,C-USA
+WSB,2019-20,North Texas,18,5,32,C-USA
+WSB,2019-20,Georgia,22,5,33,SEC
+WSB,2019-20,Houston,16,5,34,AAC
+WSB,2019-20,Baylor,17,5,35,Big 12
+WSB,2019-20,McNeese,18,7,36,Southland
+WSB,2019-20,San Diego St.,17,11,37,Mountain West
+WSB,2019-20,Iowa,17,5,38,Big Ten
+WSB,2019-20,South Fla.,15,9,39,AAC
+WSB,2019-20,Northwestern,11,12,40,Big Ten
+WSB,2019-20,UNLV,21,5,41,Mountain West
+WSB,2019-20,BYU,14,9,42,WCC
+WSB,2019-20,Lipscomb,11,10,43,ASUN
+WSB,2019-20,Oregon St.,17,9,44,Pac-12
+WSB,2019-20,North Florida,11,6,45,ASUN
+WSB,2019-20,Auburn,14,11,46,SEC
+WSB,2019-20,Boston U.,13,7,47,Patriot
+WSB,2019-20,Eastern Ky.,20,2,48,OVC
+WSB,2019-20,Texas A&M,16,8,49,SEC
+WSB,2019-20,Kansas,13,11,50,Big 12
+WSB,2019-20,UConn,15,5,51,AAC
+WSB,2019-20,Indiana,9,9,52,Big Ten
+WSB,2019-20,James Madison,13,6,53,CAA
+WSB,2019-20,Kennesaw St.,21,4,54,ASUN
+WSB,2019-20,New Mexico St.,14,8,55,WAC
+WSB,2019-20,Liberty,10,13,56,ASUN
+WSB,2019-20,UT Arlington,11,13,57,Sun Belt
+WSB,2019-20,Hartford,6,4,58,America East
+WSB,2019-20,Long Beach St.,12,11,59,Big West
+WSB,2019-20,UAB,15,11,60,C-USA
+WSB,2019-20,Stanford,22,4,61,Pac-12
+WSB,2019-20,Louisville,10,13,62,ACC
+WSB,2019-20,Ohio St.,8,9,63,Big Ten
+WSB,2019-20,Jacksonville,15,10,64,ASUN
+WSB,2019-20,SFA,18,4,65,Southland
+WSB,2019-20,Seattle U,9,15,66,WAC
+WSB,2019-20,Illinois St.,11,11,67,MVC
+WSB,2019-20,Illinois,10,11,68,Big Ten
+WSB,2019-20,Tulsa,13,11,69,AAC
+WSB,2019-20,FGCU,18,7,70,ASUN
+WSB,2019-20,San Jose St.,21,5,71,Mountain West
+WSB,2019-20,Coastal Carolina,14,6,72,Sun Belt
+WSB,2019-20,Middle Tenn.,13,13,73,C-USA
+WSB,2019-20,Delaware,19,4,74,CAA
+WSB,2019-20,Clemson,18,8,75,ACC
+WSB,2019-20,Texas St.,15,8,76,Sun Belt
+WSB,2019-20,Texas Tech,16,9,77,Big 12
+WSB,2019-20,LMU (CA),12,10,78,WCC
+WSB,2019-20,Radford,11,3,79,Big South
+WSB,2019-20,South Dakota St.,13,7,80,Summit League
+WSB,2019-20,Ole Miss,12,13,81,SEC
+WSB,2019-20,UC Davis,15,12,82,Big West
+WSB,2019-20,SIUE,13,5,83,OVC
+WSB,2019-20,UNC Greensboro,13,7,84,SoCon
+WSB,2019-20,Georgia Tech,11,11,85,ACC
+WSB,2019-20,East Carolina,14,9,86,AAC
+WSB,2019-20,Wisconsin,14,10,87,Big Ten
+WSB,2019-20,Boise St.,14,11,88,Mountain West
+WSB,2019-20,UTSA,14,10,89,C-USA
+WSB,2019-20,Utah Valley,12,7,90,WAC
+WSB,2019-20,Pacific,15,9,91,WCC
+WSB,2019-20,Ball St.,18,9,92,MAC
+WSB,2019-20,Weber St.,10,14,93,Big Sky
+WSB,2019-20,UIC,9,11,94,Horizon
+WSB,2019-20,Villanova,14,13,95,Big East
+WSB,2019-20,Gardner-Webb,23,5,96,Big South
+WSB,2019-20,Iowa St.,11,13,97,Big 12
+WSB,2019-20,Hampton,15,4,98,Big South
+WSB,2019-20,Boston College,9,12,99,ACC
+WSB,2019-20,Marshall,18,6,100,C-USA
+WSB,2019-20,Stony Brook,10,4,101,America East
+WSB,2019-20,Nevada,10,14,102,Mountain West
+WSB,2019-20,Nebraska,9,14,103,Big Ten
+WSB,2019-20,Purdue,15,10,104,Big Ten
+WSB,2019-20,Maryland,12,11,105,Big Ten
+WSB,2019-20,Memphis,14,9,106,AAC
+WSB,2019-20,Sacramento St.,14,11,107,Big Sky
+WSB,2019-20,Miami (OH),12,7,108,MAC
+WSB,2019-20,FIU,8,9,109,C-USA
+WSB,2019-20,Jacksonville St.,11,9,110,OVC
+WSB,2019-20,Colorado St.,11,12,111,Mountain West
+WSB,2019-20,Bowling Green,11,6,112,MAC
+WSB,2019-20,CSUN,16,7,113,Big West
+WSB,2019-20,Dayton,6,12,114,Atlantic 10
+WSB,2019-20,California,13,11,115,Pac-12
+WSB,2019-20,LIU,11,12,116,NEC
+WSB,2019-20,Southern Ill.,15,6,117,MVC
+WSB,2019-20,Lehigh,7,7,118,Patriot
+WSB,2019-20,Butler,14,7,119,Big East
+WSB,2019-20,Colgate,12,8,120,Patriot
+WSB,2019-20,North Ala.,15,7,121,ASUN
+WSB,2019-20,Wichita St.,11,15,122,AAC
+WSB,2019-20,Cal Poly,10,13,123,Big West
+WSB,2019-20,Missouri St.,7,12,124,MVC
+WSB,2019-20,Bradley,14,9,125,MVC
+WSB,2019-20,Tennessee Tech,10,9,126,OVC
+WSB,2019-20,North Dakota St.,7,16,127,Summit League
+WSB,2019-20,Rutgers,9,14,128,Big Ten
+WSB,2019-20,Eastern Ill.,11,10,129,OVC
+WSB,2019-20,George Washington,8,13,130,Atlantic 10
+WSB,2019-20,Virginia,8,12,131,ACC
+WSB,2019-20,Ga. Southern,13,10,132,Sun Belt
+WSB,2019-20,Indiana St.,11,12,133,MVC
+WSB,2019-20,Toledo,9,9,134,MAC
+WSB,2019-20,Army,11,9,135,Patriot
+WSB,2019-20,Central Ark.,15,9,136,Southland
+WSB,2019-20,Montana,12,12,136,Big Sky
+WSB,2019-20,Longwood,8,11,138,Big South
+WSB,2019-20,Northwestern St.,15,7,138,Southland
+WSB,2019-20,South Alabama,8,16,140,Sun Belt
+WSB,2019-20,Southeastern La.,15,7,141,Southland
+WSB,2019-20,Youngstown St.,8,5,142,Horizon
+WSB,2019-20,ETSU,9,13,143,SoCon
+WSB,2019-20,Elon,11,10,144,CAA
+WSB,2019-20,Loyola Chicago,12,9,145,MVC
+WSB,2019-20,Syracuse,10,10,146,ACC
+WSB,2019-20,Southeast Mo. St.,12,5,147,OVC
+WSB,2019-20,San Diego,15,12,148,WCC
+WSB,2019-20,Utah St.,13,11,149,Mountain West
+WSB,2019-20,Charlotte,13,13,150,C-USA
+WSB,2019-20,UC Riverside,13,12,151,Big West
+WSB,2019-20,Nicholls St.,12,14,152,Southland
+WSB,2019-20,Columbia,5,5,153,Ivy League
+WSB,2019-20,Samford,9,15,154,SoCon
+WSB,2019-20,Kent St.,9,10,155,MAC
+WSB,2019-20,UNI,7,14,156,MVC
+WSB,2019-20,USC Upstate,16,6,157,Big South
+WSB,2019-20,Canisius,8,9,158,MAAC
+WSB,2019-20,Murray St.,12,10,158,OVC
+WSB,2019-20,La.-Monroe,10,13,160,Sun Belt
+WSB,2019-20,Ohio,9,15,161,MAC
+WSB,2019-20,Kansas City,6,13,162,WAC
+WSB,2019-20,Mercer,10,16,163,SoCon
+WSB,2019-20,Saint Mary's (CA),7,17,164,WCC
+WSB,2019-20,Presbyterian,16,7,165,Big South
+WSB,2019-20,Monmouth,11,9,166,MAAC
+WSB,2019-20,A&M-Corpus; Christi,6,16,167,Southland
+WSB,2019-20,Hawaii,9,13,168,Big West
+WSB,2019-20,Sam Houston St.,9,15,169,Southland
+WSB,2019-20,Valparaiso,9,10,170,MVC
+WSB,2019-20,Col. of Charleston,10,9,171,CAA
+WSB,2019-20,Pittsburgh,7,11,172,ACC
+WSB,2019-20,Lamar University,8,12,173,Southland
+WSB,2019-20,Evansville,11,11,174,MVC
+WSB,2019-20,Omaha,12,12,175,Summit League
+WSB,2019-20,Furman,7,17,176,SoCon
+WSB,2019-20,Dartmouth,4,6,177,Ivy League
+WSB,2019-20,Southern Miss.,14,7,178,C-USA
+WSB,2019-20,St. John's (NY),7,15,179,Big East
+WSB,2019-20,Towson,8,7,180,CAA
+WSB,2019-20,North Carolina,9,13,181,ACC
+WSB,2019-20,Wright St.,7,11,182,Horizon
+WSB,2019-20,Penn St.,11,14,183,Big Ten
+WSB,2019-20,Princeton,4,4,184,Ivy League
+WSB,2019-20,Creighton,11,10,185,Big East
+WSB,2019-20,UC Santa Barbara,12,15,186,Big West
+WSB,2019-20,UT Martin,12,10,187,OVC
+WSB,2019-20,Appalachian St.,12,9,188,Sun Belt
+WSB,2019-20,DePaul,8,12,189,Big East
+WSB,2019-20,Portland St.,6,17,190,Big Sky
+WSB,2019-20,Central Mich.,4,11,191,MAC
+WSB,2019-20,Idaho St.,7,14,192,Big Sky
+WSB,2019-20,Bucknell,8,10,193,Patriot
+WSB,2019-20,Stetson,11,14,194,ASUN
+WSB,2019-20,California Baptist,10,14,195,WAC
+WSB,2019-20,Northern Ky.,9,9,196,Horizon
+WSB,2019-20,Marist,10,9,197,MAAC
+WSB,2019-20,Abilene Christian,7,17,198,Southland
+WSB,2019-20,Southern Utah,5,14,199,Big Sky
+WSB,2019-20,Western Caro.,3,11,200,SoCon
+WSB,2019-20,Campbell,10,14,201,Big South
+WSB,2019-20,Fla. Atlantic,7,13,202,C-USA
+WSB,2019-20,Saint Joseph's,4,10,203,Atlantic 10
+WSB,2019-20,Seton Hall,10,13,204,Big East
+WSB,2019-20,Houston Baptist,12,10,205,Southland
+WSB,2019-20,Oakland,7,11,206,Horizon
+WSB,2019-20,Massachusetts,4,7,207,Atlantic 10
+WSB,2019-20,New Mexico,11,14,208,Mountain West
+WSB,2019-20,Georgia St.,7,15,209,Sun Belt
+WSB,2019-20,Georgetown,8,15,210,Big East
+WSB,2019-20,Robert Morris,8,11,211,NEC
+WSB,2019-20,Santa Clara,8,16,212,WCC
+WSB,2019-20,Sacred Heart,8,8,213,NEC
+WSB,2019-20,Belmont,5,13,214,OVC
+WSB,2019-20,Fordham,7,13,215,Atlantic 10
+WSB,2019-20,Austin Peay,9,12,216,OVC
+WSB,2019-20,South Dakota,11,15,217,Summit League
+WSB,2019-20,UMass Lowell,6,9,218,America East
+WSB,2019-20,Siena,1,8,219,MAAC
+WSB,2019-20,Albany (NY),6,5,220,America East
+WSB,2019-20,Texas Southern,6,13,221,SWAC
+WSB,2019-20,Drake,8,16,222,MVC
+WSB,2019-20,Louisiana Tech,8,16,223,C-USA
+WSB,2019-20,Green Bay,4,15,224,Horizon
+WSB,2019-20,Fairfield,3,9,225,MAAC
+WSB,2019-20,Akron,6,19,226,MAC
+WSB,2019-20,Bryant,3,10,227,NEC
+WSB,2019-20,Charleston So.,10,9,228,Big South
+WSB,2019-20,Alabama St.,10,14,229,SWAC
+WSB,2019-20,Purdue Fort Wayne,3,18,230,Summit League
+WSB,2019-20,Penn,7,5,231,Ivy League
+WSB,2019-20,Wagner,3,6,232,NEC
+WSB,2019-20,Iona,2,6,233,MAAC
+WSB,2019-20,Saint Francis (PA),5,18,234,NEC
+WSB,2019-20,North Dakota,7,17,235,Summit League
+WSB,2019-20,Rhode Island,4,14,236,Atlantic 10
+WSB,2019-20,Binghamton,3,12,237,America East
+WSB,2019-20,Chattanooga,6,14,238,SoCon
+WSB,2019-20,Northern Colo.,10,15,239,Big Sky
+WSB,2019-20,Cleveland St.,6,9,240,Horizon
+WSB,2019-20,Saint Louis,6,13,241,Atlantic 10
+WSB,2019-20,Grand Canyon,5,20,242,WAC
+WSB,2019-20,Yale,5,10,243,Ivy League
+WSB,2019-20,Winthrop,12,10,244,Big South
+WSB,2019-20,Manhattan,6,6,245,MAAC
+WSB,2019-20,Tennessee St.,7,9,246,OVC
+WSB,2019-20,George Mason,7,11,247,Atlantic 10
+WSB,2019-20,UNCW,7,16,248,CAA
+WSB,2019-20,Southern U.,3,9,249,SWAC
+WSB,2019-20,Drexel,4,6,250,CAA
+WSB,2019-20,UTEP,5,17,251,C-USA
+WSB,2019-20,Providence,6,9,252,Big East
+WSB,2019-20,Brown,1,9,253,Ivy League
+WSB,2019-20,Northern Ill.,7,13,254,MAC
+WSB,2019-20,IUPUI,5,15,255,Horizon
+WSB,2019-20,Michigan St.,6,16,256,Big Ten
+WSB,2019-20,Norfolk St.,6,12,257,MEAC
+WSB,2019-20,Morgan St.,5,11,258,MEAC
+WSB,2019-20,Mount St. Mary's,2,17,259,NEC
+WSB,2019-20,Florida A&M;,3,16,260,MEAC
+WSB,2019-20,Prairie View,5,11,261,SWAC
+WSB,2019-20,Cornell,4,5,262,Ivy League
+WSB,2019-20,Bethune-Cookman,4,25,263,MEAC
+WSB,2019-20,UIW,8,15,264,Southland
+WSB,2019-20,Lafayette,1,11,265,Patriot
+WSB,2019-20,Niagara,2,3,266,MAAC
+WSB,2019-20,Detroit Mercy,2,21,267,Horizon
+WSB,2019-20,UMBC,5,9,268,America East
+WSB,2019-20,Western Ill.,6,13,269,Summit League
+WSB,2019-20,CSU Bakersfield,1,13,270,WAC
+WSB,2019-20,Hofstra,3,14,271,CAA
+WSB,2019-20,N.C. A&T;,4,19,272,MEAC
+WSB,2019-20,Western Mich.,5,16,273,MAC
+WSB,2019-20,Alcorn,1,18,274,SWAC
+WSB,2019-20,Holy Cross,2,9,275,Patriot
+WSB,2019-20,Quinnipiac,1,8,276,MAAC
+WSB,2019-20,Harvard,2,8,277,Ivy League
+WSB,2019-20,Central Conn. St.,1,3,278,NEC
+WSB,2019-20,Howard,2,20,279,MEAC
+WSB,2019-20,N.C. Central,1,13,280,MEAC
+WSB,2019-20,Mississippi Val.,3,16,281,SWAC
+WSB,2019-20,Jackson St.,2,15,282,SWAC
+WSB,2019-20,UMES,3,17,283,MEAC
+WSB,2019-20,Maine,2,7,284,America East
+WSB,2019-20,Rider,1,12,285,MAAC
+WSB,2019-20,Alabama A&M;,0,10,286,SWAC
+WSB,2019-20,Ark.-Pine Bluff,1,15,287,SWAC
+WSB,2019-20,Grambling,3,15,288,SWAC
+WSB,2019-20,Morehead St.,4,8,289,OVC
+WSB,2019-20,Delaware St.,1,20,290,MEAC
+WSB,2019-20,Fairleigh Dickinson,4,11,291,NEC
+WSB,2019-20,South Carolina St.,0,10,292,MEAC
+WSB,2019-20,Buffalo,2,11,293,MAC
+WSB,2019-20,Merrimack,2,9,294,NEC
+WSB,2019-20,La Salle,0,10,295,Atlantic 10
+WSB,2019-20,Saint Peter's,1,9,296,MAAC
+WSB,2019-20,St. Bonaventure,2,7,297,Atlantic 10
+WSB,2019-20,Coppin St.,1,6,298,MEAC

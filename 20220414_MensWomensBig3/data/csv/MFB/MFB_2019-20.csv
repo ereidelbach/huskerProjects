@@ -1,0 +1,131 @@
+Sport,Season,Rank,Team,W,L
+MFB,2019-20,1,Ohio State Buckeyes,13,1
+MFB,2019-20,2,Clemson Tigers,14,1
+MFB,2019-20,3,LSU Tigers,15,0
+MFB,2019-20,4,Alabama Crimson Tide,11,2
+MFB,2019-20,5,Georgia Bulldogs,12,2
+MFB,2019-20,6,Oregon Ducks,12,2
+MFB,2019-20,7,Penn State Nittany Lions,11,2
+MFB,2019-20,8,Wisconsin Badgers,10,4
+MFB,2019-20,9,Florida Gators,11,2
+MFB,2019-20,10,Auburn Tigers,9,4
+MFB,2019-20,50,Notre Dame Fighting Irish,11,2
+MFB,2019-20,12,Michigan Wolverines,9,4
+MFB,2019-20,13,Oklahoma Sooners,12,2
+MFB,2019-20,14,Utah Utes,11,3
+MFB,2019-20,15,Iowa Hawkeyes,10,3
+MFB,2019-20,16,Washington Huskies,8,5
+MFB,2019-20,17,Baylor Bears,11,3
+MFB,2019-20,18,Minnesota Golden Gophers,11,2
+MFB,2019-20,19,Texas A&M Aggies,8,5
+MFB,2019-20,20,Texas Longhorns,8,5
+MFB,2019-20,21,UCF Knights,10,3
+MFB,2019-20,22,Iowa State Cyclones,7,6
+MFB,2019-20,23,USC Trojans,8,5
+MFB,2019-20,24,Memphis Tigers,12,2
+MFB,2019-20,25,Kentucky Wildcats,8,5
+MFB,2019-20,26,Oklahoma State Cowboys,8,5
+MFB,2019-20,27,North Carolina Tar Heels,7,6
+MFB,2019-20,28,Boise State Broncos,12,2
+MFB,2019-20,29,Appalachian State Mountaineers,13,1
+MFB,2019-20,30,Cincinnati Bearcats,11,3
+MFB,2019-20,31,Washington State Cougars,6,7
+MFB,2019-20,32,Missouri Tigers,6,6
+MFB,2019-20,33,Tennessee Volunteers,8,5
+MFB,2019-20,34,Kansas State Wildcats,8,5
+MFB,2019-20,35,Michigan State Spartans,7,6
+MFB,2019-20,36,Indiana Hoosiers,8,5
+MFB,2019-20,37,TCU Horned Frogs,5,7
+MFB,2019-20,38,Air Force Falcons,11,2
+MFB,2019-20,39,Mississippi State Bulldogs,6,7
+MFB,2019-20,40,Navy Midshipmen,11,2
+MFB,2019-20,41,South Carolina Gamecocks,4,8
+MFB,2019-20,42,Virginia Cavaliers,9,5
+MFB,2019-20,43,Arizona State Sun Devils,8,5
+MFB,2019-20,44,Louisiana Ragin' Cajuns,11,3
+MFB,2019-20,45,Miami Hurricanes,6,7
+MFB,2019-20,46,Ole Miss Rebels,4,8
+MFB,2019-20,47,Nebraska Cornhuskers,5,7
+MFB,2019-20,48,Virginia Tech Hokies,8,5
+MFB,2019-20,49,SMU Mustangs,10,3
+MFB,2019-20,50,Florida Atlantic Owls,11,3
+MFB,2019-20,51,Florida State Seminoles,6,7
+MFB,2019-20,52,California Golden Bears,8,5
+MFB,2019-20,53,Wake Forest Demon Deacons,8,5
+MFB,2019-20,54,Louisville Cardinals,8,5
+MFB,2019-20,55,Tulane Green Wave,7,6
+MFB,2019-20,56,Texas Tech Red Raiders,4,8
+MFB,2019-20,57,BYU Cougars,7,6
+MFB,2019-20,58,UCLA Bruins,4,8
+MFB,2019-20,59,Stanford Cardinal,4,8
+MFB,2019-20,60,Oregon State Beavers,5,7
+MFB,2019-20,61,Pittsburgh Panthers,8,5
+MFB,2019-20,62,San Diego State Aztecs,10,3
+MFB,2019-20,63,Purdue Boilermakers,4,8
+MFB,2019-20,64,Duke Blue Devils,5,7
+MFB,2019-20,65,Illinois Fighting Illini,6,7
+MFB,2019-20,66,Wyoming Cowboys,8,5
+MFB,2019-20,67,Western Michigan Broncos,7,6
+MFB,2019-20,68,West Virginia Mountaineers,5,7
+MFB,2019-20,69,Boston College Eagles,6,7
+MFB,2019-20,70,Colorado Buffaloes,5,7
+MFB,2019-20,71,Syracuse Orange,5,7
+MFB,2019-20,72,Arizona Wildcats,4,8
+MFB,2019-20,73,Northwestern Wildcats,3,9
+MFB,2019-20,74,Western Kentucky Hilltoppers,9,4
+MFB,2019-20,75,Hawai'i Rainbow Warriors,10,5
+MFB,2019-20,76,Houston Cougars,4,8
+MFB,2019-20,77,Ohio Bobcats,7,6
+MFB,2019-20,78,Louisiana Tech Bulldogs,10,3
+MFB,2019-20,79,Utah State Aggies,7,6
+MFB,2019-20,80,Buffalo Bulls,8,5
+MFB,2019-20,81,Fresno State Bulldogs,4,8
+MFB,2019-20,82,Tulsa Golden Hurricane,4,8
+MFB,2019-20,83,Marshall Thundering Herd,8,5
+MFB,2019-20,84,Army Black Knights,5,8
+MFB,2019-20,85,Temple Owls,8,5
+MFB,2019-20,86,Southern Mississippi Golden Eagles,7,6
+MFB,2019-20,87,Georgia Southern Eagles,7,6
+MFB,2019-20,88,Ball State Cardinals,5,7
+MFB,2019-20,89,Maryland Terrapins,3,9
+MFB,2019-20,90,Arkansas State Red Wolves,8,5
+MFB,2019-20,91,Arkansas Razorbacks,2,10
+MFB,2019-20,92,NC State Wolfpack,4,8
+MFB,2019-20,93,Central Michigan Chippewas,8,6
+MFB,2019-20,94,Vanderbilt Commodores,3,9
+MFB,2019-20,95,South Florida Bulls,4,8
+MFB,2019-20,96,Kent State Golden Flashes,7,6
+MFB,2019-20,97,Liberty Flames,8,5
+MFB,2019-20,98,Eastern Michigan Eagles,6,7
+MFB,2019-20,99,Miami (OH) RedHawks,8,6
+MFB,2019-20,100,Middle Tennessee Blue Raiders,4,8
+MFB,2019-20,101,Troy Trojans,5,7
+MFB,2019-20,102,Florida International Panthers,6,7
+MFB,2019-20,103,San José St Spartans,5,7
+MFB,2019-20,104,UAB Blazers,9,5
+MFB,2019-20,105,Colorado State Rams,4,8
+MFB,2019-20,106,Kansas Jayhawks,3,9
+MFB,2019-20,107,Northern Illinois Huskies,5,7
+MFB,2019-20,108,Toledo Rockets,6,6
+MFB,2019-20,109,North Texas Mean Green,4,8
+MFB,2019-20,110,Georgia Tech Yellow Jackets,3,9
+MFB,2019-20,111,UL Monroe Warhawks,5,7
+MFB,2019-20,112,Georgia State Panthers,7,6
+MFB,2019-20,113,Charlotte 49ers,7,6
+MFB,2019-20,114,Coastal Carolina Chanticleers,5,7
+MFB,2019-20,115,East Carolina Pirates,4,8
+MFB,2019-20,116,Nevada Wolf Pack,7,6
+MFB,2019-20,117,UNLV Rebels,4,8
+MFB,2019-20,118,Rutgers Scarlet Knights,2,10
+MFB,2019-20,119,Rice Owls,3,9
+MFB,2019-20,120,Texas State Bobcats,3,9
+MFB,2019-20,121,New Mexico Lobos,2,10
+MFB,2019-20,122,South Alabama Jaguars,2,10
+MFB,2019-20,123,UTSA Roadrunners,4,8
+MFB,2019-20,124,Old Dominion Monarchs,1,11
+MFB,2019-20,125,New Mexico State Aggies,2,10
+MFB,2019-20,126,UConn Huskies,2,10
+MFB,2019-20,127,Bowling Green Falcons,3,9
+MFB,2019-20,128,UTEP Miners,1,11
+MFB,2019-20,129,Akron Zips,0,12
+MFB,2019-20,130,UMass Minutemen,1,11

@@ -30,8 +30,7 @@ Women's Softball	2002
 https://www.espn.com/college-football/fpi/_/season/2005
 https://web1.ncaa.org/app_data/weeklyrpi/2006WVBrpi1.html
 https://web1.ncaa.org/app_data/weeklyrpi/2007WBBrpi1.html
-https://web1.ncaa.org/app_data/weeklyrpi/2007WSBrpi8.html
-https://web1.ncaa.org/app_data/weeklyrpi/2007MBBrpi2.html
+https://web1.ncaa.org/app_data/weeklyrpi/2007WSBrpi1.html
 https://web1.ncaa.org/app_data/weeklyrpi/2007MBArpi1.html
 https://web1.ncaa.org/app_data/weeklyrpi/2005MBBrpi1.html
 http://www.boydsworld.com/data/standings/standings2009.html

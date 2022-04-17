@@ -1,84 +1,55 @@
-College Football Analysis
+Analyzing Husker Men vs. Women
 ==============================
 
-![Project Logo](https://github.com/ereidelbach/Images/blob/master/CFB%20Logo.png?raw=true)
+<img src="https://github.com/ereidelbach/Images/blob/master/huskerProjects.jpg?raw=true" width="336" height="500" />
 
 # Project Description
 
-The overall goal of this project is to collect College Football data from a variety of sources on the web and to subsequently use it for a variety of analytical pursuits.
+On Thursday, 14 April 2022, [Sharp and Benning in the Morning](https://mobile.twitter.com/sharpandbenning) referenced a tweet from [Kaleb Henry](https://mobile.twitter.com/iKalebHenry) highlighting the gap in performance between the Big 3 Women's sports (Basketball/Softball/Volleyball) at Nebraska as compared to the Big 3 Men's sports (Baseball/Basketball/Football).
 
-Project functions are written in a manner than will facilitate the continuous collection of data throughout a season (i.e. every week).
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">UPDATE: <a href="https://twitter.com/hashtag/Huskers?src=hash&amp;ref_src=twsrc%5Etfw">#Huskers</a> men’s and women’s big three sports this year so far:<br><br>Football/Men’s Basketball/Baseball<br>25-49 .338<br><br>Volleyball/Women’s Basketball/Softball<br>80-26 .755 <a href="https://t.co/pSdUPacxaO">https://t.co/pSdUPacxaO</a></p>&mdash; Kaleb Henry (@iKalebHenry) <a href="https://twitter.com/iKalebHenry/status/1514230181464002560?ref_src=twsrc%5Etfw">April 13, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+The goal of this analysis is to look across all of NCAA Division I athletics to see how Nebraska's 2021-22 performance compares to other Universities extending as far back as the data allows.
+
+
 
 ------------
 
 # Links
 
-1. ESPN CF Statistics: [Link][1]
-2. NCAA Statistics: [Link][2]
-3. CFB Stats: [Link][3]
-4. Sports Reference: [Link][4]
-5. USA Today Coaching Salaries [Link][5]
-6. Betting Odds: [Link][6]
-7. Team Colors: [Link][7]
+1. NCAA Men's Football FPI Standings: [Link][1]
+2. NCAA Men's Baseball RPI: [Link][2]
+3. NCAA Men's Basketball RPI: [Link][3]
+4. NCAA Women's Basketball Record Books: [Link][4]
+5. NCAA Women's Softball Record Books: [Link][5]
+6. NCAA Women's Volleyball Record Books: [Link][6]
+7. NCAA RPI Archive [Link][7]
+8. Sports Reference: [Link][8]
+9. Team Colors: [Link][9]
 
-  [1]: http://www.espn.com/college-football/statistics
-  [2]: https://www.ncaa.com/stats/football/fbs
-  [3]: http://www.cfbstats.com
-  [4]: https://www.sports-reference.com/cfb/
-  [5]: http://sports.usatoday.com/ncaa/salaries/
-  [6]: http://www.drwagpicks.com/p/blog-page.html
-  [7]: https://teamcolorcodes.com/premier-league-color-codes/
+  [1]: https://www.espn.com/college-football/fpi/_/season/2005
+  [2]: https://web1.ncaa.org/app_data/weeklyrpi/2007MBArpi1.html
+  [3]: https://web1.ncaa.org/app_data/weeklyrpi/2005MBBrpi1.html
+  [4]: https://web1.ncaa.org/app_data/weeklyrpi/2007WBBrpi1.html
+  [5]: https://web1.ncaa.org/app_data/weeklyrpi/2007WSBrpi1.html
+  [6]: https://web1.ncaa.org/app_data/weeklyrpi/2006WVBrpi1.html
+  [7]: http://s3.amazonaws.com/ncaa/files/rpiarchive/list.html 
+  [8]: https://www.sports-reference.com/cfb/
+  [9]: https://teamcolorcodes.com/premier-league-color-codes/
 
 
 # Project Organization
 ------------
-
     ├── LICENSE
-    ├── Makefile           <- Makefile with commands like `make data` or `make train`
-    ├── README.md          <- The top-level README for developers using this project.
-    ├── data
-    │   ├── external       <- Data from third party sources.
-    │   ├── interim        <- Intermediate data that has been transformed.
-    │   ├── processed      <- The final, canonical data sets for modeling.
-    │   └── raw            <- The original, immutable data dump.
-    │
-    ├── docs               <- A default Sphinx project; see sphinx-doc.org for details
-    │
-    ├── models             <- Trained and serialized models, model predictions, or model summaries
-    │
-    ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
-    │                         the creator's initials, and a short `-` delimited description, e.g.
-    │                         `1.0-jqp-initial-data-exploration`.
-    │
-    ├── references         <- Data dictionaries, manuals, and all other explanatory materials.
-    │
-    ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
-    │   └── figures        <- Generated graphics and figures to be used in reporting
-    │
-    ├── requirements.txt   <- The requirements file for reproducing the analysis environment, e.g.
-    │                         generated with `pip freeze > requirements.txt`
-    │
-    ├── setup.py           <- makes project pip installable (pip install -e .) so src can be imported
-    ├── src                <- Source code for use in this project.
-    │   ├── __init__.py    <- Makes src a Python module
-    │   │
-    │   ├── data           <- Scripts to download or generate data
-    │   │   └── make_dataset.py
-    │   │
-    │   ├── features       <- Scripts to turn raw data into features for modeling
-    │   │   └── build_features.py
-    │   │
-    │   ├── models         <- Scripts to train models and then use trained models to make
-    │   │   │                 predictions
-    │   │   ├── predict_model.py
-    │   │   └── train_model.py
-    │   │
-    │   └── visualization  <- Scripts to create exploratory and results oriented visualizations
-    │       └── visualize.py
-    │
-    └── tox.ini            <- tox file with settings for running tox; see tox.testrun.org
-
-
+    ├── README.md		<- The top-level README for developers using this project.
+    ├── references		<- Data dictionaries, manuals, and all other explanatory materials.
+	│	├── reports			<- Generated analysis as HTML, PDF, LaTeX, etc.
+    │	└── figures			<- Generated graphics and figures to be used in reporting
+    ├── src				<- Source code for use in this project.
+    │	├── __init__.py		<- Makes src a Python module
+    └── data			<- Data from third party sources.
+		├── csv				<- The final, canonical data sets for each year/sport combination
+		└── pdf				<- Historical records downloaded from the NCAA archives
 --------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>

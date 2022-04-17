@@ -77,10 +77,10 @@ def renameSchool(df, name_var):
     -------
         list(row)[0] : string
             Standardized version of the school's name based on the first value
-            in the row in the file `school_abbreviations.csv`
+            in the row in the file `school_abbreviations_and_pictures.csv`
     '''  
     # read in school name information
-    df_school_names = pd.read_csv('data/school_abbreviations_and_pictures.csv')
+    df_school_names = pd.read_csv('references/school_abbreviations_and_pictures.csv')
      
     # convert the dataframe to a dictionary such that the keys are the
     #   optional spelling of each school and the value is the standardized
@@ -705,7 +705,7 @@ def scrapeSportsResults(sport):
 #==============================================================================
 
 # # Set the project working directory
-path_dir = pathlib.Path(r'C:\Users\reideej1\Projects\a_Personal\collegeSportsMenWomen')
+path_dir = pathlib.Path(r'huskerProjects\20220414_MensWomensBig3')
 os.chdir(path_dir)
 
 # # Scrape NCAA Men's Baseball

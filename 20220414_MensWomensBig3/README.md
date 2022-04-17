@@ -1,8 +1,6 @@
 Analyzing Husker Men vs. Women
 ==============================
 
-<img src="https://github.com/ereidelbach/Images/blob/master/huskerProjects.jpg?raw=true" width="336" height="500" />
-
 # Project Description
 
 On Thursday, 14 April 2022, [Sharp and Benning in the Morning](https://mobile.twitter.com/sharpandbenning) referenced a tweet from [Kaleb Henry](https://mobile.twitter.com/iKalebHenry) highlighting the gap in performance between the Big 3 Women's sports (Basketball/Softball/Volleyball) at Nebraska as compared to the Big 3 Men's sports (Baseball/Basketball/Football).

@@ -5,7 +5,7 @@ Husker Athletics Analysis Projects
 
 # Project Description
 
-The overall goal of this project is to serve as a home for random analytic pursuits concerning all things Nebraska Cornhuskers athletics.
+The overall goal of this project is to serve as a home for random analytic pursuits concerning all things related to Nebraska Cornhuskers athletics.
 
 Project folders will be named by date to assist with organizing sub-projects throughout the year(s).
 

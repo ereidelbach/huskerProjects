@@ -309,3 +309,16 @@ df.to_csv('data/teams_2006_to_2022.csv', index = False)
 #              'diff_win_pct', 'diff_win_pct_rank', 'diff_win_pct_abs_rank', 
 #              'diff_win_pct_avg', 'diff_win_pct_avg_rank', 'diff_win_pct_avg_abs_rank', 
 #              'diff_rpi_avg', 'diff_rpi_avg_rank', 'diff_rpi_avg_abs_rank']]
+
+# Subset the data into a new DataFrame that's easier to understand
+df_print = df[['season', 'team', 'win_pct_men', 'win_pct_women', 
+               'diff_win_pct', 'win_pct_avg_men', 'win_pct_avg_women', 
+               'rank_diff_win_pct', 'rank_diff_win_pct_abs', 
+               'diff_win_pct_avg', 'rank_diff_win_pct_avg', 'rank_diff_win_pct_avg_abs']]
+df_print = df_print.assign(diff_win_pct_abs = abs(df_print['diff_win_pct']))
+df_print = df_print.assign(diff_win_pct_avg_abs = abs(df_print['diff_win_pct_avg']))
+df_print = df_print[['season', 'team', 'win_pct_men', 'win_pct_women', 
+               'diff_win_pct_abs', 'rank_diff_win_pct_abs', 
+               'win_pct_avg_men', 'win_pct_avg_women',
+               'diff_win_pct_avg_abs', 'rank_diff_win_pct_avg_abs']]
+df_print.to_csv(r'data/teams_2006_to_2022_summary.csv', index = False)

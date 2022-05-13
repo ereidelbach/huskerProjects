@@ -202,7 +202,8 @@ def mergeAllData():
 #==============================================================================
 
 # Set the project working directory
-path_dir = pathlib.Path(r'huskerProjects\20220414_MensWomensBig3')
+path_dir = pathlib.Path(
+    r'C:\Users\reideej1\Projects\a_Personal\huskerProjects\20220414_MensWomensBig3')
 os.chdir(path_dir)
 
 # Roll up all local data
@@ -313,12 +314,16 @@ df.to_csv('data/teams_2006_to_2022.csv', index = False)
 # Subset the data into a new DataFrame that's easier to understand
 df_print = df[['season', 'team', 'win_pct_men', 'win_pct_women', 
                'diff_win_pct', 'win_pct_avg_men', 'win_pct_avg_women', 
+               'rank_win_pct_men', 'rank_win_pct_women', 
+               'rank_win_pct_avg_men', 'rank_win_pct_avg_women',
                'rank_diff_win_pct', 'rank_diff_win_pct_abs', 
                'diff_win_pct_avg', 'rank_diff_win_pct_avg', 'rank_diff_win_pct_avg_abs']]
 df_print = df_print.assign(diff_win_pct_abs = abs(df_print['diff_win_pct']))
 df_print = df_print.assign(diff_win_pct_avg_abs = abs(df_print['diff_win_pct_avg']))
-df_print = df_print[['season', 'team', 'win_pct_men', 'win_pct_women', 
-               'diff_win_pct_abs', 'rank_diff_win_pct_abs', 
-               'win_pct_avg_men', 'win_pct_avg_women',
-               'diff_win_pct_avg_abs', 'rank_diff_win_pct_avg_abs']]
+df_print = df_print[['season', 'team', 'win_pct_men', 'rank_win_pct_men', 
+                     'win_pct_women', 'rank_win_pct_women', 
+                     'diff_win_pct_abs', 'rank_diff_win_pct_abs', 
+                     'win_pct_avg_men', 'rank_win_pct_avg_men', 
+                     'win_pct_avg_women', 'rank_win_pct_avg_women',
+                     'diff_win_pct_avg_abs', 'rank_diff_win_pct_avg_abs']]
 df_print.to_csv(r'data/teams_2006_to_2022_summary.csv', index = False)

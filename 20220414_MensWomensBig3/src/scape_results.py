@@ -705,7 +705,8 @@ def scrapeSportsResults(sport):
 #==============================================================================
 
 # # Set the project working directory
-path_dir = pathlib.Path(r'huskerProjects\20220414_MensWomensBig3')
+path_dir = pathlib.Path(
+    r'C:\Users\reideej1\Projects\a_Personal\huskerProjects\20220414_MensWomensBig3')
 os.chdir(path_dir)
 
 # # Scrape NCAA Men's Baseball

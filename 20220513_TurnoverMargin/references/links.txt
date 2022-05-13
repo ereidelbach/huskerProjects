@@ -1,0 +1,14 @@
+Nebraska	https://huskers.com/sports/football/roster
+Illinois	https://fightingillini.com/sports/football/roster
+Indiana		https://iuhoosiers.com/sports/football/roster
+Iowa		https://hawkeyesports.com/sports/football/roster/
+Maryland	https://umterps.com/sports/football/roster
+Michigan	https://mgoblue.com/sports/football/roster
+Michigan St.	https://msuspartans.com/sports/football/roster
+Minnesota	https://gophersports.com/sports/football/roster
+Northwestern	https://nusports.com/sports/football/roster
+Ohio State	https://ohiostatebuckeyes.com/sports/m-footbl/roster/
+Penn St.	https://gopsusports.com/sports/football/roster
+Purdue		https://purduesports.com/sports/football/roster
+Rutgers		https://scarletknights.com/sports/football/roster
+Wisconsin	https://uwbadgers.com/sports/football/roster
